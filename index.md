@@ -35,10 +35,6 @@ title: Home
   <i class="bi bi-shield-plus"></i>
   Alkitabiah.org
 </a>
-<a href="https://diselamatkan.org" class="btn" target="_blank">
-  <i class="bi bi-check"></i>
-  mau.diselamatkan.org
-</a>
 <a href="/docs/" class="btn">
   <i class="bi bi-journal-text"></i>
   Documentation
