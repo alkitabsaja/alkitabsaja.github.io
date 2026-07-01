@@ -11,24 +11,36 @@ title: Home
 
 {{ site.description }}
 
-<a href="https://whatsapp.com/channel/0029VaG4wt66GcGJtG6TMN0p" class="btn" target="_blank">
-  <i class="bi bi-whatsapp"></i>
-  WhatsApp
-</a>
 
-<a href="https://t.me/addlist/Qt557gGoAsIwZDI1" class="btn" target="_blank">
-  <i class="bi bi-telegram"></i>
-  Telegram
-</a>
+<div class="social-row">
+  <a href="https://whatsapp.com/channel/0029VaG4wt66GcGJtG6TMN0p" target="_blank" title="WhatsApp">
+    <i class="bi bi-whatsapp"></i>
+  </a>
+  <a href="https://t.me/addlist/Qt557gGoAsIwZDI1" target="_blank" title="Telegram">
+    <i class="bi bi-telegram"></i>
+  </a>
+  <a href="https://instagram.com/alkitabsaja" target="_blank" title="Instagram">
+    <i class="bi bi-instagram"></i>
+  </a>
+  <a href="https://facebook.com/alkitabsaja" target="_blank" title="Facebook">
+    <i class="bi bi-facebook"></i>
+  </a>
+  <a href="https://youtube.com/@alkitabsaja" target="_blank" title="YouTube">
+    <i class="bi bi-youtube"></i>
+  </a>
+  <a href="https://twitter.com/alkitabsaja" target="_blank" title="X">
+    <i class="bi bi-twitter-x"></i>
+  </a>
+</div>
 
-<a href="https://instagram.com/alkitabsaja" class="btn" target="_blank">
+<a href="https://alkitabiah.org" class="btn" target="_blank">
   <i class="bi bi-instagram"></i>
-  Instagram
+  Alkitabiah.org
 </a>
 
-<a href="https://facebook.com/alkitabsaja" class="btn" target="_blank">
+<a href="https://diselamatkan.org" class="btn" target="_blank">
   <i class="bi bi-facebook"></i>
-  Facebook
+  mau.diselamatkan.org
 </a>
 
 <a href="/docs/" class="btn">
