@@ -7,7 +7,7 @@
   {% if site.favicon %}<link rel="icon" href="{{ site.favicon | relative_url }}">{% endif %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <style>
-    .video-wrap {
+.video-wrap {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
@@ -23,6 +23,36 @@
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.social-row {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin: 28px 0 32px;
+  flex-wrap: wrap;
+}
+.social-row a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-muted);
+  text-decoration: none;
+  transition: all .2s;
+}
+.social-row a:hover {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: var(--text);
+  transform: translateY(-2px);
+}
+.social-row i {
+  font-size: 20px;
 }
     :root {
       --bg: #111318;
