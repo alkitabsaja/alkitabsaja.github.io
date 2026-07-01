@@ -1,0 +1,17 @@
+title: Your Name
+description: Bio + docs site
+markdown: kramdown
+theme: null
+
+# Collections for docs
+collections:
+  docs:
+    output: true
+    permalink: /docs/:name/
+
+# Nav links
+nav:
+    - title: Home
+    url: /
+    - title: Docs
+    url: /docs/
