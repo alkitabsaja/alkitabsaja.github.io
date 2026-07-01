@@ -8,7 +8,6 @@ title: Home
 <img src="https://github.com/alkitabsaja.png" class="avatar" alt="Avatar">
 
 # {{ site.title }}
-
 {{ site.description }}
 
 [WhatsApp](https://whatsapp.com/channel/0029VaG4wt66GcGJtG6TMN0p){:.btn.whatsapp target="_blank"}
