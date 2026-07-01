@@ -3,13 +3,11 @@ description: follow and share
 markdown: kramdown
 theme: null
 
-# Collections for docs
 collections:
   docs:
     output: true
     permalink: /docs/:name/
 
-# Nav links
 nav:
     - title: Home
     url: /
