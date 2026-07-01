@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #0a0a0a; color: #fafafa; line-height: 1.6; }
+    .container { max-width: 800px; margin: 0 auto; padding: 20px; }
+    .nav { display: flex; gap: 20px; margin-bottom: 40px; padding-bottom: 20px; border-bottom: 1px solid #333; }
+    .nav a { color: #999; text-decoration: none; font-weight: 500; }
+    .nav a:hover, .nav a.active { color: #fff; }
+    .content { min-height: 60vh; }
+    .btn { display: block; padding: 15px; margin: 12px 0; border-radius: 12px; text-decoration: none; color: #fff !important; font-weight: 600; text-align: center; transition: .2s; }
+    .btn:hover { transform: translateY(-2px); filter: brightness(1.1); }
+    .whatsapp { background: #25D366; }
+    .telegram { background: #0088cc; }
+    .shopee { background: #EE4D2D; }
+    .bio-wrap { max-width: 400px; margin: 40px auto; text-align: center; }
+    .avatar { width: 96px; height: 96px; border-radius: 50%; margin: 0 auto 20px; }
+    .docs-list a { display: block; padding: 12px; margin: 8px 0; background: #1a1a1a; border-radius: 8px; color: #fff; text-decoration: none; }
+    .docs-list a:hover { background: #252525; }
+    h1,h2,h3 { margin: 24px 0 16px; }
+    p { margin-bottom: 16px; color: #ccc; }
+    code { background: #1a1a1a; padding: 2px 6px; border-radius: 4px; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <nav class="nav">
+      {% for item in site.nav %}
+        <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
+      {% endfor %}
+    </nav>
+    <main class="content">
+      {{ content }}
+    </main>
+  </div>
+</body>
+</html>
