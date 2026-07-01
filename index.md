@@ -39,7 +39,7 @@ title: Home
 
 <div class="video-wrap">
   <iframe 
-    src="https://www.youtube-nocookie.com/embed/IR381x24WwM?rel=0&loop=0&controls=1&cc_load_policy=0&list=PLWkdf0BXgzp9IFxua1ITVjqr_xHGO-KUw&autoplay=1&mute=1"
+    src="https://www.youtube-nocookie.com/embed/IR381x24WwM?rel=0&loop=0&controls=1&cc_load_policy=1&list=PLWkdf0BXgzp9IFxua1ITVjqr_xHGO-KUw&autoplay=1&mute=1"
     title="YouTube video"
     frameborder="0" 
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
