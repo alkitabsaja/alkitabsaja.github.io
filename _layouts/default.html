@@ -4,6 +4,8 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ page.title }} | {{ site.title }}</title>
+  {% if site.favicon %}<link rel="icon" href="{{ site.favicon | relative_url }}">{% endif %}
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
   <style>
     :root {
       --bg: #111318;
@@ -24,10 +26,29 @@
     .container { max-width: 720px; margin: 0 auto; padding: 24px 20px; }
     .nav { 
       display: flex; 
+      align-items: center;
       gap: 24px; 
       margin-bottom: 48px; 
       padding-bottom: 16px; 
       border-bottom: 1px solid var(--border); 
+    }
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      margin-right: auto;
+      text-decoration: none;
+      color: var(--text);
+      font-weight: 600;
+    }
+    .nav-logo {
+      width: 32px;
+      height: 32px;
+      border-radius: 6px;
+    }
+    .nav-links {
+      display: flex;
+      gap: 24px;
     }
     .nav a { 
       color: var(--text-muted); 
@@ -43,20 +64,28 @@
     h1 { font-size: 28px; margin-bottom: 8px; font-weight: 700; }
     .desc { color: var(--text-muted); margin-bottom: 32px; }
     
-    .btn { 
-      display: block; 
-      padding: 14px 16px; 
-      margin: 10px 0; 
-      border-radius: 8px; 
-      text-decoration: none; 
-      color: var(--text) !important; 
-      font-weight: 600; 
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      padding: 14px 16px;
+      margin: 10px 0;
+      border-radius: 8px;
+      text-decoration: none;
+      color: var(--text) !important;
+      font-weight: 600;
       background: var(--bg-elevated);
       border: 1px solid var(--border);
       transition: all .2s;
     }
-    .btn:hover { 
-      background: var(--accent); 
+    .btn i {
+      font-size: 18px;
+      width: 20px;
+      text-align: center;
+    }
+    .btn:hover {
+      background: var(--accent);
       border-color: var(--accent);
       transform: translateY(-1px);
     }
@@ -91,9 +120,15 @@
 <body>
   <div class="container">
     <nav class="nav">
-      {% for item in site.nav %}
-        <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
-      {% endfor %}
+      <a href="{{ '/' | relative_url }}" class="nav-brand">
+        {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Logo" class="nav-logo">{% endif %}
+        <span>{{ site.title }}</span>
+      </a>
+      <div class="nav-links">
+        {% for item in site.nav %}
+          <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
+        {% endfor %}
+      </div>
     </nav>
     <main class="content">
       {{ content }}
