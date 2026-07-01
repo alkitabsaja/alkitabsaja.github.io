@@ -1,7 +1,8 @@
 title: @alkitabsaja
 description: follow and share
+logo: https://github.com/alkitabsaja.png
+favicon: /assets/favicon.ico
 markdown: kramdown
-theme: null
 
 collections:
   docs:
