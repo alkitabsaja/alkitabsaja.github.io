@@ -54,4 +54,31 @@ title: Home
   </iframe>
 </div>
 
+<!-- RSS Reader embed -->
+<div id="rss-reader"></div>
+<script>
+(function () {
+  var container = document.getElementById('rss-reader');
+  if (!container) return;
+
+  var iframe = document.createElement('iframe');
+  iframe.src             = "https://sabas.pages.dev/?format=iframe";
+  iframe.loading         = 'lazy';
+  iframe.title           = 'RSS Reader';
+  iframe.scrolling       = 'no';
+  iframe.style.cssText   = 'width:100%; border:none; display:block; overflow:hidden;';
+
+  // Receive height reports from the iframe and resize to fit.
+  // postMessage works cross-origin; the iframe sends rssReaderHeight on load
+  // and whenever its content changes (e.g. fonts, images, ResizeObserver).
+  window.addEventListener('message', function (e) {
+    if (e.source === iframe.contentWindow && e.data && e.data.rssReaderHeight) {
+      iframe.style.height = e.data.rssReaderHeight + 'px';
+    }
+  });
+
+  container.appendChild(iframe);
+})();
+</script>
+
 </div>
