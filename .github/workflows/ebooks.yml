@@ -46,9 +46,10 @@ jobs:
             mkdir -p "ebooks/$(dirname "$out")"
 
             echo "Building $rel"
-
+            
             pandoc "$src" \
               --pdf-engine=xelatex \
+              --include-in-header=latex/header.tex \
               --top-level-division=chapter \
               -V documentclass=book \
               -V papersize:a5 \
