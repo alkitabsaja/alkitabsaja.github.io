@@ -8,6 +8,14 @@ logo: https://github.com/alkitabsaja.png
 favicon: /assets/favicon.ico
 markdown: kramdown
 
+twitter:
+  username: alkitabsaja
+
+social:
+  name: AlkitabSaja
+  links:
+    - https://github.com/alkitabsaja
+
 collections:
   docs:
     output: true
