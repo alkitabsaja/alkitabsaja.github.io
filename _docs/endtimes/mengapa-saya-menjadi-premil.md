@@ -91,10 +91,11 @@ Tidak ada yang akan berbuat jahat atau yang berlaku busuk di seluruh gunung-Ku y
 
 Apakah ini yang kita alami sekarang? Apakah sekarang ini adalah Kerajaan Seribu Tahun Tuhan? Menurut saya sekarang ini tidak sama dengan Kerajaan Seribu Tahun.
 
-             Menolak iman premillennial membuat Alkitab menjadi teka-teki yang membingungkan yang tidak ada artinya sama sekali. Kehilangan prinsip penting Alkitab untuk membuat prinsip hermeneutika – hermeneutika adalah prinsip menafsirkan Alkitab.
-             
-            Sebagai contoh, ada tiga klasifikasi manusia menurut Firman Tuhan. Menurut 1 Korintus 10:32, semua manusia dibagi menjadi orang Yahudi, Yunani dan jemaat.  Interpretasi Amillennial sungguh tragis yang menghilangkan tiga kelompok  manusia ini dan membuat Alkitab menjadi tanpa arti. Dan Alkitab akhirnya terlihat tidak lain seperti bagian dari literatur simbolis lainya. Inilah yang dihasilkan oleh orang-orang ini, mereka yang merasa sudah hidup dalam Kerjaan Seribu Tahun, dan mereka mengrohanikan segala sesuatu yang dinyatakan di sini dalam Firman Tuhan.
-            
+> Menolak iman premillennial membuat Alkitab menjadi teka-teki yang membingungkan yang tidak ada artinya sama sekali. Kehilangan prinsip penting Alkitab untuk membuat prinsip hermeneutika – hermeneutika adalah prinsip menafsirkan Alkitab.
+>
+> Sebagai contoh, ada tiga klasifikasi manusia menurut Firman Tuhan. Menurut 1 Korintus 10:32, semua manusia dibagi menjadi orang Yahudi, Yunani dan jemaat.  Interpretasi Amillennial sungguh tragis yang menghilangkan tiga kelompok  manusia ini dan membuat Alkitab menjadi tanpa arti. Dan Alkitab akhirnya terlihat tidak lain seperti bagian dari literatur simbolis lainya. Inilah yang dihasilkan oleh orang-orang ini, mereka yang merasa sudah hidup dalam Kerjaan Seribu Tahun, dan mereka mengrohanikan segala sesuatu yang dinyatakan di sini dalam Firman Tuhan.
+
+
 Sekarang, sebagai contoh, saya memiliki di tangan saya  Alkitab yang sangat cantik dan mahal. Dan berapa harganya – wou! Saya tidak tahu berapa harganya. Saya memperoleh Alkitab ini dan tentu sangat mahal.
 
 Jadi, saya membuka Alkitab ini dalam Yesaya 43 dan di sini ada judul perikop “Church Comforted.” Jadi, saya baca di sini dan di sini dikatakan:
@@ -113,22 +114,25 @@ Bukankah Engkau Bapa kami? Sungguh, Abraham tidak tahu apa-apa tentang kami, dan
 
 — sama sekali tidak berbicara tentang gereja. Ini adalah tentang Israel, dan tentang Musa dan tentang orang-orang Israel di Yerusalem.
 
-            Saya pindah ke halaman lain lagi. Di sini disebutkan “The Church Prays to God.” Dan saya melihat di sini dalam Yesaya 64 dan mengira akan menemukan gereja yang sedang berdoa kepada Tuhan. Tetapi, inilah yang saya baca:
-            
+> Saya pindah ke halaman lain lagi. Di sini disebutkan “The Church Prays to God.” Dan saya melihat di sini dalam Yesaya 64 dan mengira akan menemukan gereja yang sedang berdoa kepada Tuhan. Tetapi, inilah yang saya baca:
+
+
 Kota-kota-Mu yang kudus sudah menjadi padang gurun, Sion sudah menjadi padang gurun, Yerusalem sunyi sepi. 11Bait kami yang kudus dan agung, tempat nenek moyang kami memuji-muji Engkau, sudah menjadi umpan api, maka milik kami yang paling indah sudah menjadi reruntuhan. Melihat semuanya ini, ya TUHAN, masakan Engkau menahan diri, masakan Engkau tinggal diam dan menindas kami amat sangat?
 
 Judul perikop ini adalah “The Church Prays….” Tetapi, ketika saya membaca perikop ini, ini adalah seruan untuk orang-orang Israel di Zion dan Yerusalem dan Bait Suci mereka, yang telah terbakar oleh api. Inilah yang dimaksud dengan pengrohanian.
 
-            Saya pindah halaman lain lagi – dan ini adalah sangat mengherankan. Judul perikop di sini “The Stability of the Church.” Jadi, Anda akan berpikir ini adalah tentang stabilitas gereja. Teks ini adalah dalam Yeremia 31:
-            
+> Saya pindah halaman lain lagi – dan ini adalah sangat mengherankan. Judul perikop di sini “The Stability of the Church.” Jadi, Anda akan berpikir ini adalah tentang stabilitas gereja. Teks ini adalah dalam Yeremia 31:
+
+
 Beginilah firman TUHAN, yang memberi matahari untuk menerangi siang, yang menetapkan bulan dan bintang-bintang untuk menerangi malam, yang mengharu biru laut, sehingga gelombang-gelombangnya ribut, --TUHAN semesta alam nama-Nya: "Sesungguhnya, seperti ketetapan-ketetapan ini tidak akan beralih dari hadapan-Ku, demikianlah firman TUHAN, demikianlah keturunan Israel juga tidak akan berhenti menjadi bangsa di hadapan-Ku untuk sepanjang waktu. Beginilah firman TUHAN: Sesungguhnya, seperti langit di atas tidak terukur dan dasar-dasar bumi di bawah tidak terselidiki, demikianlah juga Aku tidak akan menolak segala keturunan Israel, karena segala apa yang dilakukan mereka, demikianlah firman TUHAN.
 
 Judul perikopnya di sini “The Stability of the Church.”  Tetapi, apa yang dijelaskan, “Sesungguhnya, seperti langit di atas tidak terukur dan dasar-dasar bumi di bawah tidak terselidiki, demikianlah juga Aku tidak akan menolak segala keturunan Israel.”
 
-            Apakah Anda pernah memikirkan – apakah Anda menafsirkan Alkitab dengan cara mengrohanikan? Tetapi, Anda telah memegang kepercayaan amillennial?
-            
-            Sekarang, hal lain tentang Firman Tuhan: yang membedakan antara gereja dan Israel dan orang Yunani (gentiles) – orang-orang ini menyamakan gereja dengan Israel dan Israel dengan gereja. Tetapi, Efesus pasal ketiga mengatakan – dan Paulus menjelaskan tentang musterion. Ini adalah rahasia, yang tersimpan dalam hati Tuhan sampai akhirnya Ia menyatakan hal ini kepada Rasul-Nya.
-            
+> Apakah Anda pernah memikirkan – apakah Anda menafsirkan Alkitab dengan cara mengrohanikan? Tetapi, Anda telah memegang kepercayaan amillennial?
+>
+> Sekarang, hal lain tentang Firman Tuhan: yang membedakan antara gereja dan Israel dan orang Yunani (gentiles) – orang-orang ini menyamakan gereja dengan Israel dan Israel dengan gereja. Tetapi, Efesus pasal ketiga mengatakan – dan Paulus menjelaskan tentang musterion. Ini adalah rahasia, yang tersimpan dalam hati Tuhan sampai akhirnya Ia menyatakan hal ini kepada Rasul-Nya.
+
+
 Tidak pernah ada gereja yang dilihat oleh para nabi. Tidak ada gereja dalam Perjanjian Lama. Mereka tidak pernah melihatnya. Mereka tidak pernah mengetahuinya: zaman gereja ini, zaman Roh Kudus yang di dalamNya kita hidup, zaman kasih karunia di dalam Yesus Kristus ini, zaman di mana orang-orang dipanggil keluar untuk masuk dalam tubuh yang baru baik orang Yahudi maupun non Yahudi di dalam Kristus.
 
 Zaman ini pernah menjadi rahasia dalam hati Tuhan. Dan tidak ada nabi yang mengetahuinya sampai hal ini dinyatakan kepada rasul-rasul-Nya yang kudus. Oleh sebab itu, ketika saya membaca Perjanjian Lama, saya membaca tentang orang-orang Yahudi dan non Yahudi dan rencana Tuhan untuk membawa orang non Yahudi kepadaNya dan kerajaan seribu tahun. Tetapi, saya tidak akan pernah membaca tentang keberadaan gereja sampai saya sampai kepada Perjanjian Baru.
