@@ -1,61 +1,29 @@
-name: Build Ebooks
+- name: Build individual PDFs & EPUBs
+  run: |
+    set -e
 
-permissions:
-  contents: write
+    mkdir -p ebooks
 
-on:
-  push:
-    paths: ['_docs/**.md']
-  workflow_dispatch:
+    shopt -s globstar nullglob
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
-          # persist-credentials=true allows pushes with GITHUB_TOKEN
-          
-      - name: Install Pandoc + LaTeX
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
-          
-      - name: Build individual PDFs & EPUBs
-        run: |
-          set -e
-          mkdir -p ebooks
-          shopt -s nullglob || true
-          for src in _docs/*.md; do
-            fname="$(basename "$src" .md)"
-            echo "Building $fname"
-            # Use pandoc's chapter mapping so top-level headers become \chapter and start on a new page
-            pandoc "$src" -o "ebooks/${fname}.pdf" --pdf-engine=xelatex --top-level-division=chapter -V documentclass=book -V papersize:a5 -V geometry:margin=10mm --toc || true
-            # produce EPUB from original markdown
-            pandoc "$src" -o "ebooks/${fname}.epub" --toc || true
-          done
+    for src in _docs/**/*.md; do
+      rel="${src#_docs/}"
+      out="${rel%.md}"
 
-      - name: List generated files
-        run: |
-          ls -lah ebooks || true
+      mkdir -p "ebooks/$(dirname "$out")"
 
-      - name: Commit and push generated ebooks back to main
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          set -e
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add ebooks || true
-          if git diff --cached --quiet; then
-            echo "No changes to commit"
-          else
-            git commit -m "Build ebooks: update PDFs and EPUBs"
-            git push origin HEAD:main
-          fi
+      echo "Building $rel"
+
+      pandoc "$src" \
+        -o "ebooks/${out}.pdf" \
+        --pdf-engine=xelatex \
+        --top-level-division=chapter \
+        -V documentclass=book \
+        -V papersize:a5 \
+        -V geometry:margin=10mm \
+        --toc || true
+
+      pandoc "$src" \
+        -o "ebooks/${out}.epub" \
+        --toc || true
+    done
