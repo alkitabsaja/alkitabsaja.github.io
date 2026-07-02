@@ -1,34 +1,40 @@
 name: Build Ebooks
+permissions:
+  contents: write
 on: 
   push:
     paths: ['docs/**.md']
-  workflow_dispatch:  # <-- add this line
+  workflow_dispatch: # lets you run manually
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # needed to push back to gh-pages
+    
     steps:
-      - run: git --version && env | grep GITHUB
-      
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
         with:
-          ref: main
-      
-      - name: Install Pandoc
-        run: sudo apt-get install pandoc texlive-xetex
-        
-      - name: Build PDF
-        run: pandoc docs/*.md -o ebook.pdf --pdf-engine=xelatex
-        
-      - name: Build EPUB  
-        run: pandoc docs/*.md -o ebook.epub
-        
-      - name: Deploy to site
-        run: |
-          mkdir -p _site/ebooks
-          mv ebook.* _site/ebooks/
+          fetch-depth: 0
           
-      - uses: peaceiris/actions-gh-pages@v3
+      - name: Install Pandoc + LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
+          
+      - name: Build PDF
+        run: |
+          mkdir -p _site/assets
+          pandoc docs/*.md -o _site/assets/ebook.pdf --pdf-engine=xelatex --toc
+          
+      - name: Build EPUB  
+        run: pandoc docs/*.md -o _site/assets/ebook.epub --toc
+        
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site
+          publish_dir: ./_site/assets
+          destination_dir: assets
+          keep_files: true
