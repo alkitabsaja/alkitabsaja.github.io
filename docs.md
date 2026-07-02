@@ -10,7 +10,7 @@ Browse articles and ebooks below.
 
 Docs count: {{ site.docs | size }}
 
-{% assign grouped_docs = site.docs | group_by: "path" | sort %}
+{% assign grouped_docs = site.docs | group_by: "path" %}
 
 {% for group in grouped_docs %}
   {% assign folder = group.name | split: "/" | first %}
