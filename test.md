@@ -11,8 +11,8 @@ Browse articles and ebooks below.
 Docs count: {{ site.docs | size }}
 
 {% for doc in site.docs %}
-- title={{ doc.title }}
-- path={{ doc.path }}
-- url={{ doc.url }}
-- dir={{ doc.dir }}
+path={{ doc.path }}
+relative_path={{ doc.relative_path }}
+url={{ doc.url }}
+collection={{ doc.collection }}
 {% endfor %}
