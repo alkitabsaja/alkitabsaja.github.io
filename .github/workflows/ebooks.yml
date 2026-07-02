@@ -8,6 +8,8 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - run: git --version && env | grep GITHUB
+      
       - uses: actions/checkout@v4
         with:
           ref: main
