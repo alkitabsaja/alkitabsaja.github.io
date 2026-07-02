@@ -14,18 +14,22 @@ Docs count: {{ site.docs | size }}
 
 {% for folder in folders %}
 
-{% if folder == "_docs" %}
+{% assign name = folder | remove_first: "_docs/" %}
+
+{% if name == "_docs" or name == "" %}
 ## Main
 {% else %}
-## {{ folder | remove: "_docs/" | replace: "-", " " | capitalize }}
+## {{ name }}
 {% endif %}
 
 {% assign docs = site.docs | where: "dir", folder | sort: "title" %}
 
 {% for doc in docs %}
+{% assign ebook = doc.path | remove_first: "_docs/" | remove: ".md" %}
+
 - [{{ doc.title }}]({{ doc.url | relative_url }})
-  ([PDF]({{ '/ebooks/' | append: doc.slug | append: '.pdf' | relative_url }}) |
-  [EPUB]({{ '/ebooks/' | append: doc.slug | append: '.epub' | relative_url }}))
+  ([PDF]({{ "/ebooks/" | append: ebook | append: ".pdf" | relative_url }}) |
+   [EPUB]({{ "/ebooks/" | append: ebook | append: ".epub" | relative_url }}))
 {% endfor %}
 
 {% endfor %}
