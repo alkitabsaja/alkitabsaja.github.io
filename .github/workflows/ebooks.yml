@@ -35,15 +35,10 @@ jobs:
           for src in _docs/*.md; do
             fname="$(basename "$src" .md)"
             echo "Building $fname"
-            # ensure each top-level chapter (H1) starts on a new page in PDF
-            tmpfile="$(mktemp)"
-            # insert a LaTeX pagebreak before lines that start with a top-level header (# ) except if it's the first line
-            awk 'NR==1{print; next} /^# /{print "\\newpage"; print; next} {print}' "$src" > "$tmpfile"
-            # produce A5 PDF with smaller margins
-            pandoc "$tmpfile" -o "ebooks/${fname}.pdf" --pdf-engine=xelatex -V papersize:a5 -V geometry:margin=10mm --toc || true
+            # Use pandoc's chapter mapping so top-level headers become \chapter and start on a new page
+            pandoc "$src" -o "ebooks/${fname}.pdf" --pdf-engine=xelatex --top-level-division=chapter -V documentclass=book -V papersize:a5 -V geometry:margin=10mm --toc || true
             # produce EPUB from original markdown
             pandoc "$src" -o "ebooks/${fname}.epub" --toc || true
-            rm -f "$tmpfile"
           done
 
       - name: List generated files
