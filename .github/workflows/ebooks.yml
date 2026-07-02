@@ -1,29 +1,82 @@
-- name: Build individual PDFs & EPUBs
-  run: |
-    set -e
+name: Build Ebooks
 
-    mkdir -p ebooks
+permissions:
+  contents: write
 
-    shopt -s globstar nullglob
+on:
+  push:
+    paths:
+      - "_docs/**/*.md"
+  workflow_dispatch:
 
-    for src in _docs/**/*.md; do
-      rel="${src#_docs/}"
-      out="${rel%.md}"
+jobs:
+  build:
+    runs-on: ubuntu-latest
 
-      mkdir -p "ebooks/$(dirname "$out")"
+    permissions:
+      contents: write
 
-      echo "Building $rel"
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-      pandoc "$src" \
-        -o "ebooks/${out}.pdf" \
-        --pdf-engine=xelatex \
-        --top-level-division=chapter \
-        -V documentclass=book \
-        -V papersize:a5 \
-        -V geometry:margin=10mm \
-        --toc || true
+      - name: Install Pandoc + LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex \
+            texlive-fonts-recommended
 
-      pandoc "$src" \
-        -o "ebooks/${out}.epub" \
-        --toc || true
-    done
+      - name: Build PDFs & EPUBs
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          mkdir -p ebooks
+          shopt -s globstar nullglob
+
+          for src in _docs/**/*.md; do
+            rel="${src#_docs/}"
+            out="${rel%.md}"
+
+            mkdir -p "ebooks/$(dirname "$out")"
+
+            echo "Building $rel"
+
+            pandoc "$src" \
+              --pdf-engine=xelatex \
+              --top-level-division=chapter \
+              -V documentclass=book \
+              -V papersize:a5 \
+              -V geometry:margin=10mm \
+              --toc \
+              -o "ebooks/${out}.pdf"
+
+            pandoc "$src" \
+              --toc \
+              -o "ebooks/${out}.epub"
+          done
+
+      - name: Show generated files
+        run: find ebooks -type f | sort
+
+      - name: Commit generated ebooks
+        run: |
+          set -e
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add ebooks
+
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+
+          git commit -m "Build ebooks"
+          git push
