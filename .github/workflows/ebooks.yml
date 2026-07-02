@@ -1,0 +1,29 @@
+name: Build Ebooks
+on: 
+  push:
+    paths: ['docs/**.md']
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install Pandoc
+        run: sudo apt-get install pandoc texlive-xetex
+        
+      - name: Build PDF
+        run: pandoc _posts/*.md -o ebook.pdf --pdf-engine=xelatex
+        
+      - name: Build EPUB  
+        run: pandoc _posts/*.md -o ebook.epub
+        
+      - name: Deploy to site
+        run: |
+          mkdir -p _site/ebooks
+          mv ebook.* _site/ebooks/
+          
+      - uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
