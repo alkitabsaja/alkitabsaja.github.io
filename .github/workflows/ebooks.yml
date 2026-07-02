@@ -35,7 +35,8 @@ jobs:
           for src in docs/*.md; do
             fname="$(basename "$src" .md)"
             echo "Building $fname"
-            pandoc "$src" -o "ebooks/${fname}.pdf" --pdf-engine=xelatex --toc || true
+            # produce A5 PDF with smaller margins (adjust margin below as needed)
+            pandoc "$src" -o "ebooks/${fname}.pdf" --pdf-engine=xelatex -V papersize:a5 -V geometry:margin=10mm --toc || true
             pandoc "$src" -o "ebooks/${fname}.epub" --toc || true
           done
 
