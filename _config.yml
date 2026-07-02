@@ -1,5 +1,6 @@
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 title: alkitabsaja
 description: Firman Tuhan Tanpa Salah
