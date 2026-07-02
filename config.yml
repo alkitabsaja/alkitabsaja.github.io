@@ -7,10 +7,10 @@ markdown: kramdown
 collections:
   docs:
     output: true
-    permalink: /docs/:name/
+    permalink: /:collection/:name/
 
 nav:
     - title: Home
-    url: /
+      url: /
     - title: Docs
-    url: /docs/
+      url: /docs/
