@@ -1,40 +1,59 @@
 name: Build Ebooks
+
 permissions:
   contents: write
-on: 
+
+on:
   push:
     paths: ['docs/**.md']
-  workflow_dispatch: # lets you run manually
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # needed to push back to gh-pages
+      contents: write
     
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
+          persist-credentials: true
+          # persist-credentials=true allows pushes with GITHUB_TOKEN
           
       - name: Install Pandoc + LaTeX
         run: |
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
           
-      - name: Build PDF
+      - name: Build individual PDFs & EPUBs
         run: |
-          mkdir -p _site/assets
-          pandoc docs/*.md -o _site/assets/ebook.pdf --pdf-engine=xelatex --toc
-          
-      - name: Build EPUB  
-        run: pandoc docs/*.md -o _site/assets/ebook.epub --toc
-        
-      - name: Deploy
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./_site/assets
-          destination_dir: assets
-          keep_files: true
+          set -e
+          mkdir -p ebooks
+          shopt -s nullglob || true
+          for src in docs/*.md; do
+            fname="$(basename "$src" .md)"
+            echo "Building $fname"
+            pandoc "$src" -o "ebooks/${fname}.pdf" --pdf-engine=xelatex --toc || true
+            pandoc "$src" -o "ebooks/${fname}.epub" --toc || true
+          done
+
+      - name: List generated files
+        run: |
+          ls -lah ebooks || true
+
+      - name: Commit and push generated ebooks back to main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ebooks || true
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Build ebooks: update PDFs and EPUBs"
+            git push origin HEAD:main
+          fi
