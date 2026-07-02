@@ -13,10 +13,10 @@ jobs:
         run: sudo apt-get install pandoc texlive-xetex
         
       - name: Build PDF
-        run: pandoc _posts/*.md -o ebook.pdf --pdf-engine=xelatex
+        run: pandoc docs/*.md -o ebook.pdf --pdf-engine=xelatex
         
       - name: Build EPUB  
-        run: pandoc _posts/*.md -o ebook.epub
+        run: pandoc docs/*.md -o ebook.epub
         
       - name: Deploy to site
         run: |
