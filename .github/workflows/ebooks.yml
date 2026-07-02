@@ -2,6 +2,7 @@ name: Build Ebooks
 on: 
   push:
     paths: ['docs/**.md']
+  workflow_dispatch:  # <-- add this line
 
 jobs:
   build:
