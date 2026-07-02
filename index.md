@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 ---
 
 <div class="bio-wrap" markdown="1">
