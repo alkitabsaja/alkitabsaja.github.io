@@ -37,7 +37,7 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 </a>
 <a href="/docs/" class="btn">
   <i class="bi bi-journal-text"></i>
-  Documentation
+  eBooks
 </a>
 
 <div class="video-wrap">
