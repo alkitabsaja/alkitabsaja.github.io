@@ -80,66 +80,41 @@ btn.onclick=()=>{
     localStorage.setItem("theme",next);
 };
 </script>
-<script>
-(() => {
+document.addEventListener("DOMContentLoaded", () => {
+    const toc = document.getElementById("toc");
+    if (!toc) return;
 
-const toc = document.getElementById("toc");
-const list = document.getElementById("toc-list");
-const btn = document.getElementById("toc-toggle");
+    const headings = document.querySelectorAll("main h1");
 
-const headings = document.querySelectorAll(
-    ".content h1, .content h2, .content h3, .content h4, .content h5, .content h6"
-);
+    if (!headings.length) {
+        toc.style.display = "none";
+        return;
+    }
 
-if (!headings.length) {
-    if (btn) btn.style.display = "none";
-    return;
-}
+    const title = document.createElement("h2");
+    title.textContent = "Contents";
+    toc.appendChild(title);
 
-const root = document.createElement("ul");
-root.className = "toc-tree";
-list.appendChild(root);
+    const list = document.createElement("ul");
 
-const stack = [{ level: 0, ul: root }];
+    headings.forEach((heading, index) => {
+        if (!heading.id) {
+            heading.id = "section-" + (index + 1);
+        }
 
-headings.forEach((heading, i) => {
+        const li = document.createElement("li");
 
-    if (!heading.id)
-        heading.id = `section-${i + 1}`;
+        const a = document.createElement("a");
+        a.href = "#" + heading.id;
+        a.textContent = heading.textContent.trim();
 
-    const level = Number(heading.tagName.substring(1));
-
-    while (stack.length > 1 && stack[stack.length - 1].level >= level)
-        stack.pop();
-
-    const li = document.createElement("li");
-    li.className = `toc-h${level}`;
-
-    const a = document.createElement("a");
-    a.href = `#${heading.id}`;
-    a.textContent = heading.textContent;
-
-    li.appendChild(a);
-
-    stack[stack.length - 1].ul.appendChild(li);
-
-    const ul = document.createElement("ul");
-    li.appendChild(ul);
-
-    stack.push({
-        level,
-        ul
+        li.appendChild(a);
+        list.appendChild(li);
     });
 
+    toc.appendChild(list);
 });
-
-btn?.addEventListener("click", () => {
-    toc.hidden = !toc.hidden;
-});
-
-})();
-</script>
-  <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=tu39n5z56tu56f9judearse1aum3c4qa" border="0">
+ <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=tu39n5z56tu56f9judearse1aum3c4qa" border="0">
   <script>
     window.goatcounter = {
         path: function(p) { return location.host + p }
