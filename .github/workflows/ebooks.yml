@@ -47,7 +47,7 @@ jobs:
 
             echo "Building $rel"
             tmp=$(mktemp)
-            sed 's#](/assets/#](./assets/#g' "$src" > "$tmp"
+            sed 's#](/assets/#](../../assets/#g' "$src" > "$tmp"
 
             pandoc "$tmp" \
               --pdf-engine=xelatex \
