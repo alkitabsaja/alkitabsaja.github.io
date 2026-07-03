@@ -8,6 +8,7 @@ html[data-theme="dark"]{
 *{box-sizing:border-box}
 html{color-scheme:light dark;scroll-behavior:smooth}
 body{margin:0;font:16px/1.7 system-ui,-apple-system,"Segoe UI",sans-serif;background:var(--bg);color:var(--text)}
+.avatar{display:block;width:80px;height:80px;margin:0 auto 1rem;border-radius:50%;object-fit:cover;border:1px solid var(--border);}
 .container{max-width:760px;margin:auto;padding:1.5rem}
 .nav{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;padding-bottom:1rem;border-bottom:1px solid var(--border);margin-bottom:2rem}
 .nav-brand{display:flex;align-items:center;gap:.75rem;margin-right:auto;color:var(--text);text-decoration:none;font-weight:700}
