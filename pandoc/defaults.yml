@@ -7,7 +7,7 @@ pdf-engine: xelatex
 top-level-division: chapter
 
 include-in-header:
-  - pandoc/header.tex
+  - latex/header.tex
 
 variables:
   documentclass: book
