@@ -35,6 +35,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          tree -L 2
 
           mkdir -p ebooks
           shopt -s globstar nullglob
@@ -52,14 +53,14 @@ jobs:
             sed 's#](/assets/#](./assets/#g' "$src" > "$tmp"
 
             pandoc "$tmp" \
-              --defaults=pandoc/defaults.yaml \
+              --defaults=pandoc/defaults.yml \
               --include-after-body=footer.md \
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
               -o "ebooks/${out}.pdf"
 
             pandoc "$tmp" \
-              --defaults=pandoc/defaults.yaml \
+              --defaults=pandoc/defaults.yml \
               --include-after-body=footer.md \
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
