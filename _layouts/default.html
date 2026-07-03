@@ -80,40 +80,74 @@ btn.onclick=()=>{
     localStorage.setItem("theme",next);
 };
 </script>
+<script>
 document.addEventListener("DOMContentLoaded", () => {
-    const toc = document.getElementById("toc");
-    if (!toc) return;
 
-    const headings = document.querySelectorAll("main h1");
+    // Theme toggle
+    const html = document.documentElement;
+    const themeBtn = document.getElementById("theme-toggle");
 
-    if (!headings.length) {
-        toc.style.display = "none";
-        return;
+    function updateThemeIcon() {
+        if (!themeBtn) return;
+        const icon = themeBtn.querySelector("i");
+        if (!icon) return;
+
+        icon.className =
+            html.dataset.theme === "dark"
+                ? "bi bi-sun"
+                : "bi bi-moon-stars";
     }
 
-    const title = document.createElement("h2");
-    title.textContent = "Contents";
-    toc.appendChild(title);
+    updateThemeIcon();
 
-    const list = document.createElement("ul");
+    themeBtn?.addEventListener("click", () => {
+        html.dataset.theme =
+            html.dataset.theme === "dark" ? "light" : "dark";
 
-    headings.forEach((heading, index) => {
-        if (!heading.id) {
-            heading.id = "section-" + (index + 1);
-        }
-
-        const li = document.createElement("li");
-
-        const a = document.createElement("a");
-        a.href = "#" + heading.id;
-        a.textContent = heading.textContent.trim();
-
-        li.appendChild(a);
-        list.appendChild(li);
+        localStorage.setItem("theme", html.dataset.theme);
+        updateThemeIcon();
     });
 
-    toc.appendChild(list);
+
+    // Table of Contents (H1 only)
+    const toc = document.getElementById("toc");
+
+    if (toc) {
+        const headings = document.querySelectorAll("main h1");
+
+        if (headings.length > 1) {
+
+            const title = document.createElement("h2");
+            title.textContent = "Contents";
+
+            const list = document.createElement("ul");
+
+            headings.forEach((heading, index) => {
+
+                if (!heading.id) {
+                    heading.id = "section-" + (index + 1);
+                }
+
+                const li = document.createElement("li");
+
+                const link = document.createElement("a");
+                link.href = "#" + heading.id;
+                link.textContent = heading.textContent.trim();
+
+                li.appendChild(link);
+                list.appendChild(li);
+            });
+
+            toc.appendChild(title);
+            toc.appendChild(list);
+
+        } else {
+            toc.style.display = "none";
+        }
+    }
+
 });
+</script>
  <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=tu39n5z56tu56f9judearse1aum3c4qa" border="0">
   <script>
     window.goatcounter = {
