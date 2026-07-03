@@ -48,6 +48,7 @@ jobs:
             echo "Building $rel"
 
             pandoc "$src" \
+              --resource-path=".:_docs:assets" \
               --pdf-engine=xelatex \
               --include-in-header=latex/header.tex \
               --top-level-division=chapter \
