@@ -443,7 +443,7 @@ Dan kini, sebelum memasuki topik sejarah, kita perhatikan..
 GRAFIK
 ------
 
-![The Trail of Blood](/assets/images/the_trail_of_blood.png)
+![The Trail of Blood](../../assets/images/the_trail_of_blood.png)
 
 
 Saya yakin, jika anda mempelajari grafik ini dengan cermat, anda akan 
@@ -2273,4 +2273,4 @@ Baptist History, Schackleford
 Grafik vertikal
 ===============
 
-![The Trail of Blood](/assets/images/the_trail_of_blood_v.png)
+![The Trail of Blood](../../assets/images/the_trail_of_blood_v.png)
