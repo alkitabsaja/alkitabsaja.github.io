@@ -268,31 +268,9 @@ hr {
         text-decoration: none;
         color: #000;
     }
-/* TOC */
-
 #toc {
-    margin: 2rem 0;
-    padding: 1rem;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: .75rem;
-}
-
-#toc-toggle {
-    width: 100%;
-    padding: .75rem 1rem;
-    margin-bottom: .75rem;
-    border: 1px solid var(--border);
-    border-radius: .5rem;
-    background: var(--surface);
-    color: var(--text);
-    cursor: pointer;
-    font: inherit;
-    text-align: left;
-}
-
-#toc-toggle:hover {
-    background: var(--accent);
+    font-size: .9rem;
+    line-height: 1.35;
 }
 
 #toc-list,
@@ -303,20 +281,20 @@ hr {
 }
 
 #toc-list ul {
-    margin-left: 1.25rem;
+    margin-left: 1rem;
+    padding-left: .6rem;
     border-left: 1px solid var(--border);
-    padding-left: .75rem;
 }
 
 #toc-list li {
-    margin: .35rem 0;
+    margin: .12rem 0;
 }
 
 #toc-list a {
+    display: block;
+    padding: .08rem 0;
     color: var(--text);
     text-decoration: none;
-    display: block;
-    padding: .15rem 0;
 }
 
 #toc-list a:hover {
@@ -324,23 +302,23 @@ hr {
 }
 
 .toc-h1 > a {
-    font-weight: 700;
     font-size: 1rem;
+    font-weight: 700;
 }
 
 .toc-h2 > a {
+    font-size: .95rem;
     font-weight: 600;
-    font-size: .98rem;
 }
 
 .toc-h3 > a {
-    font-size: .95rem;
+    font-size: .9rem;
 }
 
 .toc-h4 > a,
 .toc-h5 > a,
 .toc-h6 > a {
-    font-size: .92rem;
+    font-size: .85rem;
     color: var(--muted);
 }
 
