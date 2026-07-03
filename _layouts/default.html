@@ -1,84 +1,150 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="{{ site.lang | default: 'en' }}">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-  {% seo %}
+        {% seo %} {% if site.favicon %}
+        <link rel="icon" href="{{ site.favicon | relative_url }}" />
+        {% endif %}
 
-  {% if site.favicon %}
-  <link rel="icon" href="{{ site.favicon | relative_url }}">
-  {% endif %}
+        <link
+            rel="stylesheet"
+            href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css"
+        />
+        <link
+            rel="stylesheet"
+            href="{{ '/assets/css/style.css' | relative_url }}"
+        />
 
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+        <script>
+            (() => {
+                const saved = localStorage.getItem("theme");
+                if (saved) {
+                    document.documentElement.dataset.theme = saved;
+                } else if (
+                    window.matchMedia("(prefers-color-scheme: dark)").matches
+                ) {
+                    document.documentElement.dataset.theme = "dark";
+                } else {
+                    document.documentElement.dataset.theme = "light";
+                }
+            })();
+        </script>
+    </head>
 
-  <script>
-    (() => {
-      const saved = localStorage.getItem("theme");
-      if (saved) {
-        document.documentElement.dataset.theme = saved;
-      } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
-        document.documentElement.dataset.theme = "dark";
-      } else {
-        document.documentElement.dataset.theme = "light";
-      }
-    })();
-  </script>
-</head>
+    <body>
+        <div class="container">
+            <nav class="nav">
+                <a class="nav-brand" href="{{ '/' | relative_url }}">
+                    {% if site.logo %}
+                    <img
+                        class="nav-logo"
+                        src="{{ site.logo | relative_url }}"
+                        alt=""
+                    />
+                    {% endif %}
+                    <span>{{ site.title }}</span>
+                </a>
 
-<body>
+                <div class="nav-links">
+                    {% for item in site.nav %}
+                    <a
+                        href="{{ item.url | relative_url }}"
+                        {%
+                        if
+                        page.url=""
+                        ="item.url"
+                        %}class="active"
+                        {%
+                        endif
+                        %}
+                    >
+                        {{ item.title }}
+                    </a>
+                    {% endfor %}
 
-<div class="container">
+                    <button
+                        id="theme-toggle"
+                        class="theme-toggle"
+                        title="Toggle theme"
+                    >
+                        <i class="bi bi-moon-stars"></i>
+                    </button>
+                </div>
+            </nav>
 
-<nav class="nav">
+            <main class="content">
+                <button id="toc-toggle" class="toc-toggle">
+                    <i class="bi bi-list"></i> Contents
+                </button>
 
-<a class="nav-brand" href="{{ '/' | relative_url }}">
-{% if site.logo %}
-<img class="nav-logo" src="{{ site.logo | relative_url }}" alt="">
-{% endif %}
-<span>{{ site.title }}</span>
-</a>
+                <nav id="toc" class="toc" hidden>
+                    <strong>Contents</strong>
+                    <ul id="toc-list"></ul>
+                </nav>
 
-<div class="nav-links">
-{% for item in site.nav %}
-<a href="{{ item.url | relative_url }}"
-{% if page.url == item.url %}class="active"{% endif %}>
-{{ item.title }}
-</a>
-{% endfor %}
+                {{ content }}
+            </main>
+        </div>
+        <script>
+            (() => {
+                const toc = document.getElementById("toc");
+                const list = document.getElementById("toc-list");
+                const btn = document.getElementById("toc-toggle");
 
-<button id="theme-toggle" class="theme-toggle" title="Toggle theme">
-<i class="bi bi-moon-stars"></i>
-</button>
+                const headings = document.querySelectorAll(
+                    ".content h2,.content h3,.content h4",
+                );
 
-</div>
+                if (!headings.length) {
+                    btn.style.display = "none";
+                    return;
+                }
 
-</nav>
+                headings.forEach((h, i) => {
+                    if (!h.id) {
+                        h.id = "section-" + (i + 1);
+                    }
 
-<main class="content">
-{{ content }}
-</main>
+                    const li = document.createElement("li");
+                    li.className = "toc-" + h.tagName.toLowerCase();
 
-</div>
+                    li.innerHTML = `<a href="#${h.id}">${h.textContent}</a>`;
 
-<script>
-const btn=document.getElementById("theme-toggle");
+                    list.appendChild(li);
+                });
 
-btn.onclick=()=>{
-    const html=document.documentElement;
-    const next=html.dataset.theme==="dark"?"light":"dark";
-    html.dataset.theme=next;
-    localStorage.setItem("theme",next);
-};
-</script>
-  <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=tu39n5z56tu56f9judearse1aum3c4qa" border="0">
-  <script>
-    window.goatcounter = {
-        path: function(p) { return location.host + p }
-    }
-</script>
-    <script data-goatcounter="https://diselamatkan.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-</body>
+                btn.onclick = () => {
+                    toc.hidden = !toc.hidden;
+                };
+            })();
+        </script>
+        <script>
+            const btn = document.getElementById("theme-toggle");
+
+            btn.onclick = () => {
+                const html = document.documentElement;
+                const next = html.dataset.theme === "dark" ? "light" : "dark";
+                html.dataset.theme = next;
+                localStorage.setItem("theme", next);
+            };
+        </script>
+        <img
+            src="https://counter11.optistats.ovh/private/freecounterstat.php?c=tu39n5z56tu56f9judearse1aum3c4qa"
+            border="0"
+        />
+        <script>
+            window.goatcounter = {
+                path: function (p) {
+                    return location.host + p;
+                },
+            };
+        </script>
+        <script
+            data-goatcounter="https://diselamatkan.goatcounter.com/count"
+            async
+            src="//gc.zgo.at/count.js"
+        ></script>
+    </body>
 </html>
