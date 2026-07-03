@@ -4,4 +4,4 @@ title: eBooks
 permalink: /docs/
 ---
 
-{% include doc-list.html %}
+{% include doc-list.md %}
