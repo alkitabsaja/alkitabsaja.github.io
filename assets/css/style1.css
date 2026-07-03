@@ -1,17 +1,13 @@
-/* Theme
-   Contrast ratios (WCAG):
-   Light — text/bg ~14.6:1 (AAA), muted/bg ~7.1:1 (AAA), link/bg ~6.9:1 (AAA-ish)
-   Dark  — text/bg ~17:1 (AAA), muted/bg ~7.8:1 (AAA), link/bg well above AA
-*/
+/* Theme */
 :root {
-    --bg: #f7f8fa;       /* soft off-white, not stark white */
-    --surface: #eef1f4;
-    --text: #1c2128;
-    --muted: #4c5560;
-    --border: #d0d7de;
-    --link: #0552b5;
-    --accent: #e7f0fe;
-    --quote: #edf4ff;
+    --bg: #ffffff;
+    --surface: #f7f7f8;
+    --text: #1f2328;
+    --muted: #59636e;
+    --border: #d8dee4;
+    --link: #0969da;
+    --accent: #e9f2ff;
+    --quote: #eef5ff;
 }
 html[data-theme="dark"] {
     --bg: #0d1117;
@@ -247,51 +243,6 @@ hr {
     outline: 2px solid var(--link);
     outline-offset: 2px;
 }
-
-/* Table of contents — was previously (accidentally) nested inside
-   @media print, so it never rendered on screen. Restored to normal scope. */
-.toc-toggle {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.5rem;
-    margin: 1rem 0;
-    padding: 0.6rem 1rem;
-    border: 1px solid var(--border);
-    border-radius: 0.6rem;
-    background: var(--surface);
-    color: var(--text);
-    cursor: pointer;
-    font: inherit;
-}
-.toc-toggle:hover {
-    background: var(--accent);
-}
-.toc {
-    margin: 0 0 2rem;
-    padding: 1rem 1.25rem;
-    border: 1px solid var(--border);
-    border-radius: 0.6rem;
-    background: var(--surface);
-}
-.toc strong {
-    display: block;
-    margin-bottom: 0.75rem;
-}
-.toc ul {
-    margin: 0;
-    padding-left: 1.25rem;
-}
-.toc li {
-    margin: 0.35rem 0;
-}
-.toc a {
-    color: var(--link);
-    text-decoration: none;
-}
-.toc a:hover {
-    text-decoration: underline;
-}
-
 @media (prefers-reduced-motion: reduce) {
     *,
     *:before,
@@ -303,8 +254,7 @@ hr {
 @media print {
     .nav,
     .theme-toggle,
-    .social-row,
-    .toc-toggle {
+    .social-row {
         display: none;
     }
     body {
@@ -318,4 +268,52 @@ hr {
         text-decoration: none;
         color: #000;
     }
+    .toc-toggle{
+    display:inline-flex;
+    align-items:center;
+    gap:.5rem;
+    margin:1rem 0;
+    padding:.6rem 1rem;
+    border:1px solid var(--border);
+    border-radius:.6rem;
+    background:var(--surface);
+    color:var(--text);
+    cursor:pointer;
+    font:inherit;
+}
+
+.toc-toggle:hover{
+    background:var(--accent);
+}
+
+.toc{
+    margin:0 0 2rem;
+    padding:1rem 1.25rem;
+    border:1px solid var(--border);
+    border-radius:.6rem;
+    background:var(--surface);
+}
+
+.toc strong{
+    display:block;
+    margin-bottom:.75rem;
+}
+
+.toc ul{
+    margin:0;
+    padding-left:1.25rem;
+}
+
+.toc li{
+    margin:.35rem 0;
+}
+
+.toc a{
+    color:var(--link);
+    text-decoration:none;
+}
+
+.toc a:hover{
+    text-decoration:underline;
+}
 }
