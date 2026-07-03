@@ -269,20 +269,15 @@ hr {
         color: #000;
     }
 .toc {
-    margin: 2rem 0;
-    padding: 1rem 1.25rem;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: .75rem;
+    display: none;
 }
 
-.toc h2 {
-    margin: 0 0 .75rem;
-    font-size: 1rem;
+.toc.open {
+    display: block;
 }
 
 .toc ul {
-    margin: 0;
+    margin: .75rem 0 0;
     padding-left: 1.25rem;
 }
 
@@ -290,19 +285,7 @@ hr {
     margin: .35rem 0;
 }
 
-.toc a {
-    color: var(--link);
-    text-decoration: none;
+.toc-toggle {
+    margin-bottom: 1rem;
 }
-
-.toc a:hover {
-    text-decoration: underline;
 }
-
-html {
-    scroll-padding-top: 5rem;
-}
-
-h1 {
-    scroll-margin-top: 5rem;
-}}
