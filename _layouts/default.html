@@ -83,35 +83,35 @@ btn.onclick=()=>{
 <script>
 (() => {
 
-const toc=document.getElementById("toc");
-const list=document.getElementById("toc-list");
-const btn=document.getElementById("toc-toggle");
+const toc = document.getElementById("toc");
+const list = document.getElementById("toc-list");
+const btn = document.getElementById("toc-toggle");
 
-const headings=document.querySelectorAll(
-".content h2,.content h3,.content h4"
+const headings = document.querySelectorAll(
+  ".content h1, .content h2, .content h3, .content h4"
 );
 
-if(!headings.length){
-    btn.style.display="none";
+if (!headings.length) {
+    btn.style.display = "none";
     return;
 }
 
-headings.forEach((h,i)=>{
+headings.forEach((h, i) => {
 
-    if(!h.id){
-        h.id="section-"+(i+1);
+    if (!h.id) {
+        h.id = "section-" + (i + 1);
     }
 
-    const li=document.createElement("li");
-    li.className="toc-"+h.tagName.toLowerCase();
+    const li = document.createElement("li");
+    li.className = "toc-" + h.tagName.toLowerCase();
 
-    li.innerHTML=`<a href="#${h.id}">${h.textContent}</a>`;
+    li.innerHTML = `<a href="#${h.id}">${h.textContent}</a>`;
 
     list.appendChild(li);
 });
 
-btn.onclick=()=>{
-    toc.hidden=!toc.hidden;
+btn.onclick = () => {
+    toc.hidden = !toc.hidden;
 };
 
 })();
