@@ -57,6 +57,7 @@
 </nav>
 
 <main class="content">
+{% if page.collection == "docs" %}
 <button id="toc-toggle" class="toc-toggle">
     <i class="bi bi-list"></i>
     <span>Contents</span>
@@ -66,21 +67,7 @@
     <strong>Contents</strong>
     <ul id="toc-list"></ul>
 </nav>
-{{ content }}
-</main>
 
-</div>
-
-<script>
-const btn=document.getElementById("theme-toggle");
-
-btn.onclick=()=>{
-    const html=document.documentElement;
-    const next=html.dataset.theme==="dark"?"light":"dark";
-    html.dataset.theme=next;
-    localStorage.setItem("theme",next);
-};
-</script>
 <script>
 document.addEventListener("DOMContentLoaded", () => {
 
@@ -137,6 +124,22 @@ document.addEventListener("DOMContentLoaded", () => {
     });
 
 });
+</script>
+{% endif %}
+{{ content }}
+</main>
+
+</div>
+
+<script>
+const btn=document.getElementById("theme-toggle");
+
+btn.onclick=()=>{
+    const html=document.documentElement;
+    const next=html.dataset.theme==="dark"?"light":"dark";
+    html.dataset.theme=next;
+    localStorage.setItem("theme",next);
+};
 </script>
  <img src="https://counter11.optistats.ovh/private/freecounterstat.php?c=tu39n5z56tu56f9judearse1aum3c4qa" border="0">
   <script>
