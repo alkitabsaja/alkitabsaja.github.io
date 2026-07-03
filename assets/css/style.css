@@ -268,24 +268,52 @@ hr {
         text-decoration: none;
         color: #000;
     }
-.toc {
-    display: none;
+    .toc-toggle{
+    display:inline-flex;
+    align-items:center;
+    gap:.5rem;
+    margin:1rem 0;
+    padding:.6rem 1rem;
+    border:1px solid var(--border);
+    border-radius:.6rem;
+    background:var(--surface);
+    color:var(--text);
+    cursor:pointer;
+    font:inherit;
 }
 
-.toc.open {
-    display: block;
+.toc-toggle:hover{
+    background:var(--accent);
 }
 
-.toc ul {
-    margin: .75rem 0 0;
-    padding-left: 1.25rem;
+.toc{
+    margin:0 0 2rem;
+    padding:1rem 1.25rem;
+    border:1px solid var(--border);
+    border-radius:.6rem;
+    background:var(--surface);
 }
 
-.toc li {
-    margin: .35rem 0;
+.toc strong{
+    display:block;
+    margin-bottom:.75rem;
 }
 
-.toc-toggle {
-    margin-bottom: 1rem;
+.toc ul{
+    margin:0;
+    padding-left:1.25rem;
+}
+
+.toc li{
+    margin:.35rem 0;
+}
+
+.toc a{
+    color:var(--link);
+    text-decoration:none;
+}
+
+.toc a:hover{
+    text-decoration:underline;
 }
 }
