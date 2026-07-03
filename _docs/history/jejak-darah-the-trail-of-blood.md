@@ -1,20 +1,21 @@
+---
+title: Jejak Darah: Melacak Jejak Kekristenan Sepanjang Abad.
+author: J. M. Caroll
+translator: diselamatkan.org
+---
+
+
 "Jejak Darah..."
 ================
 
 
->diterjemahkan oleh diselamatkan.org
->
+>diterjemahkan oleh saya.diselamatkan.org
+
 >dan kebanggaannya adalah kesukaran dan penderitaan... Mazmur 90:10
-
->Kita malah bermegah juga dalam kesengsaraan kita, karena kita tahu, 
->bahwa kesengsaraan itu menimbulkan ketekunan Rom 5:3
-
->Tetapi jawab Tuhan kepadaku: "Cukuplah kasih karunia-Ku bagimu, sebab 
->justru dalam kelemahanlah kuasa-Ku menjadi sempurna." Sebab itu terlebih 
->suka aku bermegah atas kelemahanku, supaya kuasa Kristus turun 
->menaungi aku. 2Kor 12
-
-
+>
+>Kita malah bermegah juga dalam kesengsaraan kita, karena kita tahu, bahwa kesengsaraan itu menimbulkan ketekunan Rom 5:3
+>
+>Tetapi jawab Tuhan kepadaku: "Cukuplah kasih karunia-Ku bagimu, sebab justru dalam kelemahanlah kuasa-Ku menjadi sempurna." Sebab itu terlebih suka aku bermegah atas kelemahanku, supaya kuasa Kristus turun menaungi aku. 2Kor 12
 
 
 
