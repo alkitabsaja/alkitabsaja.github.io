@@ -88,31 +88,54 @@ const list = document.getElementById("toc-list");
 const btn = document.getElementById("toc-toggle");
 
 const headings = document.querySelectorAll(
-  ".content h1, .content h2, .content h3, .content h4"
+    ".content h1, .content h2, .content h3, .content h4, .content h5, .content h6"
 );
 
 if (!headings.length) {
-    btn.style.display = "none";
+    if (btn) btn.style.display = "none";
     return;
 }
 
-headings.forEach((h, i) => {
+const root = document.createElement("ul");
+root.className = "toc-tree";
+list.appendChild(root);
 
-    if (!h.id) {
-        h.id = "section-" + (i + 1);
-    }
+const stack = [{ level: 0, ul: root }];
+
+headings.forEach((heading, i) => {
+
+    if (!heading.id)
+        heading.id = `section-${i + 1}`;
+
+    const level = Number(heading.tagName.substring(1));
+
+    while (stack.length > 1 && stack[stack.length - 1].level >= level)
+        stack.pop();
 
     const li = document.createElement("li");
-    li.className = "toc-" + h.tagName.toLowerCase();
+    li.className = `toc-h${level}`;
 
-    li.innerHTML = `<a href="#${h.id}">${h.textContent}</a>`;
+    const a = document.createElement("a");
+    a.href = `#${heading.id}`;
+    a.textContent = heading.textContent;
 
-    list.appendChild(li);
+    li.appendChild(a);
+
+    stack[stack.length - 1].ul.appendChild(li);
+
+    const ul = document.createElement("ul");
+    li.appendChild(ul);
+
+    stack.push({
+        level,
+        ul
+    });
+
 });
 
-btn.onclick = () => {
+btn?.addEventListener("click", () => {
     toc.hidden = !toc.hidden;
-};
+});
 
 })();
 </script>

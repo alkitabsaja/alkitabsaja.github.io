@@ -268,58 +268,83 @@ hr {
         text-decoration: none;
         color: #000;
     }
-    .toc-toggle {
-        display: inline-flex;
-        align-items: center;
-        gap: 0.5rem;
-        margin: 0 0 1rem;
-        padding: 0.4rem 0.8rem;
-        border: 1px solid var(--border);
-        border-radius: 0.5rem;
-        background: var(--surface);
-        color: var(--text);
-        cursor: pointer;
-    }
+/* TOC */
 
-    .toc {
-        margin: 0 0 2rem;
-        padding: 1rem;
-        border: 1px solid var(--border);
-        border-radius: 0.75rem;
-        background: var(--surface);
-        font-size: 0.9rem;
-    }
-
-    .toc strong {
-        display: block;
-        margin-bottom: 0.5rem;
-    }
-
-    .toc ul {
-        margin: 0;
-        padding-left: 1rem;
-    }
-
-    .toc li {
-        margin: 0.25rem 0;
-    }
-
-    .toc a {
-        color: var(--muted);
-        text-decoration: none;
-    }
-
-    .toc a:hover {
-        color: var(--link);
-    }
-
-.toc-h1 {
-    margin-left: 0;
-    font-weight: 700;
+#toc {
+    margin: 2rem 0;
+    padding: 1rem;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: .75rem;
 }
 
-.toc-h2 { margin-left: 1rem; }
-.toc-h3 { margin-left: 2rem; }
-.toc-h4 { margin-left: 3rem; }
+#toc-toggle {
+    width: 100%;
+    padding: .75rem 1rem;
+    margin-bottom: .75rem;
+    border: 1px solid var(--border);
+    border-radius: .5rem;
+    background: var(--surface);
+    color: var(--text);
+    cursor: pointer;
+    font: inherit;
+    text-align: left;
+}
 
+#toc-toggle:hover {
+    background: var(--accent);
+}
+
+#toc-list,
+#toc-list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+#toc-list ul {
+    margin-left: 1.25rem;
+    border-left: 1px solid var(--border);
+    padding-left: .75rem;
+}
+
+#toc-list li {
+    margin: .35rem 0;
+}
+
+#toc-list a {
+    color: var(--text);
+    text-decoration: none;
+    display: block;
+    padding: .15rem 0;
+}
+
+#toc-list a:hover {
+    color: var(--link);
+}
+
+.toc-h1 > a {
+    font-weight: 700;
+    font-size: 1rem;
+}
+
+.toc-h2 > a {
+    font-weight: 600;
+    font-size: .98rem;
+}
+
+.toc-h3 > a {
+    font-size: .95rem;
+}
+
+.toc-h4 > a,
+.toc-h5 > a,
+.toc-h6 > a {
+    font-size: .92rem;
+    color: var(--muted);
+}
+
+#toc-list ul:empty {
+    display: none;
+}
 }
