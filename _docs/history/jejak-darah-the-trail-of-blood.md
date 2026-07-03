@@ -1,5 +1,5 @@
 ---
-title: Jejak Darah: Melacak Jejak Kekristenan Sepanjang Abad.
+title: Jejak Darah - Melacak Jejak Kekristenan Sepanjang Abad.
 author: J. M. Caroll
 translator: diselamatkan.org
 ---
