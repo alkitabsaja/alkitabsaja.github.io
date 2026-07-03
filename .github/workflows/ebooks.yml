@@ -46,20 +46,23 @@ jobs:
             mkdir -p "ebooks/$(dirname "$out")"
 
             echo "Building $rel"
+            BUILD_DATE="$(date -u '+%Y-%m-%d %H:%M UTC')"
+            echo "built at ${BUILD_DATE} - diselamatkan.org" > footer.md
+            tmp=$(mktemp)
+            sed 's#](/assets/#](./assets/#g' "$src" > "$tmp"
 
-            pandoc "$src" \
-              --lua-filter=pandoc/fix-images.lua \
-              --pdf-engine=xelatex \
-              --include-in-header=latex/header.tex \
-              --top-level-division=chapter \
-              -V documentclass=book \
-              -V papersize:a5 \
-              -V geometry:margin=10mm \
-              --toc \
+            pandoc "$tmp" \
+              --defaults=pandoc/defaults.yaml \
+              --include-after-body=footer.md \
+              --metadata=date="$BUILD_DATE" \
+              --metadata=revision="${GITHUB_SHA::7}" \
               -o "ebooks/${out}.pdf"
 
-            pandoc "$src" \
-              --toc \
+            pandoc "$tmp" \
+              --defaults=pandoc/defaults.yaml \
+              --include-after-body=footer.md \
+              --metadata=date="$BUILD_DATE" \
+              --metadata=revision="${GITHUB_SHA::7}" \
               -o "ebooks/${out}.epub"
           done
 

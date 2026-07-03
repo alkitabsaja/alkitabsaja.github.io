@@ -1,0 +1,22 @@
+from: markdown
+
+standalone: true
+toc: true
+
+pdf-engine: xelatex
+top-level-division: chapter
+
+include-in-header:
+  - pandoc/header.tex
+
+variables:
+  documentclass: book
+  papersize: a5
+  geometry: margin=10mm
+
+metadata:
+  author: alkitabiah.org
+  publisher: diselamatkan.org
+  lang: id
+  keywords:
+    - Alkitabsaja
