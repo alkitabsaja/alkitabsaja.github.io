@@ -1,200 +1,77 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="{{ site.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   {% seo %}
-  {% if site.favicon %}<link rel="icon" href="{{ site.favicon | relative_url }}">{% endif %}
+
+  {% if site.favicon %}
+  <link rel="icon" href="{{ site.favicon | relative_url }}">
+  {% endif %}
+
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
-  <style>
-    blockquote {
-    margin-left: 2em;
-    padding-left: 1em;
-}
-    pre {
-    white-space: pre-wrap;
-    overflow-wrap: anywhere;
-    word-break: break-word;
-    overflow-x: auto;
-}
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 
-pre code {
-    white-space: inherit;
-}
-    
-.video-wrap {
-  position: relative;
-  padding-bottom: 56.25%;
-  height: 0;
-  overflow: hidden;
-  margin: 32px 0;
-  border-radius: 8px;
-  border: 1px solid var(--border);
-  background: var(--bg-elevated);
-}
-.video-wrap iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
-
-.social-row {
-  display: flex;
-  justify-content: center;
-  gap: 16px;
-  margin: 28px 0 32px;
-  flex-wrap: wrap;
-}
-.social-row a {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 44px;
-  height: 44px;
-  background: var(--bg-elevated);
-  border: 1px solid var(--border);
-  border-radius: 8px;
-  color: var(--text-muted);
-  text-decoration: none;
-  transition: all .2s;
-}
-.social-row a:hover {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: var(--text);
-  transform: translateY(-2px);
-}
-.social-row i {
-  font-size: 20px;
-}
-    :root {
-      --bg: #111318;
-      --bg-elevated: #1a1d24;
-      --text: #e6e8eb;
-      --text-muted: #9ba1a9;
-      --border: #2a2f38;
-      --accent: #4a5568;
-    }
-        * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { 
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif; 
-      background: var(--bg); 
-      color: var(--text); 
-      line-height: 1.65;
-      font-size: 16px;
-    }
-    .container { max-width: 720px; margin: 0 auto; padding: 24px 20px; }
-    .nav { 
-      display: flex; 
-      align-items: center;
-      gap: 24px; 
-      margin-bottom: 48px; 
-      padding-bottom: 16px; 
-      border-bottom: 1px solid var(--border); 
-    }
-    .nav-brand {
-      display: flex;
-      align-items: center;
-      gap: 12px;
-      margin-right: auto;
-      text-decoration: none;
-      color: var(--text);
-      font-weight: 600;
-    }
-    .nav-logo {
-      width: 32px;
-      height: 32px;
-      border-radius: 6px;
-    }
-    .nav-links {
-      display: flex;
-      gap: 24px;
-    }
-    .nav a { 
-      color: var(--text-muted); 
-      text-decoration: none; 
-      font-weight: 500;
-      transition: color .2s;
-    }
-    .nav a:hover, .nav a.active { color: var(--text); }
-    .content { min-height: 60vh; }
-    
-    .bio-wrap { max-width: 380px; margin: 32px auto; text-align: center; }
-    .avatar { width: 88px; height: 88px; border-radius: 50%; margin: 0 auto 20px; border: 2px solid var(--border); }
-    h1 { font-size: 28px; margin-bottom: 8px; font-weight: 700; }
-    .desc { color: var(--text-muted); margin-bottom: 32px; }
-    
-    .btn {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      gap: 12px;
-      padding: 14px 16px;
-      margin: 10px 0;
-      border-radius: 8px;
-      text-decoration: none;
-      color: var(--text) !important;
-      font-weight: 600;
-      background: var(--bg-elevated);
-      border: 1px solid var(--border);
-      transition: all .2s;
-    }
-    .btn i {
-      font-size: 18px;
-      width: 20px;
-      text-align: center;
-    }
-    .btn:hover {
-      background: var(--accent);
-      border-color: var(--accent);
-      transform: translateY(-1px);
-    }
-    
-    .docs-list a { 
-      display: block; 
-      padding: 14px 16px; 
-      margin: 8px 0; 
-      background: var(--bg-elevated); 
-      border: 1px solid var(--border);
-      border-radius: 8px; 
-      color: var(--text); 
-      text-decoration: none;
-      transition: all .2s;
-    }
-    .docs-list a:hover { background: var(--accent); border-color: var(--accent); }
-    
-    h2,h3 { margin: 32px 0 16px; font-weight: 600; }
-    p { margin-bottom: 16px; color: var(--text-muted); }
-    a { color: #7aa2d6; }
-    a:hover { text-decoration: underline; }
-    code { 
-      background: var(--bg-elevated); 
-      padding: 2px 6px; 
-      border-radius: 4px; 
-      font-size: 14px;
-      border: 1px solid var(--border);
-    }
-    hr { border: 0; border-top: 1px solid var(--border); margin: 32px 0; }
-  </style>
+  <script>
+    (() => {
+      const saved = localStorage.getItem("theme");
+      if (saved) {
+        document.documentElement.dataset.theme = saved;
+      } else if (window.matchMedia("(prefers-color-scheme: dark)").matches) {
+        document.documentElement.dataset.theme = "dark";
+      } else {
+        document.documentElement.dataset.theme = "light";
+      }
+    })();
+  </script>
 </head>
+
 <body>
-  <div class="container">
-    <nav class="nav">
-      <a href="{{ '/' | relative_url }}" class="nav-brand">
-        {% if site.logo %}<img src="{{ site.logo | relative_url }}" alt="Logo" class="nav-logo">{% endif %}
-        <span>{{ site.title }}</span>
-      </a>
-      <div class="nav-links">
-        {% for item in site.nav %}
-          <a href="{{ item.url | relative_url }}" {% if page.url == item.url %}class="active"{% endif %}>{{ item.title }}</a>
-        {% endfor %}
-      </div>
-    </nav>
-    <main class="content">
-      {{ content }}
-    </main>
-  </div>
+
+<div class="container">
+
+<nav class="nav">
+
+<a class="nav-brand" href="{{ '/' | relative_url }}">
+{% if site.logo %}
+<img class="nav-logo" src="{{ site.logo | relative_url }}" alt="">
+{% endif %}
+<span>{{ site.title }}</span>
+</a>
+
+<div class="nav-links">
+{% for item in site.nav %}
+<a href="{{ item.url | relative_url }}"
+{% if page.url == item.url %}class="active"{% endif %}>
+{{ item.title }}
+</a>
+{% endfor %}
+
+<button id="theme-toggle" class="theme-toggle" title="Toggle theme">
+<i class="bi bi-moon-stars"></i>
+</button>
+
+</div>
+
+</nav>
+
+<main class="content">
+{{ content }}
+</main>
+
+</div>
+
+<script>
+const btn=document.getElementById("theme-toggle");
+
+btn.onclick=()=>{
+    const html=document.documentElement;
+    const next=html.dataset.theme==="dark"?"light":"dark";
+    html.dataset.theme=next;
+    localStorage.setItem("theme",next);
+};
+</script>
+
 </body>
 </html>
