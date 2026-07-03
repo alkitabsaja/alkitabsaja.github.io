@@ -52,7 +52,7 @@ jobs:
               --include-in-header=latex/header.tex \
               --top-level-division=chapter \
               -V documentclass=book \
-              -V papersize:b6 \
+              -V papersize:a5 \
               -V geometry:margin=10mm \
               --toc \
               -o "ebooks/${out}.pdf"
