@@ -46,10 +46,9 @@ jobs:
             mkdir -p "ebooks/$(dirname "$out")"
 
             echo "Building $rel"
-            tmp=$(mktemp)
-            sed 's#](/assets/#](../../assets/#g' "$src" > "$tmp"
 
-            pandoc "$tmp" \
+            pandoc "$src" \
+              --lua-filter=pandoc/fix-images.lua \
               --pdf-engine=xelatex \
               --include-in-header=latex/header.tex \
               --top-level-division=chapter \
