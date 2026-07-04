@@ -28,7 +28,7 @@ Alkitab adalah satu-satunya Kitab Suci yang mengajarkan bahwa keselamatan adalah
 Injil Kristus
 =============
 
-##Injil
+## Injil
 
 >Ayat hafalan: 1 Korintus 15:3-4
 
@@ -55,7 +55,7 @@ Paulus mengatakan dia menerima Injil langsung dari Kristus. Dia tidak mengarangn
 Perhatikan beberapa hal penting mengenai Injil dari 1 Korintus 15:1-8:
 
 
-##Apakah Kitab Suci itu?
+## Apakah Kitab Suci itu?
 
 Injil mengatakan bahwa Kristus mati untuk dosa kita “sesuai dengan Kitab Suci.” Kita akan memulai pembelajaran Injil dari sini, karena tanpa mengerti apa itu Kitab Suci, kita tidak akan mengerti siapa Kristus atau bagian manapun dari Injil.
 
@@ -104,7 +104,7 @@ Tidak ada seorangpun yang dapat menjalani kehidupan kudus yang dituntut hukum Al
 
 Hal-hal ini adalah pelajaran dasar mengenai Kitab Suci. Untuk pembuktian lebih lanjut bahwa Alkitab saja satu-satunya Firman Allah, baca buku The Bible Proof dari https://www.wayoflife.org/free_ebooks/bibles_proof.php
 
-###Pertanyaan mengenai Injil dan Kitab Suci
+### Pertanyaan mengenai Injil dan Kitab Suci
 
 1. Apakah Injil itu?
 2. Buku apa dan pasal berapa dalam Alkitab yang memberikan rangkuman singkat Injil Yesus Kristus?
@@ -133,7 +133,7 @@ Hal-hal ini adalah pelajaran dasar mengenai Kitab Suci. Untuk pembuktian lebih l
 25. Mengapa Allah memberikan hukumNya kepada manusia?
 
 
-##Siapakah Kristus?
+## Siapakah Kristus?
 
 Ayat hafalan: Lukas 19:10
 
@@ -192,7 +192,7 @@ Cara untuk mengenali kristus palsu adalah dengan memeriksa pengajarannya dan mem
 
 Salah satu kristus palsu dijelaskan dalam The Aquarian Gospel of Jesus the Christ. Saya membaca ini sebelum menjadi Kristen. Buku ini mengatakan Kristus pergi ke Mesir dan India ketika muda dan disana mempelajari kebijaksanaan para guru. Kristus adalah sumber segala kebijaksanaan dan tidak perlu mempelajari kebijaksanaan di dunia ini. Kristus palsu lainnya adalah Isa Islam. Quran, kitab Islam menjelaskan tentang Isa, tetapi ini bukanlah Yesus di Alkitab. Isa didalam Quran bukanlah Anak Allah dan tidak mati di salib untuk dosa manusia.
 
-###Pertanyaan tentang Kristus
+### Pertanyaan tentang Kristus
 
 1. Apakah itu Injil Yesus Kristus?
 2. Alkitab ditulis oleh sekitar ___ orang nabi dalam jangka waktu sekitar _____ tahun.
@@ -234,7 +234,7 @@ Salah satu kristus palsu dijelaskan dalam The Aquarian Gospel of Jesus the Chris
 
 
 
-##Apakah Dosa itu?
+## Apakah Dosa itu?
 
 >Ayat hafalan: Yeremia 17:9; Roma 3:23
 
@@ -357,7 +357,7 @@ Allah hanya menyelamatkan orang berdosa yang tidak bisa menyelamatkan dirinya se
 
 >Lukas 5:31 Lalu jawab Yesus kepada mereka, kata-Nya: "Bukan orang sehat yang memerlukan tabib, tetapi orang sakit; 5:32 Aku datang bukan untuk memanggil orang benar, tetapi orang berdosa, supaya mereka bertobat."
 
-###Pertanyaan tentang Dosa
+### Pertanyaan tentang Dosa
 
 1. Apakah itu Injil Yesus Kristus?
 2. Apakah arti gelar Kristus itu?
@@ -392,7 +392,7 @@ Allah hanya menyelamatkan orang berdosa yang tidak bisa menyelamatkan dirinya se
 
 
 
-##Kristus Mati untuk Dosa Saya
+## Kristus Mati untuk Dosa Saya
 
 >Ayat hafalan: Efesus 2:8-9
 
@@ -410,7 +410,7 @@ Kristus mati untuk dosa seluruh dunia, seisi dunia.
 
 Ini disebut dengan “penebusan pengganti.” Penebusan berarti pelunasan hutang. Ini merujuk kepada harga yang Kristus bayarkan untuk mendamaikan orang berdosa kepada Allah.
 
-###Yesus adalah penebus bagi orang berdosa.
+### Yesus adalah penebus bagi orang berdosa.
 
 Kita telah melihat ini dalam pelajaran mengenai nubuat tentang Kristus. Perhatikan kembali nubuat besar Yesaya:
 
@@ -442,7 +442,7 @@ Ayat alkitab lain mengajarkan Yesus mati bagi dosa manusia:
 >1 Petrus 3:18 Sebab juga Kristus telah mati sekali untuk segala dosa kita, Ia yang benar untuk orang-orang yang tidak benar, supaya Ia membawa kita kepada Allah; Ia, yang telah dibunuh dalam keadaan-Nya sebagai manusia, tetapi yang telah dibangkitkan menurut Roh
 >1 Yohanes 4:10 Inilah kasih itu: Bukan kita yang telah mengasihi Allah, tetapi Allah yang telah mengasihi kita dan yang telah mengutus Anak-Nya sebagai pendamaian bagi dosa-dosa kita.
 
-###Keselamatan adalah pemberian karunia gratis dari Allah bagi orang berdosa.
+### Keselamatan adalah pemberian karunia gratis dari Allah bagi orang berdosa.
 
 Perhatikan ayat-ayat berikut:
 
@@ -462,7 +462,7 @@ Perhatikan ayat berikut:
 
 >Roma 11:6 Tetapi jika hal itu terjadi karena kasih karunia, maka bukan lagi karena perbuatan, sebab jika tidak demikian, maka kasih karunia itu bukan lagi kasih karunia.
 
-###Percaya pada Injil berarti saya tidak percaya pada apapun selain kepada Kristus untuk keselamatan.
+### Percaya pada Injil berarti saya tidak percaya pada apapun selain kepada Kristus untuk keselamatan.
 
 Jika saya masih percaya kepada jalan agama lain, atau pekerjaan baik saya, atau kepada baptisan atau sakramen atau biarawan atau kepada Maria atau orang-orang kudus atau kepada gereja, berarti saya tidak percaya pada Injil Kasih Karunia dan saya tidak bisa diselamatkan. Jika saya percaya 95% kasih karunia Allah dan 5% perbuatan baik, ini adalah injil palsu. Saya tidak bisa diselamatkan seperti ini.
 
@@ -472,7 +472,7 @@ Perhatikan John dan Charles Wesley pada abad 18 yang sangat giat mendukung kekri
 
 Tetapi Wesley bersaudara ini mempercayai amal perbuatan baik mereka daripada kasih karunia yang diajarkan Injil Kristus. Mereka tahu tentang Kristus, tetapi mereka tidak mengenal Kristus secara pribadi. Ketika seorang pengkotbah bertanya kepada mereka apakah mereka diselamatkan, mereka menjawab iya. Kemudia ditanyakan alasanya, dijawab “Karena saya telah melakukan usaha terbaik saya untuk melayani Allah.” Mereka percaya kepada amal perbuatan mereka daripada kepada Kristus saja.
 
-###Pertanyaan mengenai Yesus mati untuk dosa saya
+### Pertanyaan mengenai Yesus mati untuk dosa saya
 
 1. Apakah itu Injil Yesus Kristus?
 2. Pohon apakah yang tidak boleh dimakan Adam?
@@ -491,7 +491,7 @@ Tetapi Wesley bersaudara ini mempercayai amal perbuatan baik mereka daripada kas
 15. Jika seseorang percaya 1% dalam ibadah untuk keselamatn, dapatkah dia menerima Kristus dan diselamatkan dalam kondisi ini?
 
 
-##Kristus dikuburkan
+## Kristus dikuburkan
 
 Injil mengatakan, Kristus telah mati karena dosa-dosa kita, sesuai dengan Kitab Suci, bahwa Ia telah dikuburkan …
 
@@ -506,7 +506,7 @@ Tetapi kubur ini hanya sementara.
 Kubur tidak sanggup menahan Sang Penebus.
 
 
-##Kristus bangkit dari mati
+## Kristus bangkit dari mati
 
 >1 Korintus 15:4b .. dan bahwa Ia telah dibangkitkan, pada hari yang ketiga, sesuai dengan Kitab Suci; 15:5 bahwa Ia telah menampakkan diri kepada Kefas dan kemudian kepada kedua belas murid-Nya. 15:6 Sesudah itu Ia menampakkan diri kepada lebih dari lima ratus saudara sekaligus; kebanyakan dari mereka masih hidup sampai sekarang, tetapi beberapa di antaranya telah meninggal. 15:7 Selanjutnya Ia menampakkan diri kepada Yakobus, kemudian kepada semua rasul. 15:8 Dan yang paling akhir dari semuanya Ia menampakkan diri juga kepadaku, sama seperti kepada anak yang lahir sebelum waktunya.
 
@@ -525,7 +525,7 @@ Kebangkitan Kristus membuktikan diriNya adalah Anak Allah. Paulus mengatakan “
 
 Jika Kristus tidak bangkit dari maut, hal ini akan membuktikan bahwa Dia menipu atau nabi palsu dan bukan Anak Allah yang Dia klaim.
 
-###Bukti kebangkitan Yesus adalah pada saksi-saksi mata.
+### Bukti kebangkitan Yesus adalah pada saksi-saksi mata.
 
 Setelah kebangkitanNya dari maut, Kristus tinggal bersama murid-muridNya selama 40 hari. Kristus menampakkan diri kepada semua murid-muridNya. Satu waktu Dia menampakkan diri kepada lebih dari 500 orang sekaligus. Dia membiarkan mereka menyentuhNya, Dia memakan makanan untuk membuktikan bahwa Dia bukan sekadar roh (Lukas 24:36-43). Dia mengajari mereka dan mempersiapkan mereka untuk kenaikanNya ke sorga. Dia memerintahkan mereka untuk memberitakan InjilNya ke seluruh dunia (Matius 28:18-20).
 
@@ -549,7 +549,7 @@ Dia masih mengundang orang-orang berdosa untuk datang kepadaNya.
 
 Untuk pembuktian lebih lanjut mengenai kebangkitan jasmani Kristus, lihat ebook https://www.wayoflife.org/free_ebooks/bibles_proof.php )
 
-###Pertanyaan tentang kematian dan kebangkitan Yesus.
+### Pertanyaan tentang kematian dan kebangkitan Yesus.
 
 1. Apakah itu Injil Yesus Kristus?
 2. Apakah kabar buruk dan kabar baik dari Alkitab?
@@ -588,7 +588,7 @@ Karena Paulus menempatkan pertobatan terlebih dahulu, kita akan mulai pembelajar
 
 Kita akan menjawab pertanyaan-pertanyaan tentang pertobatan:
 
-##Apakah pertobatan perlu untuk keselamatan?
+## Apakah pertobatan perlu untuk keselamatan?
 
 Banyak gereja tidak mengkotbahkan pertobatan. Mereka mengatakan hanya perlu iman saja untuk keselamatan. Tetapi pertobatan diperintahkan oleh Allah. Pertobatan disebut 60 kali dalam PB.
 
@@ -629,7 +629,7 @@ Paul mengkotbahkan bahwa hanya ada satu Allah Pencipta yang menciptakan semua or
 Seperti kita lihat, rasul Paulus mengkotbahkan pertobatan dan iman; jadi, jelas bahwa keduanya diperlukan untuk keselamatan (KPR 20:21).
 
 
-##Apakah itu pertobatan?
+## Apakah itu pertobatan?
 
 - Pertobatan adalah mengakui bahwa saya telah berdosa melawan Allah dan saya menyesalinya.
 
@@ -673,7 +673,7 @@ Penginjil James Stewart dalam bukunya Penginjilan menggambarkan pertobatan denga
 
 Lester Roloff mengatakan: “Saya percaya kita harus memperbaiki apa yang bisa kita benarkan. Bagaimana jika saya tinggal dengan kelompok pengkotbah dan salah satunya mencuri dompet saya selagi saya tidur? Kemudian hari berikutnya datang kepada saya dan mengatakan bahwa dia sangat menyesal dan meminta saya memaafkannya. Saya akan sangat senang mendengar dia menyesal telah mencuri dompet saya, tetapi pastinya saya mengharapkan suatu yang lebih dari pertobatan pencuri. Saya ingin dompet saya kembali lengkap dengan semua isinya! Saya tidak percaya dia benar-benar bertobat kecuali jika dia mengembalikan dompet saya. SAYA TIDAK PERCAYA KAMU SUDAH BERTOBAT KECUALI KAMU MENJADI BENAR DAN MENGATAKAN, “TUHAN, HIDUP SAYA AKAN BERUBAH SEJAK SAAT INI,’ dan oleh kasih karunia Allah hidupmu akan berubah” (Rolloff, Repent or Perish).
 
-##Adakah beberapa contoh pertobatan dalam Alkitab?
+## Adakah beberapa contoh pertobatan dalam Alkitab?
 
 Cara terbaik memahami pertobatan adalah dengan melihat contohnya didalam Alkitab.
 
@@ -718,7 +718,7 @@ Pada 1979, seorang Hindu paruh baya yang kaya ingin saya mengajarinya tentang Ye
 
 Allah menuntutmu untuk bertobat hari ini. Apakah kamu siap untuk bertobat berpaling kepada Allah?
 
-##Pertanyaan tentang pertobatan.
+## Pertanyaan tentang pertobatan.
 
 1. Apakah itu Injil Yesus Kristus?
 2. Apakah dua bukti kebangkitan Yesus?
@@ -764,9 +764,9 @@ Dalam pelajaran ini kita melihat iman “percaya kepada Tuhan kita, Yesus Kristu
 
 Perhatikan tiga pertanyaan penting tentang iman yang menyelamatkan:
 
-#Apakah iman yang menyelamatkan?
+## Apakah iman yang menyelamatkan?
 
-###Iman yang menyelamatkan tidak hanya  percaya kepada fakta.
+### Iman yang menyelamatkan tidak hanya  percaya kepada fakta.
 
 Penting dipahami bahwa iman yang menyelamatkan bukanlah hanya sekadar percaya kepada fakta sejarah saja. Sebagai contoh, kita percaya bahwa George Washington adalah presiden pertama Amerika Serikat dan Adolf Hitler memerintah Jerman pada Perang Dunia II dan Mahatma Gandhi pernah hidup di India. Semua kepercayaan ini tidak merubah kehidupan orang-orang yang mempercayainya.
 
@@ -781,7 +781,7 @@ Untuk diselamatkan saya harus percaya bahwa hanya Yesus Kristus saja satu-satuny
 
 Seorang China pernah berkata dia percaya Yesus dan ingin dibaptis. Pengkotbah bertanya kepadanya bagaimana menurut dia tentang Buddha. Dia berkata, “Saya masih percaya pengajaran Buddha.” Ini bukan iman yang menyelamatkan.
 
-###Iman yang menyelamatkan adalah iman yang percaya sepenuhnya.
+### Iman yang menyelamatkan adalah iman yang percaya sepenuhnya.
 
 Kata percaya dalam Alkitab berarti percaya sepenuhnya, bergantung kepadanya, menyerahkan diri sepenuhnya.
 
@@ -795,7 +795,7 @@ Percaya kepada Yesus adalah seperti percaya kepada dokter ulung untuk mengobati 
 
 Alkitab mengatakan bahwa orang berdosa membutuhkan ‘bedah jantung,’ tetapi hanya ada satu dokter saja yang bisa melakukannya dan Dia adalah Dr. Yesus. Perhatikan keselamatan bisa diibaratkan mencari dokter jantung unggulan. Pertama, pasien mengenali kebutuhannya. Dia mengerti bahwa dia menderita penyakit yang mematikan dan dia bisa mati kapan saja. Dia mengerti bahwa sangat lah amat penting baginya untuk mendapatkan penyembuhan secepat mungkin. Tidak seorang pun yang mau dibedah jantungnya jika dia tidak benar-benar yakin itu harus dilakukan. Begitu juga tidak ada seorang pun yang berpaling kepada Yesus untuk keselamatan sampai dia benar-benar yakin bahwa dia orang berdosa yang harus dihukum dalam neraka kekal. Kedua, pasien mengerti bahwa sama sekali tidak ada cara penyembuhan lain. Dia benar-benar percaya bahwa dia tidak bisa menyembuhkan dirinya sendiri dan tidak ada dokter lain yang sanggup menolongnya. Begitu pula, orang berdosa tidak akan berserah penuh kepada Yesus sampai dia benar-benar yakin bahwa tidak mungkin bisa diselamatkan dengan amal perbuatan baik maupun ritual ibadah agama atau filosofi apapun. Ketiga, pasien tahu kemampuan dan reputasi dokter. Dia mengerti bahwa dokter ini punya kemampuan khusus dan 100% berhasil, sama sekali tidak pernah gagal dalam operasi. Dan tidak ada dokter lain yang sanggup menolongnya. Begitu pula, orang berdosa harus mengerti bahwa Yesus adalah Anak Allah yang sanggup menyelamatkan setiap orang berdosa yang datang kepadaNya. Hal ini dimengerti dari mendengar Injil Kristus. Keempat, pasien diaykinkan bahwa dokter ini sanggup menyembuhkan. Dia percaya bahwa dari semua dokter diseluruh dunia hanya satu dokter ini yang bisa menyembuhkan penyakit ini. Begitu pula, orang berdosa harus benar-benar yakin bahwa selain Yesus, di bawah kolong langit ini tidak ada nama lain yang diberikan kepada manusia yang olehnya kita dapat diselamatkan. (KPR 4:12). Kelima, pasien harus datang kepada dokter. Tidak cukup hanya tahu mengenai dokter unggulan, saya harus datang kepadaNya secara pribadi dan meminta bantuanNya. Begitu pula, tidak cukup orang berdosa mempelajari Injil dan berdiri jauh dan mengagumi Sang Dokter Yesus. Saya harus datang kepada Kristus secara pribadi untuk keselamatan. Yesus mengatakan, “.. barangsiapa datang kepada-Ku, ia tidak akan Kubuang.” Yohanes 6:37. Si pasien harus membiarkan Sang Dokter untuk merawat dia dan percaya mutlak sepenuhnya kepadaNya. Ini adalah contoh iman yang menyelamatkan.
 
-###Iman yang menyelamatkan adalah keyakinan pasti.
+### Iman yang menyelamatkan adalah keyakinan pasti.
 
 Untuk diselamatkan saya harus yakin sepenuhnya bahwa Yesus adalah Tuhan dan Juruselamat dan bahwa Dia akan memenuhi janjiNya kepada saya. Keselamatan yang benar adalah kepastian keselamatan dengan keyakinan penuh.
 
@@ -813,7 +813,7 @@ Kita lihat bahwa Allah mau orang berdosa diselamatkan dan mengetahui bahwa merek
 
 Bertentangan dengan kepastian iman adalah “iman” orang yang mengatakan mereka “berharap” akan diselamatkan, artinya mereka tidak yakin. Saya pernah bertemu seorang Nepal yang mengatakan dia 99% percaya kepada Yesus. Itu tidak cukup! Kamu harus seperti Petrus yang benar-benar yakin.
 
-####Iman yang menyelamatkan adalah iman yang tidak bercampur
+### Iman yang menyelamatkan adalah iman yang tidak bercampur
 
 Iman kepada Kristus tidak bisa dicampur dengan iman kepada usaha manusia. Perhatikan ayat berikut yang mengajarkan bahwa keselamatn bukan hasil usahamu.
 
@@ -833,7 +833,7 @@ Alkitab saja satu-satunya kitab suci yang mengajarkan hal ini bahwa keselamatan 
 
 Yesus adalah satu-satunya yang membayarkan lunas keselamatan dengan harga yang teramat mahal, dengan kematian dan darahNya. Dia membayar harga 100% lunas. Sudahkah anda menerima karnunia gratis keselamatan, atau masihkah anda berusaha melakukan amal ibadah untuk dapat membayar keselamatanmu sendiri?
 
-####Iman yang menyelamatkan adalah iman yang menerima.
+### Iman yang menyelamatkan adalah iman yang menerima.
 
 >Yohanes 1:11 Ia datang kepada milik kepunyaan-Nya, tetapi orang-orang kepunyaan-Nya itu tidak menerima-Nya. 1:12 Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah, yaitu mereka yang percaya dalam nama-Nya
 
@@ -861,7 +861,7 @@ Yesus mengatakan, “jiwamu akan mendapat ketenangan. Sebab kuk yang Kupasang it
 
 Saya ingat seorang wanita yang mengaku Kristen yang berkata kepada isteriku, “Kehidupan Kristen terlalu berat. Saya tidak sanggup melakukannya.” Dia tumbuh dalam keluarga Kristen dan dibaptis dan mengaku sebagai Kristen ketika dia nyaman, tetapi dia tidak memiliki sukacita didalam Kristus karena dia tidak mengenal keselamatan didalam Kristus. Dia tidak berserah kepada Allah dalam pertobatan. Dia tidak datang kepada Kristus sebagai orang berdosa yang membutuhkan keselamatan. Dia tidak memikul kuk Kristus. Ini bukanlah keselamatan.
 
-##Dimanakah posisi pekerjaan dalam kehidupan Kristen?
+## Dimanakah posisi pekerjaan dalam kehidupan Kristen?
 
 Apakah percaya Kristus berarti saya tidak perlu bekerja dalam kehidupan Kristiani? Dimanakah posisi pekerjaan? Kita telah menyinggung hal ini dalam pelajaran sebelumnya, tetapi kita akan mendalaminya lagi. Kita perhatikan lagi ayat ini.
 
@@ -881,7 +881,7 @@ Ini adalah beberapa pekerjaan yang Allah ingin agar orang percaya melakukannya, 
 
 Pertama, saya harus dibersihkan dari segala dosa saya dan didamaikan dengan Allah, kemudian baru saya bisa melayani Allah.
 
-##Kesimpulan – Pertobatan dan Iman Bekerja
+## Kesimpulan – Pertobatan dan Iman Bekerja
 
 Salah satu contoh jelas di Alkitab mengenai pertobatan dan iman bekerja adalah 1 Tesalonika 1:9-10. Kita telah mempelajari ini dalam pelajaran tentang pertobatan, kini kita lihat kembali untuk membuat kesimpulan.
 
@@ -896,7 +896,7 @@ Apakah anda siap melakukan ini?
 
 >2Korintus 6:2 Sebab Allah berfirman: "Pada waktu Aku berkenan, Aku akan mendengarkan engkau, dan pada hari Aku menyelamatkan, Aku akan menolong engkau." Sesungguhnya, waktu ini adalah waktu perkenanan itu; sesungguhnya, hari ini adalah hari penyelamatan itu.
 
-##Pertanyaan tentang Iman.
+## Pertanyaan tentang Iman.
 
 1. Apakah itu Injil Yesus Kristus?
 2. Apakah yang Yesus katakan akan terjadi kepada orang yang tidak mau bertobat?
