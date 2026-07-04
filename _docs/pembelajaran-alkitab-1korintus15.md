@@ -1,5 +1,5 @@
 ---
-title: Pembelajaran Alkitab 1 Korintus 5
+title: Pembelajaran Alkitab 1 Korintus 15
 ---
 
 
