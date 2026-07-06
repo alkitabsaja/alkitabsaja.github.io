@@ -4,9 +4,9 @@ permissions:
   contents: write
 
 on:
-  push:
-    paths:
-      - "_docs/**/*.md"
+#  push:
+#    paths:
+#      - "_docs/**/*.md"
   workflow_dispatch:
 
 jobs:
