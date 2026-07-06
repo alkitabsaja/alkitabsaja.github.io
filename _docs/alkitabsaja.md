@@ -3,6 +3,89 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 author: Alkitabiah.org
 ---
 
+
+FONDASI IMAN KRISTEN
+====================
+
+**Author:** Ranto Vaber Simamora
+
+Semua orang yang percaya kepada Tuhan Yesus Kristus harus tahu bahwa satu-satunya dasar iman Kristen adalah Alkitab. Iman seorang Kristen tidak didasarkan pada hal lain, selain Alkitab. Kita akan melihat beberapa contoh hal -hal yang bukan fondasi dari iman Kristen.
+
+## 1. Iman Kristen tidak berdiri di atas Konsili/rapat.
+Konsili adalah musyawarah/rapat para pemuka gereja tertentu. Konsili hanya sebagai sebuah sidang yang mengumumkan apa yang dipercayai oleh sebuah kelompok gereja tertentu.
+
+Ada tujuh konsili/rapat  yang diadakan sebelum tahun 1000 Masehi : 1. Konsili Nikea (I) 325 M,  2. Konsili Konstantinopel (I) 381 , 3. Konsili Efesus 431 M, 4. Konsili kalsedon 451 M, 5. Konsili Konstantinopel (II) 553 M, 6. Konsili Konstantinopel (III) 680-681 M, 7. Konsili Nikea (II). Selain ketujuh konsili ini, ada banyak konsili-konsili lainnya yang diadakan oleh berbagai aliran gereja.
+
+Tanpa Konsili, kebenaran firman Tuhan tetap sempurna. Justru dengan adanya konsili, kebenaran firman Tuhan banyak dipertanyakan, karena banyak umat lebih memilih percaya pada konsili dari pada apa kata Alkitab. Lalu, apakah tidak boleh rapat (konsili)? Tentu saja boleh untuk kalangan sendiri. Yang tidak boleh adalah menjadikan rapat (konsili) menjadi ukuran bagi gereja lokal yang lain.
+
+## 2. Iman Kristen tidak berdiri di atas Pengakuan Iman (Kredo) gereja tertentu.
+
+Pengakuan iman adalah Kredo. Para rasul tidak pernah membuat “pengakuan iman rasuli”. Pengakuan iman itu dibuat pada abad ke 4 masehi, empat ratus tahun setelah para rasul meninggal. Penulis “pengakuan iman rasuli” tidak diketahui tetapi dia sengaja mencatut nama para rasul. Mereka yang membuat judul tersebut ingin orang lain berpikir bahwa para rasul yang membuat “pengakuan iman rasuli”, tetapi faktanya para rasul tidak pernah membuat pengakuan iman tersebut.
+
+Semua pengakuan iman yang dibuat oleh tiap-tiap gereja hanyalah sebagai kesepakatan bersama, agar satu suara dalam pengajaran. Pengakuan iman yang benar juga sebagai pembimbing dalam menghadapi pertentangan dengan ajaran lain. Pengakuan iman  tidak boleh membelenggu kebenaran dalam Alkitab. Karena itu “Pengakuan iman” gereja mana pun bukanlah patokan kebenaran bagi semua orang Kristen lainnya.
+
+## 3. Iman Kristen tidak berdiri di atas perkataan rohaniawan gereja tertentu.
+
+Biasanya beberapa gereja menyebutnya sebagai “bapak-bapak gereja”, tapi penyebutan yang benar adalah rohaniawan gereja. Perkataan “rohaniawan gereja” banyak jadikan sebagai rujukan untuk membenarkan sebuah ajaran. Beberapa gereja tidak dapat berdiri tanpa perkataan mereka. Bagi mereka Alkitab tidak cukup sebagai dasar iman. Mereka perlu dasar iman yang lain seperti “perkataan rohaniawan gereja”.
+
+Perkataan rohaniawan gereja harus dipandang sebagai masukan dan penambah pengetahuan tentang “sejarah pemikiran” dalam dunia Kristen, tidak boleh lebih dari itu. Karena perkataan rohaniawan gereja mana pun bukanlah patokan kebenaran.  
+
+## 4. Iman Kristen tidak berdiri di atas fenomena/kejadian tertentu.
+
+Dalam “kekristenan” ada banyak fenomena/peristiwa yang katanya terjadi padahal tidak. Katanya Maria menampakkan diri di Lordes, katanya pendeta “A” berjalan di atas air, katanya Yesus menampakkan diri di atas awan, dll. Semua fenomena ini adalah cara si Iblis menipu manusia. Ada juga yang benar-benar terjadi tetapi bukan dari Tuhan, melainkan dari si iblis untuk memanipulasi manusia.
+
+## 5. Iman Kristen tidak berdiri di atas pengalaman pribadi seseorang.
+
+Si “A” bersaksi bahwa dia dibawa Tuhan 7 kali ke Sorga, si “B” berkata dia bertemu secara langsung dengan Lusifer, si “C” tidak mau kalah, berkata dia dibawa Tuhan ke Neraka. Si “D” bersaksi, Tuhan langsung berbicara kepadanya, bahwa kiamat akan terjadi 22 Oktober 1884. Si “E” (pemimpin gereja besar di dunia) bermimpi bahwa Tuhan berkata kepadanya Yesus akan datang, sebarkan informasi ini kepada beberapa orang, kalau tidak disebarkan akan mendapat celaka dan kalau disebarkan akan mendapat berkat dari Tuhan.
+
+Kesaksian pengalaman pribadi ini, bukanlah ukuran kebenaran bagi orang percaya lainnya. Kesaksian seperti ini justru menjadi ajang penyesatan dibanyak gereja.
+
+## 6. Iman Kristen tidak  berdiri di atas buku-buku sejarah gereja tertentu.
+
+Sejarah gereja tertentu hanyalah sebagai pengetahuan umum, untuk mengetahui sejarah pemikiran dan tokoh-tokoh dalam gereja. Sejarah gereja bukanlah dasar iman Kristen. Sejarah dapat ditulis ulang oleh para penguasa sesuai agenda mereka, dan banyak penulis sejarah gereja menulis sesuai dengan ajaran yang ia anut.
+
+## 7. Iman Kristen tidak berdiri di atas “Tradisi suci” di luar Alkitab.
+
+Tradisi suci yang benar adalah yang tertulis dalam Alkitab. Semua tradisi yang tidak tertulis dalam Alkitab bukanlah tradisi suci melainkan tradisi hasil karya rohaniawan gereja tertentu yang dilestarikan dari turun temurun.
+
+Dasar iman orang percaya adalah Alkitab bukan tradisi gereja tertentu. Tidak ada keharusan cara beribadah atau cara berpakaian gereja tertentu menjadi ukuran bagi gereja lain. Iman Kristen bukan tentang tata cara ibadah dan cara berpakaian jemaat mula-mula tetapi tentang ajaran. Alkitab hanya memberikan syarat dalam sebuah jemaat harus “sopan dan teratur”. Semua suku bangsa boleh beribadah sesuai budaya mereka masing-masing dan tidak perlu harus mengikuti cara beribadah bangsa Yunani atau pun bangsa Yahudi.
+
+## 8. Iman Kristen tidak berdiri di atas buku-buku apokrifa atau pun deuterokanonika.
+
+Orang Yahudi adalah sebuah bangsa yang memiliki banyak tulisan, tetapi bangsa ini juga merupakan bangsa pendongeng. Ada 1001 cerita dongeng yang dikarang sebagai bahan ajar. Bangsa Yahudi juga banyak menulis tentang kisah-kisah kepahlawanan. Kisah-kisah ini ditulis menjadi sebuah buku. Buku-buku ini dikenal sebagai apokrifa (tersembunyi).
+
+Ada beberapa aliran “Kristen” yang menambahkan apokrifa sebagai kitab mereka. Bangsa Yahudi sendiri tidak mengakui buku-buku sejarah (apokrifa) sebagai firman Tuhan. Kristen mula-mula hanya mengakui ke 66 kitab dalam Alkitab sebagai firman Tuhan.
+
+## 9. Iman Kristen tidak berdiri di atas teologi tertentu.
+
+Seorang teolog dapat menulis jurnal ilmiah atau sebuah buku teologi. Buku-buku teologi seperti buku teologi sistematik, teologi dogmatik, teologi biblika, hanyalah sebuah metode untuk memahami isi Alkitab secara urut atau tersistem.
+
+Tentu saja kita boleh membaca semua buku-buku teologi tetapi semua itu bukanlah dasar iman kita. Buku-buku ini hanya alat untuk memahami bagian-bagian Alkitab. Karena sifatnya hanyalah sebuah “alat” maka tidak boleh dijadikan sebagai ukuran iman. Banyak sekali orang Kristen terutama mahasiswa teologi yang lebih percaya  buku teologi dibanding Alkitab. Padahal di buku-buku teologilah berkumpul semua jenis pemikiran liar yang menolak Alkitab sebagai satu-satunya patokan kebenaran.
+
+## Fondasi Iman Kristen hanya Alkitab
+
+### Tuhan  mengilhamkan Alkitab.
+
+Tuhan tidak mengilhamkan semua hal yang kita sudah baca di atas, Tuhan hanya mengilhamkan Alkitab. Alkitab adalah firman Tuhan karena setiap huruf dan kata dalam Alkitab adalah ilham dari Roh Kudus. Tuhan memakai pribadi penulis untuk menulis Alkitab, tetapi mereka tidak bisa menambahkan pemikiran mereka saat menuliskan firman Tuhan.
+
+Tuhan mengilhamkan firman-Nya (II Timotius 3:16) hanya di dalam ke-66 kitab dalam Alkitab. Di luar dari ke 66 kitab, itu bukanlah firman Tuhan.
+
+### Tuhan memelihara Alkitab.
+
+Tuhan tidak bisa salah. Alkitab adalah firman Tuhan. Karena itu Alkitab tidak bisa salah. Tuhan memelihara Firman-Nya dari zaman Adam sampai sekarang ini dengan cara menyalin ulang Firman itu. Tuhan  memakai orang-orang kudus-Nya untuk menyalin firman Tuhan dari wadah yang satu ke wadah yang lain. Dari batu ke kulit binatang, dari kulit binatang ke papyrus, dari papyrus ke kertas, dari kertas ke elektronik.
+
+Wadah firman Tuhan silih berganti tetapi firman Tuhan kekal untuk selama-lamanya (Mazmur119:89). Tuhan tetap memelihara firman-Nya sampai saat ini.
+
+Kepustakaan:
+
+- Henry C. Thiessen, direvisi oleh Vernon D. Doerksen, Sistematik Teologi (Gandum Mas, 2010).
+- Norman Geisler, Sistematic Theology in one Volume (Bethany House Publisher, 2011).
+- Ronald H. Nash, Iman dan Akal Budi (Momentum, 2001).
+- Suhento Liauw, Doktrin Alkitab Alkitabiah (Gereja Baptis Independen Alkitabiah Graphe, 2001).
+- Timothy Ware, Mari Mengenal Kekristenan Timur (Satya Widya  Graha, 2001).
+
+
+
 Bagaimana kita tahu bahwa Alkitab itu benar?
 ============================================
 
@@ -24,7 +107,7 @@ Banyak nubuat yang berkenaan dengan berbagai bangsa dan kota yang dengan berjala
 
 Tidak ada kitab kuno maupun modern lain yang serupa dengan kitab ini. Nubuatan-nubuatan yang samar-samar dan biasanya keliru dari orang-orang seperti Jeanne Dixon, Nostradamus, Edgar Cayce, dan yang lainnya sama sekali tidak dapat dimasukkan dalam kategori yang sama, demikian pula kitab-kitab agama lainnya seperti Al-Quran, Ucapan-ucapan Khong Hu Cu dan tulisan-tulisan agama lainnya. Hanya Alkitab yang memperlihatkan bukti nubuatan yang mengagumkan ini, dan menunjukkannya dengan skala yang begitu luar biasa sehingga menjadikan semua penjelasan mengenai asal-usulnya terlihat absurd, kecuali penjelasan bahwa Kitab ini adalah penyataan ilahi.
 
-## Ketepatan Sejarah Yang Unik
+## Ketepatan Sains dan Sejarah Yang Unik
 
 Ketepatan sejarah dalam Kitab Suci menempatkannya dalam kelas tersendiri, jauh lebih superior dibandingkan tulisan-tulisan Mesir, Asyur dan bangsa-bangsa kuno lainnya. Peneguhan arkeologi atas catatan Alkitab sepanjang abad 20 demikian banyaknya. Dr. Nelson Glueck, yang barangkali adalah ahli arkeologi Israel terbesar di jaman modern ini, mengatakan:
 
@@ -287,55 +370,55 @@ Mengapa semua orang saat ini HANYA boleh percaya pada Alkitab (66 kitab) saja? M
 
 Sebelum Alkitab lengkap/sempurna, Tuhan berbicara kepada manusia dengan pelbagai cara (Ibrani 1:1). Kita akan melihat cara-cara yang Tuhan pakai dalam berkomunikasi kepada manusia sebelum Alkitab selesai  ditulis.
 
-1. Tuhan berbicara kepada manusia secara langsung
+## 1. Tuhan berbicara kepada manusia secara langsung
 
 Dalam Kejadian 2-3 Tuhan berbicara kepada Adam dan Hawa secara langsung. Dalam rupa manusia Tuhan berjalan bersama Adam sebelum mereka jatuh dalam dosa. Tetapi saat ini Tuhan tidak lagi duduk dan berjalan bersama-sama dengan kita, seperti yang Ia  lakukan kepada Adam.
 
-2. Tuhan berbicara kepada manusia melalui (via) suara
+## 2. Tuhan berbicara kepada manusia melalui (via) suara
 
 Setelah kejatuhan Adam, Tuhan berbicara kepada manusia melalui suara. Tuhan berbicara kepada Kain (Kej. 4:6), dan Nuh (Kej. 6:13) melalui suara. Saat ini Tuhan tidak berbicara melalui suara kepada semua orang. Tuhan berbicara melaui firman-Nya (Alkitab).
 
-3. Tuhan berbicara kepada manusia melalui undian
+## 3. Tuhan berbicara kepada manusia melalui undian
 
 Yunus ditetapkan sebagai penyebab laut bergelora melalui sistem undi (Yunus 1:7). Matias juga dipilih menggantikan posisi Yudas Iskariot melalui sistem undi (Kis. 1:26). Tetapi saat ini,  kita tidak mengundi seseorang untuk mengetahui apakah dia berbuat dosa atau tidak.
 
-4. Tuhan berbicara kepada manusia dalam rupa manusia (Theophany)
+## 4. Tuhan berbicara kepada manusia dalam rupa manusia (Theophany)
 
 Tuhan bertemu Abraham dalam rupa manusia (Kej. 18:1-3). Yakub juga bertemu Tuhan dalam rupa manusia (Kej. 32:28-30). Apakah Tuhan saat ini  bertemu Anda dalam rupa manusia?  Tentu saja  tidak! Karena saat ini, Tuhan tidak bertemu dengan kita dalam rupa seorang manusia.
 
-5. Tuhan berbicara kepada manusia melalui urim dan tumim.
+## 5. Tuhan berbicara kepada manusia melalui urim dan tumim.
 
 Urim dan Tumim (Kel. 28:30) merupakan dua buah batu yang terletak di kantong penutup dada imam besar. Tuhan menyatakan kehendakNya melalui kedua batu ini (I Sam. 14:41). Saat ini kedua batu ini sudah tidak ada.  Apakah itu artinya Tuhan sudah tidak berbicara lagi? Tuhan masih tetap berbicara  melalui Alkitab.
 
-6. Tuhan berbicara kepada manusia melalui mimpi.
+## 6. Tuhan berbicara kepada manusia melalui mimpi.
 
 Tuhan menyatakan kehendakNya melalui mimpi kepada Yusuf, Firaun, Nebukadnezar, Maria dll. Semua yang mimpi dalam Alkitab itu saksinya adalah Tuhan. Saat ini semua manusia bermimpi disebabkan oleh banyak kesibukan (Pengkotbah 5:2).
 
-7. Tuhan berbicara kepada manusia lewat nubuatan.
+## 7. Tuhan berbicara kepada manusia lewat nubuatan.
 
 Melalui para Nabi-Nya Tuhan menubuatkan banyak hal dalam Alkitab. Banyak dari nubuat-nubuat ini sudah digenapi dan lainnya masih menunggu penggenapannya. Wahyu 22:18 memberi peringatan agar  tidak menambah dan mengurangi nubuat-nubuat dalam Alkitab. Karena nubuat sudah tidak boleh ditambahi, maka sekarang ini, tidak ada lagi nabi.
 
-8. Tuhan berbicara kepada manusia melalui perantaraan para Nabi.
+## 8. Tuhan berbicara kepada manusia melalui perantaraan para Nabi.
 
 Nabi adalah penyampai pesan Tuhan kepada umat. Melalui  nabi-nabi, Tuhan menyatakan kehendakNya dan menyingkapkan hal-hal yang akan datang (Nubuat). Karena semua hal-hal yang akan datang sudah Tuhan singkapkan maka sekarang jabatan nabi sudah tidak ada lagi.
 
-9. Tuhan berbicara kepada manusia dengan mengutus malaikat.
+## 9. Tuhan berbicara kepada manusia dengan mengutus malaikat.
 
 Tuhan mengutus malaikat untuk menyampaikan pesan dan untuk melindungi umatNya. Semua yang bertemu Malaikat dalam Alkitab, kita percaya itu benar karena dicatat dalam Alkitab.
 
-10. Tuhan berbicara kepada manusia melalui para rasul.
+## 10. Tuhan berbicara kepada manusia melalui para rasul.
 
 Para rasul menjadi ukuran kebenaran saat Alkitab Perjanjian Baru masih dalam proses penulisan. Melalui mereka Tuhan menyatakan firmanNya.
 
-11. Tuhan berbicara kepada manusia melalui karunia-karunia roh.
+## 11. Tuhan berbicara kepada manusia melalui karunia-karunia roh.
 
 Karunia-karunia roh adalah suatu kemampuan adikodrati yang Tuhan berikan kepada seseorang tanpa melalui proses belajar (I Korintus 12:1-11). Tuhan memberikan karunia-karunia roh untuk membangun jemaat saat Alkitab masih dalam proses penulisan, tapi saat Alkitab selesai ditulis karunia-karunia roh ini akan berhenti (I Korintus 13:10). Karunia-karunia roh  ini ada masa pemakaiannya. Tidak di semua zaman memiliki karunia-karunia roh, zaman Adam, zaman Abraham, zaman Daud dan saat ini, karunia-karunia roh sudah tidak ada.
 
-12. Tuhan berbicara kepada manusia secara langsung (Yesus Kristus).
+## 12. Tuhan berbicara kepada manusia secara langsung (Yesus Kristus).
 
 Tuhan Yesus berbicara secara langsung kepada manusia dalam rupa manusia. Setiap orang pada zaman itu dapat melihat dan menyentuhnya. Tetapi sekarang Tuhan Yesus sudah di Sorga (Kis. 1:9-11).
 
-13. Tuhan berbicara kepada manusia HANYA melalui Alkitab saja.
+## 13. Tuhan berbicara kepada manusia HANYA melalui Alkitab saja.
 
 Setelah kitab Wahyu ditulis oleh Rasul Yohanes di pulau Patmos pada tahun 98 Masehi, sejak saat itulah Tuhan HANYA berbicara kepada manusia melalui Alkitab. Kalau dulu Tuhan berbicara kepada manusia melalui banyak cara, sekarang Tuhan HANYA bicara melalui Alkitab (Wahyu 22:18-19).
 
@@ -366,85 +449,6 @@ Kepustakaan:
 
 
 
-
-
-FONDASI IMAN KRISTEN
-====================
-
-**Author:** Ranto Vaber Simamora
-
-Semua orang yang percaya kepada Tuhan Yesus Kristus harus tahu bahwa satu-satunya dasar iman Kristen adalah Alkitab. Iman seorang Kristen tidak didasarkan pada hal lain, selain Alkitab. Kita akan melihat beberapa contoh hal -hal yang bukan fondasi dari iman Kristen.
-
-###1. Iman Kristen tidak berdiri di atas Konsili/rapat.
-Konsili adalah musyawarah/rapat para pemuka gereja tertentu. Konsili hanya sebagai sebuah sidang yang mengumumkan apa yang dipercayai oleh sebuah kelompok gereja tertentu.
-
-Ada tujuh konsili/rapat  yang diadakan sebelum tahun 1000 Masehi : 1. Konsili Nikea (I) 325 M,  2. Konsili Konstantinopel (I) 381 , 3. Konsili Efesus 431 M, 4. Konsili kalsedon 451 M, 5. Konsili Konstantinopel (II) 553 M, 6. Konsili Konstantinopel (III) 680-681 M, 7. Konsili Nikea (II). Selain ketujuh konsili ini, ada banyak konsili-konsili lainnya yang diadakan oleh berbagai aliran gereja.
-
-Tanpa Konsili, kebenaran firman Tuhan tetap sempurna. Justru dengan adanya konsili, kebenaran firman Tuhan banyak dipertanyakan, karena banyak umat lebih memilih percaya pada konsili dari pada apa kata Alkitab. Lalu, apakah tidak boleh rapat (konsili)? Tentu saja boleh untuk kalangan sendiri. Yang tidak boleh adalah menjadikan rapat (konsili) menjadi ukuran bagi gereja lokal yang lain.
-
-###2. Iman Kristen tidak berdiri di atas Pengakuan Iman (Kredo) gereja tertentu.
-
-Pengakuan iman adalah Kredo. Para rasul tidak pernah membuat “pengakuan iman rasuli”. Pengakuan iman itu dibuat pada abad ke 4 masehi, empat ratus tahun setelah para rasul meninggal. Penulis “pengakuan iman rasuli” tidak diketahui tetapi dia sengaja mencatut nama para rasul. Mereka yang membuat judul tersebut ingin orang lain berpikir bahwa para rasul yang membuat “pengakuan iman rasuli”, tetapi faktanya para rasul tidak pernah membuat pengakuan iman tersebut.
-
-Semua pengakuan iman yang dibuat oleh tiap-tiap gereja hanyalah sebagai kesepakatan bersama, agar satu suara dalam pengajaran. Pengakuan iman yang benar juga sebagai pembimbing dalam menghadapi pertentangan dengan ajaran lain. Pengakuan iman  tidak boleh membelenggu kebenaran dalam Alkitab. Karena itu “Pengakuan iman” gereja mana pun bukanlah patokan kebenaran bagi semua orang Kristen lainnya.
-
-###3. Iman Kristen tidak berdiri di atas perkataan rohaniawan gereja tertentu.
-
-Biasanya beberapa gereja menyebutnya sebagai “bapak-bapak gereja”, tapi penyebutan yang benar adalah rohaniawan gereja. Perkataan “rohaniawan gereja” banyak jadikan sebagai rujukan untuk membenarkan sebuah ajaran. Beberapa gereja tidak dapat berdiri tanpa perkataan mereka. Bagi mereka Alkitab tidak cukup sebagai dasar iman. Mereka perlu dasar iman yang lain seperti “perkataan rohaniawan gereja”.
-
-Perkataan rohaniawan gereja harus dipandang sebagai masukan dan penambah pengetahuan tentang “sejarah pemikiran” dalam dunia Kristen, tidak boleh lebih dari itu. Karena perkataan rohaniawan gereja mana pun bukanlah patokan kebenaran.  
-
-###4. Iman Kristen tidak berdiri di atas fenomena/kejadian tertentu.
-
-Dalam “kekristenan” ada banyak fenomena/peristiwa yang katanya terjadi padahal tidak. Katanya Maria menampakkan diri di Lordes, katanya pendeta “A” berjalan di atas air, katanya Yesus menampakkan diri di atas awan, dll. Semua fenomena ini adalah cara si Iblis menipu manusia. Ada juga yang benar-benar terjadi tetapi bukan dari Tuhan, melainkan dari si iblis untuk memanipulasi manusia.
-
-###5. Iman Kristen tidak berdiri di atas pengalaman pribadi seseorang.
-
-Si “A” bersaksi bahwa dia dibawa Tuhan 7 kali ke Sorga, si “B” berkata dia bertemu secara langsung dengan Lusifer, si “C” tidak mau kalah, berkata dia dibawa Tuhan ke Neraka. Si “D” bersaksi, Tuhan langsung berbicara kepadanya, bahwa kiamat akan terjadi 22 Oktober 1884. Si “E” (pemimpin gereja besar di dunia) bermimpi bahwa Tuhan berkata kepadanya Yesus akan datang, sebarkan informasi ini kepada beberapa orang, kalau tidak disebarkan akan mendapat celaka dan kalau disebarkan akan mendapat berkat dari Tuhan.
-
-Kesaksian pengalaman pribadi ini, bukanlah ukuran kebenaran bagi orang percaya lainnya. Kesaksian seperti ini justru menjadi ajang penyesatan dibanyak gereja.
-
-###6. Iman Kristen tidak  berdiri di atas buku-buku sejarah gereja tertentu.
-
-Sejarah gereja tertentu hanyalah sebagai pengetahuan umum, untuk mengetahui sejarah pemikiran dan tokoh-tokoh dalam gereja. Sejarah gereja bukanlah dasar iman Kristen. Sejarah dapat ditulis ulang oleh para penguasa sesuai agenda mereka, dan banyak penulis sejarah gereja menulis sesuai dengan ajaran yang ia anut.
-
-###7. Iman Kristen tidak berdiri di atas “Tradisi suci” di luar Alkitab.
-
-Tradisi suci yang benar adalah yang tertulis dalam Alkitab. Semua tradisi yang tidak tertulis dalam Alkitab bukanlah tradisi suci melainkan tradisi hasil karya rohaniawan gereja tertentu yang dilestarikan dari turun temurun.
-
-Dasar iman orang percaya adalah Alkitab bukan tradisi gereja tertentu. Tidak ada keharusan cara beribadah atau cara berpakaian gereja tertentu menjadi ukuran bagi gereja lain. Iman Kristen bukan tentang tata cara ibadah dan cara berpakaian jemaat mula-mula tetapi tentang ajaran. Alkitab hanya memberikan syarat dalam sebuah jemaat harus “sopan dan teratur”. Semua suku bangsa boleh beribadah sesuai budaya mereka masing-masing dan tidak perlu harus mengikuti cara beribadah bangsa Yunani atau pun bangsa Yahudi.
-
-###8. Iman Kristen tidak berdiri di atas buku-buku apokrifa atau pun deuterokanonika.
-
-Orang Yahudi adalah sebuah bangsa yang memiliki banyak tulisan, tetapi bangsa ini juga merupakan bangsa pendongeng. Ada 1001 cerita dongeng yang dikarang sebagai bahan ajar. Bangsa Yahudi juga banyak menulis tentang kisah-kisah kepahlawanan. Kisah-kisah ini ditulis menjadi sebuah buku. Buku-buku ini dikenal sebagai apokrifa (tersembunyi).
-
-Ada beberapa aliran “Kristen” yang menambahkan apokrifa sebagai kitab mereka. Bangsa Yahudi sendiri tidak mengakui buku-buku sejarah (apokrifa) sebagai firman Tuhan. Kristen mula-mula hanya mengakui ke 66 kitab dalam Alkitab sebagai firman Tuhan.
-
-###9. Iman Kristen tidak berdiri di atas teologi tertentu.
-
-Seorang teolog dapat menulis jurnal ilmiah atau sebuah buku teologi. Buku-buku teologi seperti buku teologi sistematik, teologi dogmatik, teologi biblika, hanyalah sebuah metode untuk memahami isi Alkitab secara urut atau tersistem.
-
-Tentu saja kita boleh membaca semua buku-buku teologi tetapi semua itu bukanlah dasar iman kita. Buku-buku ini hanya alat untuk memahami bagian-bagian Alkitab. Karena sifatnya hanyalah sebuah “alat” maka tidak boleh dijadikan sebagai ukuran iman. Banyak sekali orang Kristen terutama mahasiswa teologi yang lebih percaya  buku teologi dibanding Alkitab. Padahal di buku-buku teologilah berkumpul semua jenis pemikiran liar yang menolak Alkitab sebagai satu-satunya patokan kebenaran.
-
-##Fondasi Iman Kristen hanya Alkitab
-
-###Tuhan  mengilhamkan Alkitab.
-Tuhan tidak mengilhamkan semua hal yang kita sudah baca di atas, Tuhan hanya mengilhamkan Alkitab. Alkitab adalah firman Tuhan karena setiap huruf dan kata dalam Alkitab adalah ilham dari Roh Kudus. Tuhan memakai pribadi penulis untuk menulis Alkitab, tetapi mereka tidak bisa menambahkan pemikiran mereka saat menuliskan firman Tuhan.
-
-Tuhan mengilhamkan firman-Nya (II Timotius 3:16) hanya di dalam ke-66 kitab dalam Alkitab. Di luar dari ke 66 kitab, itu bukanlah firman Tuhan.
-
-###Tuhan memelihara Alkitab.
-Tuhan tidak bisa salah. Alkitab adalah firman Tuhan. Karena itu Alkitab tidak bisa salah. Tuhan memelihara Firman-Nya dari zaman Adam sampai sekarang ini dengan cara menyalin ulang Firman itu. Tuhan  memakai orang-orang kudus-Nya untuk menyalin firman Tuhan dari wadah yang satu ke wadah yang lain. Dari batu ke kulit binatang, dari kulit binatang ke papyrus, dari papyrus ke kertas, dari kertas ke elektronik.
-
-Wadah firman Tuhan silih berganti tetapi firman Tuhan kekal untuk selama-lamanya (Mazmur119:89). Tuhan tetap memelihara firman-Nya sampai saat ini.
-
-Kepustakaan:
-
-- Henry C. Thiessen, direvisi oleh Vernon D. Doerksen, Sistematik Teologi (Gandum Mas, 2010).
-- Norman Geisler, Sistematic Theology in one Volume (Bethany House Publisher, 2011).
-- Ronald H. Nash, Iman dan Akal Budi (Momentum, 2001).
-- Suhento Liauw, Doktrin Alkitab Alkitabiah (Gereja Baptis Independen Alkitabiah Graphe, 2001).
-- Timothy Ware, Mari Mengenal Kekristenan Timur (Satya Widya  Graha, 2001).
 
 
 
