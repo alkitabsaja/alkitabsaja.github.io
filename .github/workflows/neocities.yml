@@ -1,0 +1,106 @@
+name: Build & Deploy
+#blom edit!!
+
+on:
+#  push:
+#    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy-pages.outputs.page_url }}
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Install Pandoc + LaTeX
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            pandoc \
+            texlive-xetex \
+            texlive-fonts-recommended
+
+      - name: Build ebooks
+        run: |
+          set -e
+          mkdir -p ebooks
+
+          find _docs -name '*.md' | while read src; do
+
+            rel="${src#_docs/}"
+            out="${rel%.md}"
+
+            mkdir -p "ebooks/$(dirname "$out")"
+
+            pandoc "$src" \
+              --pdf-engine=xelatex \
+              --top-level-division=chapter \
+              --toc \
+              --toc-depth=1 \
+              -V documentclass=book \
+              -V papersize:a5 \
+              -V geometry:margin=10mm \
+              -o "ebooks/${out}.pdf"
+
+            pandoc "$src" \
+              --toc \
+              --toc-depth=1 \
+              -o "ebooks/${out}.epub"
+
+          done
+
+      - name: Commit generated ebooks
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@users.noreply.github.com
+
+          git add ebooks
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update ebooks"
+            git push
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: .
+          destination: ./_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      - name: Deploy GitHub Pages
+        id: deploy-pages
+        uses: actions/deploy-pages@v4
+
+      - name: Install Neocities CLI
+        run: npm install -g neocities
+
+      - name: Deploy Neocities
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_KEY }}
+        run: |
+          cd _site
+          neocities upload --prune *

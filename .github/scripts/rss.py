@@ -23,31 +23,35 @@ for name, url in FEEDS.items():
         "layout: default",
         "---",
         "",
-        f"# {feed.feed.get('title', name)}",
+#        f"# {feed.feed.get('title', name)}",
         "",
     ]
 
-    for entry in feed.entries:
+for entry in feed.entries:
 
-        title = html.unescape(entry.get("title", "Untitled")).strip()
+    title = html.unescape(
+        entry.get("title", "Untitled")
+    ).strip()
 
-        summary = html.unescape(entry.get("summary", "")).strip()
+    summary = html.unescape(
+        entry.get("summary", "")
+    ).strip()
 
-        summary = " ".join(summary.split())
+    summary = " ".join(summary.split())
 
-        link = entry.get("link", "")
+    link = entry.get("link", "")
 
-        md += [
-            f"## {title}",
-            "",
-            summary,
-            "",
-            f"Source: {link}",
-            "",
-            "---",
-            "",
-        ]
-
+    md += [
+        f"# {title}",
+        "",
+        summary,
+        "",
+        f"[Read more]({link})",
+        "",
+        "---",
+        "",
+    ]
+    
     (OUT / f"{name}.md").write_text(
         "\n".join(md),
         encoding="utf-8",

@@ -1,6 +1,7 @@
 name: Import RSS
 
 on:
+  workflow_call:
   workflow_dispatch:
 
   schedule:

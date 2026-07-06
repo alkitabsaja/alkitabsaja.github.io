@@ -30,13 +30,21 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Install Pandoc + LaTeX
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Pandoc + LaTeX etc
         run: |
           sudo apt-get update
           sudo apt-get install -y \
             pandoc \
             texlive-xetex \
             texlive-fonts-recommended
+          npm install -g neocities
+          pip install feedparser
+          python .github/scripts/rss.py
 
       - name: Build PDFs & EPUBs
         shell: bash
@@ -83,6 +91,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add ebooks
+          git add _docs/news
 
           if git diff --cached --quiet; then
             echo "No changes"
