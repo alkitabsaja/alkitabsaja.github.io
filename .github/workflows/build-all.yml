@@ -30,13 +30,21 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-gems-
 
-      - name: Install Pandoc + LaTeX etc
+      - name: Install Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install Pandoc + LaTeX + rss
         run: |
           sudo apt-get update
           sudo apt-get install -y \
             pandoc \
             texlive-xetex \
             texlive-fonts-recommended
+          npm install -g neocities
+          pip install feedparser
+          python .github/scripts/rss.py
 
       - name: Build PDFs & EPUBs
         shell: bash
@@ -85,10 +93,7 @@ jobs:
           git add ebooks
           git add _docs/news
 
-          if git diff --cached --quiet; then
-            echo "No changes"
-            exit 0
+          if ! git diff --cached --quiet; then
+            git commit -m "Update ebooks"
+            git push
           fi
-
-          git commit -m "Build ebooks"
-          git push
