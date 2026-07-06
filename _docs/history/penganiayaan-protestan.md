@@ -17,7 +17,10 @@ kepada pihak lain. Ini adalah fakta yang jarang diceritakan dalam pelajaran seja
 orang yang tahu bahwa kaum Protestan dari era Reformasi menganiaya kaum Baptis dan pihak-pihak lain yang
 berbeda dengan mereka.
 
-## I. ZWINGLI DI ZURICH, SWITZERLAND, ADALAH SEORANG PENGANIAYA
+
+I. ZWINGLI DI ZURICH, SWITZERLAND, ADALAH SEORANG PENGANIAYA
+============================================================
+
 
 1. Sebelum memegang prinsip-prinsip Baptis, pemimpin Anabaptis, Conrad Grebel (1498-1526), Felix Manz, dan
 George Cajacob, bekerja sama dengan Zwingli pada permulaan pekerjaan Zwingli di Zurich. Namun berbeda
@@ -175,7 +178,9 @@ Felix” (J.J. Stockdale, The History of the Inquisitions, 1810, hal. Xxviii).
 14. Bahkan sampai dengan 1671, tujuh ratus orang, tanpa rumah dan harta, diusir keluar dari Berne. Besar
 penderitaan yang dialami tua dan muda (Richard Cook, The Story of the Baptists, 1888, hal. 65).
 
-## II. KAUM LUTHERAN DI JERMAN ADALAH PENGANIAYA
+
+II. KAUM LUTHERAN DI JERMAN ADALAH PENGANIAYA
+=============================================
 
 1. Memperhatikan posisi Martin Luther tentang penganiayaan
 
@@ -347,7 +352,10 @@ ditenggelamkan. Dengan seriusnya proklamasi itu menambahkan,
 tetapi untuk menghindarkan perpecahan dalam Gereja.” Halo! Perpecahan yang terjadi adalah karena masalah
 iman!
 
-## III. JOHN CALVIN DI JENEWA ADALAH SEORANG PENGANIAYA
+
+III. JOHN CALVIN DI JENEWA ADALAH SEORANG PENGANIAYA
+====================================================
+
 
 1. Calvin memaksakan doktrin dan prinsip-prinsip Kristiani dengan todongan pedang. Pada Oktober 1563,
 pemerintah Jenewa membakar hingga mati Michael Servetus karena kesesatan. Servetus berpegang pada
@@ -372,7 +380,10 @@ Christian, A History of the Baptists, Vol. 1, chap. 15).
 4. Sejarahwan John Christian mengobservasi bahwa Calvin “bertanggung jawab besar untuk setan
 kebencian dan perlawanan sengit yang harus dihadapi oleh kaum Baptis di Inggris.”
 
-## IV. PENGANIAYAAN OLEH KALVINIS DI BELANDA MELAWAN KAUM ARMINIAN
+
+IV. PENGANIAYAAN OLEH KALVINIS DI BELANDA MELAWAN KAUM ARMINIAN
+===============================================================
+
 
 “Jika kita berpindah ke Belanda, kita juga akan menemukan bahwa para reformator di sana, kebanyakan mereka,
 mendukung prinsip-prinsip dan tindakan-tindakan penganiayaan. ...perselisihan yang paling menggemparkan
@@ -396,13 +407,19 @@ untuk pengusiran mereka, dengan ancaman, jika mereka tidak menerima hal tersebut
 diperlakukan sebagai pengganggu ketenangan umum” (J.J. Stockdale, The History of the Inquisitions, 1810, hal.
 xxviii, xxix).
 
-## V. GEREJA INGGRIS ADALAH PENGANIAYA
+
+V. GEREJA INGGRIS ADALAH PENGANIAYA
+===================================
+
 
 Gereja Anglikan dibentuk pada tahun 1534 oleh Raja Henry VIII, dan sejak saat itu hingga hampir
 akhir abad 17, kaum Baptis dan kelompok-kelompok lainnya yang menolak untuk tunduk kepada gereja negara
 mengalami penganiayaan.
 
-## VI. PENGANIAYAAN KAUM BAPTIS PADA ZAMAN RAJA HENRY VIII, SETELAH DIA BERPISAH DARI ROMA
+
+VI. PENGANIAYAAN KAUM BAPTIS PADA ZAMAN RAJA HENRY VIII, SETELAH DIA BERPISAH DARI ROMA
+=======================================================================================
+
 
 1. Henry naik takhta pada tahun 1509, dan tiga kali dalam pemerintahannya dia mencela kaum Anabaptis melalui
 proklamasi resmi. Di sisi lain, ini adalah bukti yang tak terbantahkan bahwa sudah ada kaum Baptis di Inggris pada
@@ -468,7 +485,10 @@ teman-temannya dalam Kristus dibakar sampai mati oleh otoritas gerejawi.
 
 8. Orang-orang Baptis lainnya menderita selama masa pemerintahan Henry VIII, bapa dari Gereja Inggris.
 
-## VII. KAUM BAPTIS DIANIAYA PADA ZAMAN RAJA EDWARD VI
+
+VII. KAUM BAPTIS DIANIAYA PADA ZAMAN RAJA EDWARD VI
+===================================================
+
 
 Pada saat kematian Henry pada tahun 1547, putranya Edward, yang masih muda, memerintah selama enam tahun.
 
@@ -556,7 +576,10 @@ sejarahwan Protestan, seperti Foxe dan Wylie dan ribuan lainnya, telah mendirika
 untuk ingatan akan martir-martir mereka, tetapi sejarahwan-sejarahwan yang sama ini secara umum tidak
 menyinggung sedikit pun kecuali cercaan bagi ingatan akan kaum Baptis.
 
-## VIII. KAUM BAPTIS DIANIAYA PADA ZAMAN RATU ELIZABETH I
+
+VIII. KAUM BAPTIS DIANIAYA PADA ZAMAN RATU ELIZABETH I
+======================================================
+
 
 Ratu Elizabeth I mengambil alih takhta dari Ratu Mary yang berhaluan Roma Katolik, dan Elizabeth menyetir
 Gereja Inggris ke atas dasar yang lebih Protestan.
@@ -658,7 +681,10 @@ mengirimkan bantuan kepada saudara-saudari mereka yang dianiaya dalam penjara, t
 menganggap gereja Inggris sebagai gereja yang sejati, menolak baptisan bayi, dan berpendapat bahwa negara tidak
 seharusnya mencampuri masalah kepercayaan iman.
 
-## IX. KAUM BAPTIS DIANIAYA SELAMA MASA RAJA JAMES I
+
+IX. KAUM BAPTIS DIANIAYA SELAMA MASA RAJA JAMES I
+=================================================
+
 
 Ketika Elizabeth meninggal, James I (1603-25) naik ke atas takhta Inggris. Dia adalah raja yang mengotorisasi
 penerjemahan maha karya Kitab Suci Inggris itu, Alkitab King James, yang muncul pada
@@ -796,7 +822,10 @@ mereka menajiskan sungai-sungai kita dengan pemandian mereka yang kotor, dan mim
 nubuat palsu mereka dan antusiasme mereka yang fanatik, demikianlah percetakan-percetakan mengeluh di bawah
 beban penghujatan mereka” (Featley, The Dippers Dipt).
 
-## X. KAUM BAPTIS DIANIAYA DI INGGRIS 1626-1689
+
+X. KAUM BAPTIS DIANIAYA DI INGGRIS 1626-1689
+============================================
+
 
 Gereja Anglikan berlanjut menganiaya orang-orang yang berusaha untuk menyembah Tuhan secara independen,
 hingga hampir akhir abad 17.
@@ -866,14 +895,18 @@ pada semua penentang, memberikan kepada mereka kebebasan hati nurani dan menjadi
 siapapun yang mengganggu tindakan agamawi orang lain. Jadi, barulah 155 tahun setelah pembentukannya, Gereja
 Inggris berhenti menganiaya.
 
-## XI. PENGANIAYAAN OLEH KAUM PROTESTAN DI AMERIKA
+
+
+XI. PENGANIAYAAN OLEH KAUM PROTESTAN DI AMERIKA
+===============================================
+
 
 Kaum Protestan yang tinggal di Amerika, walaupun sendirinya melarikan diri dari penganiayaan
 agamawi, ternyata sendirinya juga menganiaya kaum Baptis dan Quaker dan kaum-kaum lain yang
 berbeda dengan mereka, hingga sekitar waktu Kemerdekaan Amerika dan dibentuknya Konstitusi
 (semacam Undang-undang Dasar) Amerika. Kami akan memberikan dua contoh akan hal ini.
 
-### Massachusetts
+## Massachusetts
 
 1. Negara bagian Massachusetts didirikan oleh koloni para Pilgrim di Plymouth pada tahun 1620, dan oleh kaum
 Puritan dari Massachusetts Bay Colony di tahun 1630.
@@ -975,7 +1008,7 @@ tidak berakhir hingga Massachusetts menjadi sebuah koloni dari Amerika Serikat, 
 Dasar Negara Bagian, pada tahun 1780. Melalui usaha kaum Baptis dan kaum-kaum lain yang mencintai kebebasan
 beragama, UUD Negara Bagian ini mengandung Jaminan Hak yang menjamin kebebasan beriman.
 
-### Virginia
+## Virginia
 
 1. Yang pertama tinggal di Virginia, kebanyakan berasal dari Inggris, dan mereka mendirikan gereja-
 gereja Anglikan.
@@ -1046,7 +1079,10 @@ kesalahan. Kita bisa mendisiplinkan anggota-anggota gereja yang berdosa. Kita bi
 tidak boleh memukul mereka dengan tangan kita, dan memaksa mereka untuk percaya seperti kita percaya. Itu
 adalah sifat serigala, bukan sifat domba.
 
-## REFORMASI KEPALANG TANGGUNG
+
+
+REFORMASI KEPALANG TANGGUNG
+===========================
 
 Pada 31 Oktober 1517, seorang rahib yang bernama Martin Luther memakukan 95 dalil yang bertentangan dengan
 kebijaksanaan Gereja Roma Katolik di gerbang gereja kota Wittenberg. Tentu Paus pada saat itu menjadi kalang
@@ -1085,7 +1121,9 @@ menggabungkan diri dengan para Anabaptis, salahkah kalau para Anabaptis meminta 
 percaya di depan jemaat dan kemudian membaptiskan mereka dengan baptisan Alkitabiah? Reformasi yang mereka
 lakukan ternyata sebuah reformasi yang kepalang tanggung.
 
-## GILIRAN MENJADI PENGANIAYA
+
+GILIRAN MENJADI PENGANIAYA
+==========================
 
 Sesungguhnya apa yang dilakukan para reformator itu malu sekali untuk diceritakan. Para reformator menjadi
 marah sekali kepada kaum Anabaptis dan berusaha membunuh mereka. Darimana mereka belajar sikap membunuh

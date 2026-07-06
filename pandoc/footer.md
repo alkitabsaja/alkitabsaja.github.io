@@ -81,10 +81,12 @@ Artikel, buku dan referensi lain:
 - https://yesustuhan.wordpress.com/tag/keselamatan/
 - https://www.mindmeister.com/users/channel/16080204
 - https://christiananswers.net/indonesian/q-eden/edn-t003i.html
-- https://carm.org/indonesian
-- https://answersingenesis.org/charles-darwin/racism/
-- http://www.chick.com/catalog/TractList.asp?language=Indonesian
-- http://www.chick.com/catalog/tractlistcustomWcovers.asp?Language=Indonesian
+- https://www.gotquestions.org/Indonesia/Pertanyaan-Alkitab.html
+- https://www.gotquestions.org/Indonesia/Pertanyaan-Penciptaan.html
+- https://www.gotquestions.org/Indonesia/Pertanyaan-Katolisisme.html
+- https://www.gotquestions.org/Indonesia/Pertanyaan-Muslim.html
+- https://web.archive.org/web/20240524175152/https://carm.org/indonesian/
+- https://alkitabiah.raindrop.page/
 - https://sejarahmartir.wordpress.com/
 - https://sabas.pages.dev/pasti
 

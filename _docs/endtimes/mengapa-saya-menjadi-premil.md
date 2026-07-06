@@ -71,7 +71,7 @@ Kemudian, Justin Martyr, dan saya di sini menemukan inilah yang ia percaya. Ia l
 
 Kemudian, saya mengutip pernyataan iman dari para Bapa Gereja dari Edward Gibbon, dalam bukunya yang berjudul Decline and Fall of the Roman Empire, yang adalah buku sejarah terbaik yang pernah ditulis. Dalam karyanya yang berjudul Decline and Fall of the Roman Empire ini, Edward Gibbon menyatakan iman dari para Bapa Apostolic dan Bapa Gereja. Saya mengutip darinya demikian: “Doktrin kuno dan popular tentang millennium dengan hati-hati ditanamkan oleh para penerus Justinus Martyr dan Irenaeus, orang-orang yang diakui sebagai penerus langsung dari para Rasul, dan Lactantius, yang adalah seorang pendidik – seorang guru dari anak Konstanin. Ini adalah iman yang menguasai orang-orang percaya orthodoks. Ini menghasilkan banyak pengaruh terhadap iman dan praktek kehidupan orang-orang Kristen.”
 
-Tetapi, setelah pertobatan Konstantin, dan setelah masa Bapa-bapa Gereja mula-mula, yang mengenal dan pernah menjadi pengikut para Rasul telah tiada, ada perubahan besar tentang faham teologi tentang millennial. Faham ini telah mengubah dan menggantikan premillennialisme – bahwa Tuhan akan datang setiap saat – menjadi amilennialisme: tidak akan ada kerajaan seribu tahun.
+Tetapi, setelah klaim pertobatan Konstantin, dan setelah masa Bapa-bapa Gereja mula-mula, yang mengenal dan pernah menjadi pengikut para Rasul telah tiada, ada perubahan besar tentang faham teologi tentang millennial. Faham ini telah mengubah dan menggantikan premillennialisme – bahwa Tuhan akan datang setiap saat – menjadi amilennialisme: tidak akan ada kerajaan seribu tahun.
 
 Konfrontasi terbesar terhadap iman premillennial adalah Gereja Roma. Gereja ini mengajarkan bahwa kerajaan itu adalah gereja dan gereja adalah kerajaan itu. Ini dibuat ketika Konstantin bertobat, karena gereja tidak lagi dianiaya dan gereja menjadi agama negara Imperium Roma.
 
@@ -85,9 +85,8 @@ Ini adalah salah satu persuasi teologikal yang paling hebat yang bisa saja dapat
 
 Mengapa, saya berpikir tentang Kerajaan Seribu Tahun karena Alkitab menjelaskan tentang millennial, misalnya Yesaya 11:6-8:
 
-Serigala akan tinggal bersama domba dan macan tutul akan berbaring di samping kambing. Anak lembu dan anak singa akan makan rumput bersama-sama, dan seorang anak kecil akan menggiringnya. Lembu dan beruang akan sama-sama makan rumput dan anaknya akan sama-sama berbaring, sedang singa akan makan jerami seperti lembu. Anak yang menyusu akan bermain-main dekat liang ular tedung dan anak yang cerai susu akan mengulurkan tangannya ke sarang ular beludak.
-
-Tidak ada yang akan berbuat jahat atau yang berlaku busuk di seluruh gunung-Ku yang kudus, sebab seluruh bumi penuh dengan pengenalan akan TUHAN, seperti air laut yang menutupi dasarnya.
+>Serigala akan tinggal bersama domba dan macan tutul akan berbaring di samping kambing. Anak lembu dan anak singa akan makan rumput bersama-sama, dan seorang anak kecil akan menggiringnya. Lembu dan beruang akan sama-sama makan rumput dan anaknya akan sama-sama berbaring, sedang singa akan makan jerami seperti lembu. Anak yang menyusu akan bermain-main dekat liang ular tedung dan anak yang cerai susu akan mengulurkan tangannya ke sarang ular beludak.
+>Tidak ada yang akan berbuat jahat atau yang berlaku busuk di seluruh gunung-Ku yang kudus, sebab seluruh bumi penuh dengan pengenalan akan TUHAN, seperti air laut yang menutupi dasarnya.
 
 Apakah ini yang kita alami sekarang? Apakah sekarang ini adalah Kerajaan Seribu Tahun Tuhan? Menurut saya sekarang ini tidak sama dengan Kerajaan Seribu Tahun.
 
@@ -96,42 +95,38 @@ Apakah ini yang kita alami sekarang? Apakah sekarang ini adalah Kerajaan Seribu 
 > Sebagai contoh, ada tiga klasifikasi manusia menurut Firman Tuhan. Menurut 1 Korintus 10:32, semua manusia dibagi menjadi orang Yahudi, Yunani dan jemaat.  Interpretasi Amillennial sungguh tragis yang menghilangkan tiga kelompok  manusia ini dan membuat Alkitab menjadi tanpa arti. Dan Alkitab akhirnya terlihat tidak lain seperti bagian dari literatur simbolis lainya. Inilah yang dihasilkan oleh orang-orang ini, mereka yang merasa sudah hidup dalam Kerjaan Seribu Tahun, dan mereka mengrohanikan segala sesuatu yang dinyatakan di sini dalam Firman Tuhan.
 
 
-Sekarang, sebagai contoh, saya memiliki di tangan saya  Alkitab yang sangat cantik dan mahal. Dan berapa harganya – wou! Saya tidak tahu berapa harganya. Saya memperoleh Alkitab ini dan tentu sangat mahal.
+Sekarang, sebagai contoh, saya memiliki di tangan saya  Alkitab yang sangat cantik dan mahal. Dan berapa harganya – wow! Saya tidak tahu berapa harganya. Saya memperoleh Alkitab ini dan tentu sangat mahal.
 
 Jadi, saya membuka Alkitab ini dalam Yesaya 43 dan di sini ada judul perikop “Church Comforted.” Jadi, saya baca di sini dan di sini dikatakan:
 
-Tetapi sekarang, beginilah firman TUHAN yang menciptakan engkau, hai Yakub, yang membentuk engkau, hai Israel: "Janganlah takut, sebab Aku telah menebus engkau, Aku telah memanggil engkau dengan namamu….
+>Tetapi sekarang, beginilah firman TUHAN yang menciptakan engkau, hai Yakub, yang membentuk engkau, hai Israel: "Janganlah takut, sebab Aku telah menebus engkau, Aku telah memanggil engkau dengan namamu….
 
 Dikatakan di sini bahwa ini adalah tentang gereja. Tetapi, ketika saya membaca teks ini, di sini dikatakan, “Hai Yakub” dan “Hai Israel.”
 
 Saya tutup halaman ini dan pindah ke Yesaya pasal 63. Dan judul perikop di sini “Christ’s Mercy towards His Church.” Jadi saya kira saya akan membaca tentang anugerah Kristus untuk jemaat-Nya. Dan inilah apa yang saya baca:
 
-Aku hendak menyebut-nyebut perbuatan kasih setia TUHAN, perbuatan TUHAN yang masyhur, sesuai dengan segala yang dilakukan TUHAN kepada kita, dan kebajikan yang besar kepada kaum Israel yang dilakukan-Nya kepada mereka sesuai dengan kasih sayang-Nya dan sesuai dengan kasih setia-Nya yang besar.
-
-Lalu teringatlah mereka kepada zaman dahulu kala, zaman Musa, hamba-Nya itu….
-
-Bukankah Engkau Bapa kami? Sungguh, Abraham tidak tahu apa-apa tentang kami, dan Israel tidak mengenal kami. Ya TUHAN, Engkau sendiri Bapa kami; nama-Mu ialah "Penebus kami" sejak dahulu kala.
+>Aku hendak menyebut-nyebut perbuatan kasih setia TUHAN, perbuatan TUHAN yang masyhur, sesuai dengan segala yang dilakukan TUHAN kepada kita, dan kebajikan yang besar kepada kaum Israel yang dilakukan-Nya kepada mereka sesuai dengan kasih sayang-Nya dan sesuai dengan kasih setia-Nya yang besar.
+>Lalu teringatlah mereka kepada zaman dahulu kala, zaman Musa, hamba-Nya itu….
+>Bukankah Engkau Bapa kami? Sungguh, Abraham tidak tahu apa-apa tentang kami, dan Israel tidak mengenal kami. Ya TUHAN, Engkau sendiri Bapa kami; nama-Mu ialah "Penebus kami" sejak dahulu kala.
 
 — sama sekali tidak berbicara tentang gereja. Ini adalah tentang Israel, dan tentang Musa dan tentang orang-orang Israel di Yerusalem.
 
-> Saya pindah ke halaman lain lagi. Di sini disebutkan “The Church Prays to God.” Dan saya melihat di sini dalam Yesaya 64 dan mengira akan menemukan gereja yang sedang berdoa kepada Tuhan. Tetapi, inilah yang saya baca:
+Saya pindah ke halaman lain lagi. Di sini disebutkan “The Church Prays to God.” Dan saya melihat di sini dalam Yesaya 64 dan mengira akan menemukan gereja yang sedang berdoa kepada Tuhan. Tetapi, inilah yang saya baca:
 
 
-Kota-kota-Mu yang kudus sudah menjadi padang gurun, Sion sudah menjadi padang gurun, Yerusalem sunyi sepi. 11Bait kami yang kudus dan agung, tempat nenek moyang kami memuji-muji Engkau, sudah menjadi umpan api, maka milik kami yang paling indah sudah menjadi reruntuhan. Melihat semuanya ini, ya TUHAN, masakan Engkau menahan diri, masakan Engkau tinggal diam dan menindas kami amat sangat?
+>Kota-kota-Mu yang kudus sudah menjadi padang gurun, Sion sudah menjadi padang gurun, Yerusalem sunyi sepi. 11Bait kami yang kudus dan agung, tempat nenek moyang kami memuji-muji Engkau, sudah menjadi umpan api, maka milik kami yang paling indah sudah menjadi reruntuhan. Melihat semuanya ini, ya TUHAN, masakan Engkau menahan diri, masakan Engkau tinggal diam dan menindas kami amat sangat?
 
 Judul perikop ini adalah “The Church Prays….” Tetapi, ketika saya membaca perikop ini, ini adalah seruan untuk orang-orang Israel di Zion dan Yerusalem dan Bait Suci mereka, yang telah terbakar oleh api. Inilah yang dimaksud dengan pengrohanian.
 
-> Saya pindah halaman lain lagi – dan ini adalah sangat mengherankan. Judul perikop di sini “The Stability of the Church.” Jadi, Anda akan berpikir ini adalah tentang stabilitas gereja. Teks ini adalah dalam Yeremia 31:
+Saya pindah halaman lain lagi – dan ini adalah sangat mengherankan. Judul perikop di sini “The Stability of the Church.” Jadi, Anda akan berpikir ini adalah tentang stabilitas gereja. Teks ini adalah dalam Yeremia 31:
 
-
-Beginilah firman TUHAN, yang memberi matahari untuk menerangi siang, yang menetapkan bulan dan bintang-bintang untuk menerangi malam, yang mengharu biru laut, sehingga gelombang-gelombangnya ribut, --TUHAN semesta alam nama-Nya: "Sesungguhnya, seperti ketetapan-ketetapan ini tidak akan beralih dari hadapan-Ku, demikianlah firman TUHAN, demikianlah keturunan Israel juga tidak akan berhenti menjadi bangsa di hadapan-Ku untuk sepanjang waktu. Beginilah firman TUHAN: Sesungguhnya, seperti langit di atas tidak terukur dan dasar-dasar bumi di bawah tidak terselidiki, demikianlah juga Aku tidak akan menolak segala keturunan Israel, karena segala apa yang dilakukan mereka, demikianlah firman TUHAN.
+>Beginilah firman TUHAN, yang memberi matahari untuk menerangi siang, yang menetapkan bulan dan bintang-bintang untuk menerangi malam, yang mengharu biru laut, sehingga gelombang-gelombangnya ribut, --TUHAN semesta alam nama-Nya: "Sesungguhnya, seperti ketetapan-ketetapan ini tidak akan beralih dari hadapan-Ku, demikianlah firman TUHAN, demikianlah keturunan Israel juga tidak akan berhenti menjadi bangsa di hadapan-Ku untuk sepanjang waktu. Beginilah firman TUHAN: Sesungguhnya, seperti langit di atas tidak terukur dan dasar-dasar bumi di bawah tidak terselidiki, demikianlah juga Aku tidak akan menolak segala keturunan Israel, karena segala apa yang dilakukan mereka, demikianlah firman TUHAN.
 
 Judul perikopnya di sini “The Stability of the Church.”  Tetapi, apa yang dijelaskan, “Sesungguhnya, seperti langit di atas tidak terukur dan dasar-dasar bumi di bawah tidak terselidiki, demikianlah juga Aku tidak akan menolak segala keturunan Israel.”
 
-> Apakah Anda pernah memikirkan – apakah Anda menafsirkan Alkitab dengan cara mengrohanikan? Tetapi, Anda telah memegang kepercayaan amillennial?
->
-> Sekarang, hal lain tentang Firman Tuhan: yang membedakan antara gereja dan Israel dan orang Yunani (gentiles) – orang-orang ini menyamakan gereja dengan Israel dan Israel dengan gereja. Tetapi, Efesus pasal ketiga mengatakan – dan Paulus menjelaskan tentang musterion. Ini adalah rahasia, yang tersimpan dalam hati Tuhan sampai akhirnya Ia menyatakan hal ini kepada Rasul-Nya.
+Apakah Anda pernah memikirkan – apakah Anda menafsirkan Alkitab dengan cara mengrohanikan? Tetapi, Anda telah memegang kepercayaan amillennial?
 
+Sekarang, hal lain tentang Firman Tuhan: yang membedakan antara gereja dan Israel dan orang Yunani (gentiles) – orang-orang ini menyamakan gereja dengan Israel dan Israel dengan gereja. Tetapi, Efesus pasal ketiga mengatakan – dan Paulus menjelaskan tentang musterion. Ini adalah rahasia, yang tersimpan dalam hati Tuhan sampai akhirnya Ia menyatakan hal ini kepada Rasul-Nya.
 
 Tidak pernah ada gereja yang dilihat oleh para nabi. Tidak ada gereja dalam Perjanjian Lama. Mereka tidak pernah melihatnya. Mereka tidak pernah mengetahuinya: zaman gereja ini, zaman Roh Kudus yang di dalamNya kita hidup, zaman kasih karunia di dalam Yesus Kristus ini, zaman di mana orang-orang dipanggil keluar untuk masuk dalam tubuh yang baru baik orang Yahudi maupun non Yahudi di dalam Kristus.
 
