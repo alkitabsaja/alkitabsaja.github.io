@@ -48,20 +48,18 @@ jobs:
 
             echo "Building $rel"
             BUILD_DATE="$(date -u '+%Y-%m-%d %H:%M UTC')"
-            echo "- built at ${BUILD_DATE}" >> pandoc/footer.md
+            echo "built at ${BUILD_DATE}" >> pandoc/footer.md
             tmp=$(mktemp)
             sed 's#](/assets/#](./assets/#g' "$src" > "$tmp"
 
-            pandoc "$tmp" \
+            pandoc "$tmp" pandoc/footer.md \
               --defaults=pandoc/defaults.yml \
-              --include-after-body=pandoc/footer.md \
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
               -o "ebooks/${out}.pdf"
 
-            pandoc "$tmp" \
+            pandoc "$tmp" pandoc/footer.md \
               --defaults=pandoc/defaults.yml \
-              --include-after-body=pandoc/footer.md \
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
               -o "ebooks/${out}.epub"

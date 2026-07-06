@@ -234,6 +234,7 @@ Luther, Werke, Erlangen edition, vol. 24, hal. 294; vol.15, hal. 276; passim.] T
 dengan kaum petani penuh dengan ekspresi seperti diatas. Ketika dia pada tahun-tahun belakangan dicela karena
 menggunakan bahasa yang sedemikian kasar, dan karena menggerakkan pada tuan wilayah untuk membantai
 mereka tanpa ampun (mereka membunuh lebih dari 100.000 petani), dia menjawab dengan penuh perlawanan:
+
 “Adalah saya, Martin Luther, yang membunuh semua petani dalam pemberontakan itu, karena saya memerintahkan
 mereka untuk dibantai. Semua darah mereka ada atas pundak saya. Tetapi saya melemparkannya pada Tuhan Allah
 kita yang memerintahkan saya untuk berbicara seperti itu.’ [Martin Luther, Werke, Erlangen edition, vol. 59, hal.
@@ -634,6 +635,7 @@ yang wajib kamu berikan kepada Kaisar dan kepada Allah apa yang wajib kamu berik
 22:21). Jadi, karena Ratu adalah hamba Allah, kami dengan lembut memohon kepadanya yang mulia, agar ia
 berkenan untuk menyatakan belas kasihan kepada kami tahanan-tahanan yang menderita, sama seperti Bapa kita di
 sorga juga penuh belas kasihan (Luk. 6:36).
+
 Kami dengan cara yang sama tidak setuju dengan orang-orang yang menentang magistrasi; tetapi mengakui dan
 mendeklarasikan dengan seluruh hati bahwa kami taat dan berada di bawah mereka, sebagaimana kami tulis di
 sini” (Von Braght, Martyr’s Mirror, hal. 929).
@@ -721,6 +723,7 @@ korban-korban inkuisisi Anglikan tersebut. Dia menginterogasi Henry Barrow, seor
 bulan Maret 1590 di Penjara Fleet. Barlow memulai dengan menekankan bahwa satu-satunya standar yang dia
 pegang adalah Alkitab, bahwa “Kitab Allah seharusnya menentukan secara damai semua kontroversi kita.” Dia
 bersaksi, “Saya dengan rela menyerahkan seluruh iman saya untuk dicobai dan diadili oleh firman Allah.”
+
 Andrewes menjawab bahwa orang Kristen harus membiarkan “gereja” untuk menafsirkan Kitab Suci dan bahwa
 mereka tidak boleh menuntut hak untuk penafsiran pribadi, tidak boleh, meminjam istilah yang dia pakai, memiliki
 “roh pribadi.” Barrow mengeluh tentang pemenjaraan selama tiga tahun dan bahwa “kesendirian, hilangnya
@@ -738,6 +741,7 @@ yang percaya hal yang berbeda, untuk melemparkan mereka ke dalam sel-sel penjara
 Barrows dimatikan pada tanggal 6 April 1593, setelah enam tahun pemenjaraan, dan Andrewes berbicara dengan
 dia lagi pada malam kematiannya. Barrows dihukum mati karena “menyangkali otoritas para uskup, menyangkali
 kekudusan gereja Inggris dan liturginya dan menyangkali otoritas ratu atas gereja.”
+
 Henry Saville juga terlibat dalam interogasi-interogasi ini. Dia menginterogasi Daniel Studley di Penjara Fleet.
 Thomas Sparkes menginterogasi Roger Waters yang berusia 18 tahun, yang ditaruh dalam penjara selama setahun
 “dalam rantai-rantai dalam lubang-lubang paling bau di penjara Newgate, yang dikenal sebagai Limbo” (Nicholson,
@@ -1087,7 +1091,8 @@ Sesungguhnya apa yang dilakukan para reformator itu malu sekali untuk diceritaka
 marah sekali kepada kaum Anabaptis dan berusaha membunuh mereka. Darimana mereka belajar sikap membunuh
 orang yang tidak setuju dengan mereka? Kalau tidak salah, itu dari nenek moyang rohani mereka, yaitu Gereja
 Roma Katolik yang telah membunuh banyak orang. Bahkan Galileo seorang ilmuwan yang mengatakan bahwa
-Bumi ini bulat, mau dihukum penggal oleh Gereja Katolik.
+Bumi ini bulat, dipenggal kepalanya oleh Gereja Katolik. 
+(koreksi editor: Galileo tidak dipenggal, tapi dihukum penjara seumur hidup dan meninggal di dalam penjara.)
 
 Reformator yang tercatat paling banyak membunuh Anabaptis ialah Zwingli. Ketika Zwingli mendengar bahwa
 pengikutnya yang meninggalkannya itu menggabungkan diri dengan Anabaptis dan mereka dibaptis ulang, ia
@@ -1138,7 +1143,7 @@ yang tidak setuju dengan mereka. Luther mengawinkan gerejanya, Gereja Protestan,
 Mereka membagi wilayah-wilayah kekuasaan gereja serta menyiksa bahkan membunuh orang-orang yang tidak
 setuju dengan mereka.
 
-Sekalipun tidak tercatat bahwa Luther membunuh Anabaptis, namun ia tidak pernah mengkritik perbuatan Zwingli.
+Sekalipun tidak tercatat bahwa Luther membunuh Anabaptis, (koreksi: baca kembali bab 2 diatas) namun ia tidak pernah mengkritik perbuatan Zwingli.
 Calvin teman Zwingli tidak menjatuhkan tangannya secara langsung seperti Zwingli, namun secara diam-diam ia
 menyetujuinya. Sikapnya yang tidak secara terang-terangan menentang Anabaptis itu mungkin dikarenakan ia
 mengawini janda seorang Anabaptis yang telah terbunuh di Holand, Idelette de Bure.
