@@ -1,4 +1,4 @@
-name: Build Ebooks
+name: Build All
 
 permissions:
   contents: write
