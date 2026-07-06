@@ -3,6 +3,67 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 author: Alkitabiah.org
 ---
 
+Bagaimana kita tahu bahwa Alkitab itu benar?
+============================================
+
+Ratusan buku telah ditulis mengenai bukti-bukti pengilhaman ilahi Alkitab, dan bukti-bukti ini sangat banyak dan bervariasi. Sayangnya, kebanyakan orang tidak pernah membaca satu buku pun mengenai topik ini. Bahkan, tidak banyak yang membaca Alkitab itu sendiri! Jadi, banyak orang terpengaruh oleh gambaran populer yang keliru bahwa Alkitab mengandung banyak kekeliruan dan tidak lagi bermanfaat bagi kehidupan modern kita.
+
+Namun para penulis Alkitab berulangkali menyatakan bahwa mereka menyampaikan Firman Allah itu sendiri, yang sama sekali tidak mengandung kesalahan dan memiliki otoritas. Sangatlah menakjubkan jika seorang penulis mengatakan hal tersebut, dan jika 40 orang penulis Kitab Suci dengan keliru mengklaim hal tersebut, maka pastilah mereka semua berdusta atau tidak waras atau keduanya.
+
+Namun di pihak lain, jika kitab yang teragung dan paling berpengaruh di sepanjang zaman, yang mengandung kesusastraan yang sangat indah dan tuntunan moral yang paling sempurna yang pernah disusun, ternyata ditulis oleh para penipu fanatik, maka harapan apa yang masih tersisa dalam usaha menemukan arti dan tujuan hidup di dunia ini?
+
+Jika seseorang dengan sungguh-sungguh menyelidiki bukti-bukti alkitabiah ini, ia akan menemukan bahwa klaim pengilhaman ilahi tersebut (yang dinyatakan lebih dari 3.000 kali dengan berbagai cara) sangat bisa dibenarkan.
+
+## Nubuat Yang Digenapi
+
+Bukti mengagumkan tentang nubuat yang digenapi hanyalah salah satunya. Ratusan nubuat di dalam Alkitab telah digenapi, secara spesifik dan mendetail, seringkali lama setelah penulis nubuat tersebut meninggal.
+
+Contohnya, Daniel meramalkan pada tahun 538 SM (Daniel 9:24-27) bahwa Kristus akan datang sebagai Juru Selamat dan Raja Israel yang dijanjikan 483 tahun setelah Raja Persia mengijinkan orang-orang Yahudi membangun kembali Yerusalem, yang pada saat itu masih berupa reruntuhan. Nubuat ini, dengan jelas dan pasti, digenapi beberapa ratus tahun kemudian.
+
+Banyak nubuat yang berkenaan dengan berbagai bangsa dan kota yang dengan berjalannya sejarah secara umum, digenapi semuanya secara literal. Lebih dari 300 nubuat digenapi oleh Kristus sendiri pada kedatangan-Nya yang pertama. Nubuat lain berhubungan dengan penyebaran kekristenan, agama-agama palsu, dan pokok-pokok lainnya.
+
+Tidak ada kitab kuno maupun modern lain yang serupa dengan kitab ini. Nubuatan-nubuatan yang samar-samar dan biasanya keliru dari orang-orang seperti Jeanne Dixon, Nostradamus, Edgar Cayce, dan yang lainnya sama sekali tidak dapat dimasukkan dalam kategori yang sama, demikian pula kitab-kitab agama lainnya seperti Al-Quran, Ucapan-ucapan Khong Hu Cu dan tulisan-tulisan agama lainnya. Hanya Alkitab yang memperlihatkan bukti nubuatan yang mengagumkan ini, dan menunjukkannya dengan skala yang begitu luar biasa sehingga menjadikan semua penjelasan mengenai asal-usulnya terlihat absurd, kecuali penjelasan bahwa Kitab ini adalah penyataan ilahi.
+
+## Ketepatan Sejarah Yang Unik
+
+Ketepatan sejarah dalam Kitab Suci menempatkannya dalam kelas tersendiri, jauh lebih superior dibandingkan tulisan-tulisan Mesir, Asyur dan bangsa-bangsa kuno lainnya. Peneguhan arkeologi atas catatan Alkitab sepanjang abad 20 demikian banyaknya. Dr. Nelson Glueck, yang barangkali adalah ahli arkeologi Israel terbesar di jaman modern ini, mengatakan:
+
+“Tidak ada penemuan arkeologi yang menyanggah suatu pernyataan Alkitab. Banyak penemuan arkeologi yang telah meneguhkan, baik secara garis besar maupun rinci, berbagai pernyataan sejarah di dalam Alkitab. Dengan cara serupa, tinjauan yang sesuai atas pernyataan Alkitab seringkali membawa pada penemuan yang mengagumkan.”
+Ketepatan Ilmiah
+Bukti penyataan ilahi yang mengagumkan lainnya diperlihatkan dalam banyaknya prinsip-prinsip ilmu pengetahuan modern yang dicatat sebagai fakta-fakta di dalam Alkitab jauh sebelum para ilmuwan meneguhkannya secara eksperimen. Beberapa hal diantaranya:
+
+- Bulatan bumi (Yesaya 40:22)
+- Keluasan yang nyaris tak terhingga dari alam semesta (Yesaya 55:9)
+- Hukum kekekalan massa dan energi (2 Petrus 3:7)
+- Siklus hidrologis (Pengkhotbah 1:7)
+- Jumlah bintang yang sangat banyak (Yeremia 33:22)
+- Hukum entropi yang semakin meningkat (Mazmur 102:25-27)
+- Pentingnya darah dalam proses kehidupan (Imamat 17:11)
+- Sirkulasi atmosfer (Pengkhotbah 1:6)
+- Medan gravitasi (Ayub 26:7) dan banyak lagi yang lainnya
+
+Tentu saja semua hal ini tidak diungkapkan dalam bahasa teknis ilmu pengetahuan modern, melainkan dalam ungkapan pengalaman hidup manusia sehari-hari. Namun demikian, semuanya sangat sesuai dengan fakta-fakta ilmu pengetahuan modern.
+
+Penting dicatat bahwa tidak ada kekeliruan yang pernah ditunjukkan di dalam Alkitab, baik mengenai ilmu pengetahuan, sejarah atau pokok lainnya. Memang banyak kekeliruan yang sudah diklaim orang, namun para ahli Alkitab selalu mampu menyajikan penyelesaian yang masuk akal atas semua masalah yang muncul.
+
+## Struktur Yang Unik
+
+Struktur Alkitab yang mengagumkan juga perlu ditekankan. Meskipun Alkitab merupakan kumpulan dari 66 buah kitab, yang ditulis oleh 40 penulis atau lebih dalam rentang waktu 2000 tahun, namun Alkitab tetap merupakan satu Kitab, yang memiliki kesatuan dan konsistensi sempurna di setiap bagiannya.
+
+Para penulis Alkitab, pada saat menuliskan kitabnya, tidak memiliki bayangan bahwa pesan mereka pada akhirnya akan dikumpulkan menjadi sebuah Kitab seperti ini, namun demikian semuanya tersusun rapi dan menyampaikan tujuan uniknya sendiri sebagai sebuah komponen dari keseluruhannya. Setiap orang yang mempelajari Alkitab dengan sungguh-sungguh pada akhirnya akan menemukan pola struktur dan matematis yang mengagumkan yang terjalin di setiap bagiannya, dengan keterkaitan dan simetri yang tidak dapat dijelaskan sebagai sesuatu yang bersifat kebetulan belaka atau yang dengan sengaja disusun demikian.
+
+Satu-satunya tema Alkitab yang secara konsisten dikembangkan dengan agung dari Kejadian sampai Wahyu adalah karya Allah yang besar dalam penciptaan dan penebusan segala sesuatu, melalui Anak-Nya yang tunggal, Tuhan Yesus Kristus.
+
+## Efek Alkitab Yang Unik
+
+Alkitab juga unik dalam hal pengaruh yang diberikannya kepada orang-orang dan kepada sejarah bangsa-bangsa. Kitab ini merupakan kitab yang paling laku sepanjang zaman, menarik bagi hati maupun pikiran, dicintai oleh setidaknya sebagian orang dari setiap ras atau bangsa atau suku bangsa yang pernah dibawakan kitab ini, kaya atau miskin, orang terpelajar atau sederhana, raja atau orang biasa, dan semua orang dari berbagai latar belakang dan garis kehidupan yang berbeda. Tidak ada kitab lain yang pernah mendapat sambutan universal atau yang pernah menghasilkan efek yang tak berkesudahan seperti itu.
+
+Satu bukti terakhir bahwa Alkitab itu benar diperoleh melalui kesaksian mereka yang sudah mempercayainya. Banyak sekali orang, dahulu maupun sekarang, yang berdasarkan pengalaman pribadinya telah menemukan bahwa janji-janji yang ada di dalam Kitab itu benar, nasihatnya tepat, perintah dan larangannya bijaksana dan pesan keselamatannya yang indah memenuhi semua kebutuhan baik untuk hidup sekarang maupun hidup kekal.
+
+Penulis: Henry Morris dan Martin Clark, diadaptasi dari buku mereka The Bible Has the Answer, diterbitkan oleh Master Books, 1987. Disampaikan oleh Films for Christ seizin Master Books.
+Diterjemahkan oleh: Tjia Djie Kian
+
+
 
 Alasan Percaya Alkitab
 ======================

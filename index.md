@@ -77,12 +77,9 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 })();
 </script>
 
+<a href="https://alkitabsaja.github.io" class="btn" target="_blank">
+  <i class="bi bi-shield-plus"></i>
+  mirror: alkitabsaja.github.io
+</a>
+
 </div>
-![count](https://counter11.optistats.ovh/private/freecounterstat.php?c=tu39n5z56tu56f9judearse1aum3c4qa)
-  <script>
-    window.goatcounter = {
-        path: function(p) { return location.host + p }
-    }
-</script>
-    <script data-goatcounter="https://diselamatkan.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
