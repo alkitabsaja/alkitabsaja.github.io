@@ -64,7 +64,7 @@ Jangan coba-coba menanggung sendiri, tidak akan ada yang sanggup!
 
 DIA menunggumu membuka pintu hatimu untuk menerimaNYA!
 
-https://diselamatkan.org
+https://www.diselamatkan.org/?utm_source=ebook
 
 Bagikan ke semua kontak anda, barangkali ada 1 orang saja yang mau menerima Yesus sebagai satu-satunya Tuhan dan Juruselamat yang sudah menebus dosa dunia!
 
@@ -76,18 +76,17 @@ Copas ke semua forum, group wa, telegram, line, dst.
 
 Artikel, buku dan referensi lain:
 
-- https://alkitabsaja.github.io/docs/
-- https://kristenfundamentalis.wordpress.com/keselamatan/
-- https://yesustuhan.wordpress.com/tag/keselamatan/
-- https://www.mindmeister.com/users/channel/16080204
+- https://alkitabsaja.github.io/docs/?utm_source=ebook
+- https://kristenfundamentalis.wordpress.com/keselamatan/?utm_source=ebook
+- https://yesustuhan.wordpress.com/tag/keselamatan/?utm_source=ebook
 - https://christiananswers.net/indonesian/q-eden/edn-t003i.html
 - https://www.gotquestions.org/Indonesia/Pertanyaan-Alkitab.html
 - https://www.gotquestions.org/Indonesia/Pertanyaan-Penciptaan.html
 - https://www.gotquestions.org/Indonesia/Pertanyaan-Katolisisme.html
 - https://www.gotquestions.org/Indonesia/Pertanyaan-Muslim.html
-- https://web.archive.org/web/20240524175152/https://carm.org/indonesian/
 - https://alkitabiah.raindrop.page/
-- https://sejarahmartir.wordpress.com/
-- https://sabas.pages.dev/pasti
+- https://www.mindmeister.com/users/channel/16080204
+- https://sejarahmartir.wordpress.com/?utm_source=ebook
+- https://sabas.pages.dev/pasti/?utm_source=ebook
 
 
