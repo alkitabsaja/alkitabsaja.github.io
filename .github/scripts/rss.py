@@ -7,10 +7,10 @@ OUT = Path("_docs/news")
 OUT.mkdir(parents=True, exist_ok=True)
 
 FEEDS = {
-    "Diselamatkan": "https://www.matikemana.com/web1/feed",
+    "Keselamatan": "https://www.matikemana.com/web1/feed",
     "Alkitabiah": "https://alkitabiah.org/tag/keselamatan/feed/",
     "Fundamentalis": "https://kristenfundamentalis.wordpress.com/keselamatan/feed",
-    "Yesus Tuhan": "https://yesustuhan.wordpress.com/tag/keselamatan/feed/",
+    "YesusTuhan": "https://yesustuhan.wordpress.com/tag/keselamatan/feed/",
 }
 
 # Generate one markdown file per feed
@@ -26,7 +26,7 @@ for name, url in FEEDS.items():
         "layout: default",
         "---",
         "",
-        f"# {title}",
+#        f"# {title}",
         "",
     ]
 
@@ -45,7 +45,7 @@ for name, url in FEEDS.items():
         link = entry.get("link", "")
 
         md.extend([
-            f"## {entry_title}",
+            f"# {entry_title}",
             "",
             summary,
             "",
@@ -68,7 +68,7 @@ index = [
     "permalink: /news/",
     "---",
     "",
-    "# News",
+#    "# News",
     "",
 ]
 
