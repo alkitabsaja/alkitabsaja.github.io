@@ -16,3 +16,5 @@ relative_path={{ doc.relative_path }}
 url={{ doc.url }}
 collection={{ doc.collection }}
 {% endfor %}
+
+{% include news.md %}

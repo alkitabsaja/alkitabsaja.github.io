@@ -89,8 +89,9 @@ jobs:
 
           git add feed.xml
           git add ebooks
-          git add _docs/news
-          git add _docs/news.md
+          git add _include/news.md
+          #git add _docs/news
+          #git add _docs/news.md
 
           if ! git diff --cached --quiet; then
             git commit -m "Update ebooks"
