@@ -95,13 +95,6 @@ jobs:
             git push
           fi
 
-      - name: Deploy to Surge
-        env:
-          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
-          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
-        run: |
-          surge ./_site alkitabsaja.surge.sh
-
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
@@ -120,3 +113,10 @@ jobs:
         id: deploy-pages
         uses: actions/deploy-pages@v4
           
+      - name: Deploy to Surge
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: |
+          tree -L 2
+          surge ./_site alkitabsaja.surge.sh
