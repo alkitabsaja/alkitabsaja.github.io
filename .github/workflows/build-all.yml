@@ -41,7 +41,7 @@ jobs:
             texlive-fonts-recommended
           npm install -g surge
           pip install feedparser
-          python .github/scripts/rss.py
+          python -v .github/scripts/rss.py
 
       - name: Build PDFs & EPUBs
         shell: bash
@@ -77,19 +77,20 @@ jobs:
               -o "ebooks/${out}.epub"
           done
 
-      - name: Show generated files
-        run: find ebooks -type f | sort
+#      - name: Show generated files
+#        run: find ebooks -type f | sort
 
       - name: Commit generated ebooks
         run: |
           set -e
+          tree -L 3
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
           git add feed.xml
           git add ebooks
-          git add _include/news.md
+          git add _includes/news.md
           #git add _docs/news
           #git add _docs/news.md
 
