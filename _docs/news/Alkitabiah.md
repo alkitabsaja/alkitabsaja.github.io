@@ -1,5 +1,0 @@
----
-title: "Alkitabiah"
-layout: default
----
-
