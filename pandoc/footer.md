@@ -84,6 +84,7 @@ Artikel, buku dan referensi lain:
 - https://www.gotquestions.org/Indonesia/Pertanyaan-Penciptaan.html
 - https://www.gotquestions.org/Indonesia/Pertanyaan-Katolisisme.html
 - https://www.gotquestions.org/Indonesia/Pertanyaan-Muslim.html
+- https://alkitabsaja.surge.sh/docs/?utm_source=ebook
 - https://alkitabiah.raindrop.page/
 - https://www.mindmeister.com/users/channel/16080204
 - https://sejarahmartir.wordpress.com/?utm_source=ebook

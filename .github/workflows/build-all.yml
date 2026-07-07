@@ -47,7 +47,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          tree -L 2
+          #tree -L 2
 
           mkdir -p ebooks
           shopt -s globstar nullglob
@@ -87,8 +87,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
+          git add feed.xml
           git add ebooks
           git add _docs/news
+          git add _docs/news.md
 
           if ! git diff --cached --quiet; then
             git commit -m "Update ebooks"
@@ -118,5 +120,5 @@ jobs:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
         run: |
-          tree -L 2
+          tree -L 2 ./_site
           surge ./_site alkitabsaja.surge.sh
