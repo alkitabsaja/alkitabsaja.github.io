@@ -38,7 +38,7 @@ jobs:
             pandoc \
             texlive-xetex \
             texlive-fonts-recommended
-          npm install -g neocities
+          npm install -g surge
           pip install feedparser
           python .github/scripts/rss.py
 
@@ -93,3 +93,29 @@ jobs:
             git commit -m "Update ebooks"
             git push
           fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build Jekyll
+        uses: actions/jekyll-build-pages@v1
+        with:
+          source: .
+          destination: ./_site
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./_site
+
+      - name: Deploy GitHub Pages
+        id: deploy-pages
+        uses: actions/deploy-pages@v4
+
+      - name: Deploy to Surge
+        env:
+          SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
+          SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
+        run: |
+          surge ./_site alkitabsaja.surge.sh
+          
