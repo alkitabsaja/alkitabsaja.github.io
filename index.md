@@ -50,35 +50,11 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
   </iframe>
 </div>
 
+---
+
 {% include news.md %}
 
-<!-- RSS Reader embed 
-<div id="rss-reader"></div>
-<script>
-(function () {
-  var container = document.getElementById('rss-reader');
-  if (!container) return;
-
-  var iframe = document.createElement('iframe');
-  iframe.src             = "https://sabas.pages.dev/?format=iframe";
-  iframe.loading         = 'lazy';
-  iframe.title           = 'RSS Reader';
-  iframe.scrolling       = 'no';
-  iframe.style.cssText   = 'width:100%; border:none; display:block; overflow:hidden;';
-
-  // Receive height reports from the iframe and resize to fit.
-  // postMessage works cross-origin; the iframe sends rssReaderHeight on load
-  // and whenever its content changes (e.g. fonts, images, ResizeObserver).
-  window.addEventListener('message', function (e) {
-    if (e.source === iframe.contentWindow && e.data && e.data.rssReaderHeight) {
-      iframe.style.height = e.data.rssReaderHeight + 'px';
-    }
-  });
-
-  container.appendChild(iframe);
-})();
-</script>
--->
+---
 
 <a href="https://alkitabsaja.github.io/docs/?utm_source=dis" class="btn" target="_blank">
   <i class="bi bi-shield-plus"></i>
