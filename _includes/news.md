@@ -1,3 +1,39 @@
+# [Keadilan TIDAK BISA DIBELI dengan AMAL.](https://www.matikemana.com/web1/keadilan-tidak-bisa-dibeli-dengan-amal/)
+
+Bayangkan pemilik dapur MBG korupsi 10M, hakim melepaskan orang tersebut karena dia memberikan santunan kepada 100 orang anak Yatim-Piatu. Adilkah?
+
+---
+
+# [Karena kasih karunia kamu diselamatkan oleh iman!](https://www.matikemana.com/web1/karena-kasih-karunia-kamu-diselamatkan-oleh-iman/)
+
+Efesus 2:8-9 (TB) Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, itu bukan
+
+---
+
+# [Tujuh Langkah Mendapatkan Keselamatan](https://www.matikemana.com/web1/tujuh-langkah-mendapatkan-keselamatan/)
+
+Langkah pertama – Anda harus menyadari bahwa Anda adalah orang berdosa.“Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan
+
+---
+
+# [do re mi, DO: itulah DOSAMU!](https://www.matikemana.com/web1/do-re-mi-do-itulah-dosamu/)
+
+DO: itulah DOSAMU! www.MatiKemana.com Yesaya 59:2 (TB) tetapi yang merupakan pemisah antara kamu dan Allahmu ialah segala kejahatanmu, dan yang membuat
+
+---
+
+# [🔠ABCD Keselamatan Jiwa](https://www.matikemana.com/web1/abcd-keselamatan-jiwa/)
+
+MatiKemana.com@alkitabsaja A: AKUILAH Tuhan Maha Adil, saya berdosa jadi Tuhan pasti harus menghukum semua dan setiap dosa saya.upah dosa terhadap
+
+---
+
+# [Jalan Ke Sorga](https://www.matikemana.com/web1/jalan-ke-sorga/)
+
+1. Akui bahwa Anda adalah orang berdosa. Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah – Roma 3:23. Sebab
+
+---
+
 # [Benarkah, saat ini, Tuhan hanya berbicara melalui Alkitab?](https://kristenfundamentalis.wordpress.com/2021/12/31/alkitab/)
 
 Mengapa semua orang saat ini HANYA boleh percaya pada Alkitab (66 kitab) saja? Mengapa kita tidak boleh percaya pada kitab agama lain atau pada kesaksian orang yang naik ke sorga, orang yang ngaku-ngaku pergi ke… <a href="https://kristenfundamentalis.wordpress.com/2021/12/31/alkitab/">Lainnya</a>
@@ -28,15 +64,57 @@ Salah satu pertanyaan terbesar dalam sejarah umat manusia adalah “Kemana saya 
 
 ---
 
+# [KEBENARAN HAL NERAKA](https://www.matikemana.com/web1/kebenaran-hal-neraka/)
+
+NERAKA ADALAH TEMPAT PENYIKSAAN(terjemahan repentancecry) Yesus berkata tentang neraka dalam Lukas 16:23 .. ia menderita sengsara di alam maut ..24
+
+---
+
 # [Hari ini telah lahir bagimu Juruselamat, yaitu Kristus, Tuhan](https://yesustuhan.wordpress.com/2020/12/25/hari-ini-telah-lahir-bagimu-juruselamat-yaitu-kristus-tuhan/)
 
 tidak ada larangan merayakan Natal.juga tidak ada perintah seperti kita diperintahkan mengingat kematian-NYA. tapi, ada CONTOH yang baik untuk DITELADANI.Apa yang terjadi pada Natal pertama saat Allah datang, dilahirkan menjadi manusia? Lukas 2:8 Di daerah itu ada gembala-gembala yang tinggal di padang menjaga kawanan ternak mereka pada waktu malam. 2:9 Tiba-tiba berdirilah seorang malaikat Tuhan … <p><a class="more-link" href="https://yesustuhan.wordpress.com/2020/12/25/hari-ini-telah-lahir-bagimu-juruselamat-yaitu-kristus-tuhan/">Lanjutkan membaca <span class="screen-reader-text">Hari ini telah lahir bagimu Juruselamat, yaitu Kristus, Tuhan</span></a></p>
 
 ---
 
-# [Maukah Engkau Diselamatkan?](https://alkitabiah.org/maukah-engkau-diselamatkan/)
+# [Yesus Mati Bagiku](https://www.matikemana.com/web1/yesus-mati-bagiku/)
 
-Semua manusia pada umumnya mendambakan keselamatan jiwanya setelah ia mati. Karena setiap orang tahu, dia adalah manusia berdosa yang akan dihukum karena dosa-dosanya. Itulah sebabnya manusia berusaha berbuat banyak kebaikan, memeluk agama tertentu, dengan harapan…
+Bob JenningsKepada jemaat-jemaat di Galatia, Kasih karunia menyertai kamu dan Damai sejahtera dari Tuhan, Bapa kita dan dari Tuhan Yesus
+
+---
+
+# [Apa Keselamatan Itu?](https://www.matikemana.com/web1/apa-keselamatan-itu/)
+
+Saat ini Tuhan memerintahkan semua orang untuk bertobat dan percaya Hari ini adalah hari keselamatan anda bebas dari murka-Nya yang
+
+---
+
+# [Ketika Anda Mati …](https://www.matikemana.com/web1/ketika-anda-mati/)
+
+Manusia selama hidupnya berusaha semaksimal mungkin untuk senantiasa hidup bahagia dan menghindari segala bentuk kesusahan. Namun apa daya, pada kenyataannya,
+
+---
+
+# [Tuhan Kok Mati?](https://www.matikemana.com/web1/tuhan-kok-mati/)
+
+Jika Tuhan mati, maka segala sesuatu akan lenyap, kesunyian tidak sunyi lagi, indahnya pelangi dan makanan yang terlezat tidak akan
+
+---
+
+# [Hari Pertama Orang Berdosa di Neraka](https://www.matikemana.com/web1/hari-pertama-orang-berdosa-di-neraka/)
+
+(A Sinner’s First Day in Hell*) Oleh Dr. Denis Leatherman “Dan jika tanganmu menyesatkan engkau, penggallah, karena lebih baik engkau
+
+---
+
+# [Saya Mati Kemana?](https://www.matikemana.com/web1/saya-mati-kemana/)
+
+Salah satu pertanyaan terbesar dalam sejarah umat manusia adalah “Kemana saya setelah mati”? Banyak orang memikirkan pertanyaan ini dan belum menemukan jawaban yang
+
+---
+
+# [Maukah Engkau Diselamatkan?](https://www.matikemana.com/web1/maukah-engkau-diselamatkan/)
+
+Semua manusia pada umumnya mendambakan keselamatan jiwanya setelah ia mati. Karena setiap orang tahu, dia adalah manusia berdosa yang akan
 
 ---
 
