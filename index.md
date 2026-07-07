@@ -50,7 +50,9 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
   </iframe>
 </div>
 
-<!-- RSS Reader embed -->
+{% include news.md %}
+
+<!-- RSS Reader embed 
 <div id="rss-reader"></div>
 <script>
 (function () {
@@ -76,6 +78,7 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
   container.appendChild(iframe);
 })();
 </script>
+-->
 
 <a href="https://alkitabsaja.github.io/docs/?utm_source=dis" class="btn" target="_blank">
   <i class="bi bi-shield-plus"></i>

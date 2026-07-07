@@ -41,12 +41,12 @@ jobs:
             texlive-fonts-recommended
           npm install -g surge
           pip install feedparser
-          python -v .github/scripts/rss.py
-
+          
       - name: Build PDFs & EPUBs
         shell: bash
         run: |
           set -euo pipefail
+          python .github/scripts/rss.py
           #tree -L 2
 
           mkdir -p ebooks

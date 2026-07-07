@@ -33,10 +33,10 @@ for source_name, url in FEEDS.items():
         feed.feed.get("title", source_name)
     ).strip()
 
-    merged.extend([
-        f"## {source}",
-        "",
-    ])
+#    merged.extend([
+#        f"## {source}",
+#        "",
+#    ])
 
     for entry in feed.entries:
 
@@ -76,18 +76,16 @@ items.sort(
 for item in items:
 
     merged.extend([
-        f"# {item['title']}",
+        f"# [{item['title']}]({item['link']})",
         "",
         item["summary"],
         "",
-        f"[Read more]({item['link']})",
-        "",
-        f"*Source: {item['source']}*",
-        "",
+#        f"*Source: {item['source']}*",
+#        "",
         "---",
         "",
     ])
-
+    
 (INCLUDE_DIR / "news.md").write_text(
     "\n".join(merged),
     encoding="utf-8",
@@ -113,7 +111,6 @@ for item in items:
         f"<pubDate>{format_datetime(item['date'])}</pubDate>",
         "<description><![CDATA[",
         item["summary"],
-        f'<p><a href="{item["link"]}">Read more</a></p>',
         f"<p><em>{item['source']}</em></p>",
         "]]></description>",
         "</item>",
