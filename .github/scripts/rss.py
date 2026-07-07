@@ -1,10 +1,16 @@
+import calendar
 import html
+from datetime import datetime, timezone
+from email.utils import format_datetime
 from pathlib import Path
+from urllib.parse import quote
+from xml.sax.saxutils import escape
 
 import feedparser
 
-OUT = Path("_docs/news")
-OUT.mkdir(parents=True, exist_ok=True)
+SITE_TITLE = "Berita Keselamatan Kekal"
+SITE_LINK = "https://alkitabsaja.surge.sh/news/"
+SITE_DESCRIPTION = "Bagaimana Manusia Diselamatkan dari Neraka Kekal"
 
 FEEDS = {
     "Keselamatan": "https://www.matikemana.com/web1/feed",
@@ -13,97 +19,24 @@ FEEDS = {
     "YesusTuhan": "https://yesustuhan.wordpress.com/tag/keselamatan/feed/",
 }
 
-# Generate one markdown file per feed
-for name, url in FEEDS.items():
-
-    feed = feedparser.parse(url)
-
-    title = html.unescape(feed.feed.get("title", name)).strip()
-
-    md = [
-        "---",
-        f'title: "{title}"',
-        "layout: default",
-        "---",
-        "",
-#        f"# {title}",
-        "",
-    ]
-
-    for entry in feed.entries:
-
-        entry_title = html.unescape(
-            entry.get("title", "Untitled")
-        ).strip()
-
-        summary = html.unescape(
-            entry.get("summary", "")
-        ).strip()
-
-        summary = " ".join(summary.split())
-
-        link = entry.get("link", "")
-
-        md.extend([
-            f"# {entry_title}",
-            "",
-            summary,
-            "",
-            f"[Read more]({link})",
-            "",
-            "---",
-            "",
-        ])
-
-    (OUT / f"{name}.md").write_text(
-        "\n".join(md),
-        encoding="utf-8",
-    )
-
-# Generate combined News page
-index = [
-    "---",
-    'title: "News"',
-    "layout: default",
-    "permalink: /news/",
-    "---",
-    "",
-#    "# News",
-    "",
-]
-
-for file in sorted(OUT.glob("*.md")):
-    index.extend([
-        f"{{% include_relative news/{file.name} %}}",
-        "",
-    ])
-
-Path("_docs/news.md").write_text(
-    "\n".join(index),
-    encoding="utf-8",
-)
-
-from datetime import datetime, timezone
-from email.utils import format_datetime
-from urllib.parse import quote
-from xml.sax.saxutils import escape
-import calendar
-
-# -----------------------------------------------------------------------------
-# Generate combined RSS feed
-# -----------------------------------------------------------------------------
-
-SITE_TITLE = "News"
-SITE_LINK = "https://your-domain.com/news/"
-SITE_DESCRIPTION = "Aggregated news feed"
+INCLUDE_DIR = Path("_includes")
+INCLUDE_DIR.mkdir(parents=True, exist_ok=True)
 
 items = []
+merged = []
 
-for name, url in FEEDS.items():
+for source_name, url in FEEDS.items():
 
     feed = feedparser.parse(url)
 
-    source = html.unescape(feed.feed.get("title", name)).strip()
+    source = html.unescape(
+        feed.feed.get("title", source_name)
+    ).strip()
+
+    merged.extend([
+        f"## {source}",
+        "",
+    ])
 
     for entry in feed.entries:
 
@@ -119,7 +52,7 @@ for name, url in FEEDS.items():
 
         link = entry.get("link", "")
 
-        if hasattr(entry, "published_parsed") and entry.published_parsed:
+        if getattr(entry, "published_parsed", None):
             dt = datetime.fromtimestamp(
                 calendar.timegm(entry.published_parsed),
                 tz=timezone.utc,
@@ -127,20 +60,37 @@ for name, url in FEEDS.items():
         else:
             dt = datetime.now(timezone.utc)
 
-        guid = quote(link, safe="")
-
         items.append({
             "title": title,
             "summary": summary,
             "link": link,
             "date": dt,
-            "guid": guid,
             "source": source,
         })
 
 items.sort(
-    key=lambda x: x["date"],
+    key=lambda i: i["date"],
     reverse=True,
+)
+
+for item in items:
+
+    merged.extend([
+        f"# {item['title']}",
+        "",
+        item["summary"],
+        "",
+        f"[Read more]({item['link']})",
+        "",
+        f"*Source: {item['source']}*",
+        "",
+        "---",
+        "",
+    ])
+
+(INCLUDE_DIR / "news.md").write_text(
+    "\n".join(merged),
+    encoding="utf-8",
 )
 
 rss = [
@@ -159,7 +109,7 @@ for item in items:
         "<item>",
         f"<title>{escape(item['title'])}</title>",
         f"<link>{escape(item['link'])}</link>",
-        f"<guid>{item['guid']}</guid>",
+        f"<guid>{quote(item['link'], safe='')}</guid>",
         f"<pubDate>{format_datetime(item['date'])}</pubDate>",
         "<description><![CDATA[",
         item["summary"],
