@@ -111,7 +111,7 @@ jobs:
           destination: ./_site
 
       - name: pagefind index
-        run: NODE_OPTIONS="--max-old-space-size=4096" pagefind -v --site _site
+        run: pagefind -v --site _site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
