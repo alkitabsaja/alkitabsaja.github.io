@@ -118,6 +118,12 @@ Semua manusia pada umumnya mendambakan keselamatan jiwanya setelah ia mati. Kare
 
 ---
 
+# [Maukah Engkau Diselamatkan?](https://alkitabiah.org/maukah-engkau-diselamatkan/)
+
+Semua manusia pada umumnya mendambakan keselamatan jiwanya setelah ia mati. Karena setiap orang tahu, dia adalah manusia berdosa yang akan dihukum karena dosa-dosanya. Itulah sebabnya manusia berusaha berbuat banyak kebaikan, memeluk agama tertentu, dengan harapan…
+
+---
+
 # [Mengapa Tuhan membiarkan Ribuan Bayi yang tidak tahu apa-apa dibantai hanya oleh karena kelahiranNya? Tidak ada pihak netral!](https://yesustuhan.wordpress.com/2017/02/01/mengapa-tuhan-membiarkan-ribuan-bayi-yang-tidak-tahu-apa-apa-dibantai-hanya-oleh-karena-kelahirannya-tidak-ada-pihak-netral/)
 
 Ribuan bayi di Bethlehem dibantai dibunuh hanya oleh karena berita kedatangan Tuhan Sang Juruselamat! Jutaan Yahudi dibantai Hitler hanya karena dipakai Tuhan untuk mendatangkan Juruselamat! Bahkan Yahudi hingga saat ini menjadi bangsa yang paling dibenci di seluruh dunia! Bukankah mereka pihak netral yang tidak memilih? Mengapa mereka ikut menderita sengsara oleh sesuatu yang mereka tidak … <p><a class="more-link" href="https://yesustuhan.wordpress.com/2017/02/01/mengapa-tuhan-membiarkan-ribuan-bayi-yang-tidak-tahu-apa-apa-dibantai-hanya-oleh-karena-kelahirannya-tidak-ada-pihak-netral/">Lanjutkan membaca <span class="screen-reader-text">Mengapa Tuhan membiarkan Ribuan Bayi yang tidak tahu apa-apa dibantai hanya oleh karena kelahiranNya? Tidak ada pihak netral!</span></a></p>
