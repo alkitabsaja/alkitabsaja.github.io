@@ -23,8 +23,7 @@ jobs:
       url: ${{ steps.deploy-pages.outputs.page_url }}
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0
           persist-credentials: true
@@ -34,8 +33,7 @@ jobs:
           ruby-version: '3.2.3'
           bundler-cache: true
     
-      - name: Install Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
 
@@ -86,13 +84,10 @@ jobs:
               -o "ebooks/${out}.epub"
           done
 
-#      - name: Show generated files
-#        run: find ebooks -type f | sort
-
       - name: Commit generated ebooks
         run: |
           set -e
-          tree -L 3
+          tree -L 2
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -108,20 +103,16 @@ jobs:
             git push
           fi
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v5
+      - uses: actions/configure-pages@v5
 
-      - name: Build Jekyll
-        run: bundle exec jekyll build
-
-      - name: pagefind index
+      - name: Build and pagefind index
         run: |
+          bundle exec jekyll build
           ls -al _site
           #chmod +w _site
           pagefind -v --glob "docs/**/*.{html}" --site _site
 
-      - name: Upload Pages artifact
-        uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: ./_site
 
