@@ -29,6 +29,10 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
+      - uses: ruby/setup-ruby@v1
+        with:
+          bundler-cache: true
+    
       - name: Install Python
         uses: actions/setup-python@v5
         with:
@@ -37,10 +41,8 @@ jobs:
       - name: Install Pandoc + LaTeX + npm + pip
         run: |
           sudo apt-get update
-          sudo apt-get install -y \
-            pandoc \
-            texlive-xetex \
-            texlive-fonts-recommended
+          command -v pandoc  >/dev/null || sudo apt-get install -y pandoc
+          command -v xelatex >/dev/null || sudo apt-get install -y texlive-xetex texlive-fonts-recommended
           npm install -g surge pagefind
           npm list -g
           pagefind --version
@@ -108,10 +110,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: .
-          destination: ./_site
+        run: bundle exec jekyll build
 
       - name: pagefind index
         run: |
