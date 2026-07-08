@@ -42,8 +42,7 @@ jobs:
       - name: Install Pandoc + LaTeX + npm + pip
         run: |
           sudo apt-get update
-          command -v pandoc  >/dev/null || sudo apt-get install -y pandoc
-          command -v xelatex >/dev/null || sudo apt-get install -y texlive-xetex texlive-fonts-recommended
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
           npm install -g surge pagefind
           npm list -g
           pagefind --version
