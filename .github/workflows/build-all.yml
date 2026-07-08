@@ -42,7 +42,10 @@ jobs:
             texlive-xetex \
             texlive-fonts-recommended
           npm install -g surge pagefind
+          npm list -g
+          pagefind --version
           pip install feedparser
+          pip list
           
       - name: Build RSS, PDFs & EPUBs
         shell: bash
