@@ -5,7 +5,7 @@ plugins:
 title: alkitabsaja
 description: Firman Tuhan Tanpa Salah
 url: https://www.diselamatkan.org
-logo: https://github.com/alkitabsaja.png
+logo: /assets/images/alkitabsaja.png
 favicon: /assets/favicon.ico
 markdown: kramdown
 

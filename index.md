@@ -5,7 +5,7 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 
 <div class="bio-wrap" markdown="1">
 
-<img src="https://github.com/alkitabsaja.png" class="avatar" alt="Avatar">
+<img src="/assets/images/alkitabsaja.png" class="avatar" alt="Avatar">
 
 # {{ site.title }}
 
