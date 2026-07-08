@@ -117,8 +117,8 @@ jobs:
       - name: pagefind index
         run: |
           ls -al _site
-          chmod +w _site
-          pagefind -v --site _site
+          #chmod +w _site
+          pagefind -v --glob "docs/**/*.{html}" --site _site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
@@ -135,5 +135,5 @@ jobs:
           SURGE_TOKEN: ${{ secrets.SURGE_TOKEN }}
         run: |
           tree -L 2 ./_site
-          surge ./_site alkitabsaja.surge.sh
+          surge ./_site https://alkitabsaja.surge.sh
 
