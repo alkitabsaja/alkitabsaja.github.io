@@ -1,120 +1,136 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" data-theme="light">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <title>Search</title>
+<title>Search</title>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css">
 
-  <link
-    rel="stylesheet"
-    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
-  >
+<style>
+:root {
+    --pico-spacing: 1rem;
+}
 
-  <style>
-    main {
-      max-width: 900px;
-      margin: 2rem auto;
-    }
+main {
+    max-width: 960px;
+    margin: 2rem auto;
+}
 
-    form {
-      margin-bottom: 2rem;
-    }
+#search-form {
+    display: flex;
+    gap: .5rem;
+    align-items: center;
+    margin-bottom: 1rem;
+}
 
-    .gsc-control-cse {
-      padding: 0 !important;
-      border: 0 !important;
-      background: transparent !important;
-    }
-  </style>
+#query {
+    flex: 1;
+    width: auto;
+    margin: 0;
+}
 
-  <script async src="https://cse.google.com/cse.js?cx=470bfb11830904f83"></script>
+#search-form button {
+    flex: 0 0 auto;
+    width: auto;
+    margin: 0;
+    white-space: nowrap;
+}
+
+.gsc-control-cse,
+.gsc-control-searchresults-only {
+    border: 0 !important;
+    padding: 0 !important;
+    background: transparent !important;
+}
+
+.gsc-results-wrapper-visible {
+    margin-top: 1rem;
+}
+</style>
+
+<script async src="https://cse.google.com/cse.js?cx=470bfb11830904f83"></script>
 </head>
 <body>
 
 <main class="container">
 
-  <h1>Search</h1>
-
-  <form id="search-form">
+<form id="search-form">
     <input
-      id="query"
-      name="q"
-      type="search"
-      placeholder="Search..."
-      autocomplete="off"
-    >
+        id="query"
+        type="search"
+        placeholder="Search..."
+        autocomplete="off">
 
     <button type="submit">
-      Search
+        Search
     </button>
-  </form>
+</form>
 
-  <div class="gcse-searchresults-only"></div>
+<div class="gcse-searchresults-only"></div>
 
 </main>
 
 <script>
-(() => {
-  const form = document.getElementById("search-form");
-  const input = document.getElementById("query");
+const input = document.getElementById("query");
+const form = document.getElementById("search-form");
 
-  const params = new URLSearchParams(location.search);
-  const initialQuery = params.get("q") || "";
+const params = new URLSearchParams(location.search);
+const initialQuery = params.get("q") || "";
 
-  input.value = initialQuery;
+input.value = initialQuery;
 
-  function performSearch(query) {
+function executeSearch(query) {
     history.replaceState(
-      {},
-      "",
-      query
-        ? `?q=${encodeURIComponent(query)}`
-        : location.pathname
+        {},
+        "",
+        query
+            ? "?q=" + encodeURIComponent(query)
+            : location.pathname
     );
 
-    const execute = () => {
-      if (
-        window.google &&
-        google.search &&
-        google.search.cse &&
-        google.search.cse.element
-      ) {
-        const element = google.search.cse.element.getElement(
-          "searchresults-only0"
-        );
+    const trySearch = () => {
+        if (
+            window.google &&
+            google.search &&
+            google.search.cse &&
+            google.search.cse.element
+        ) {
+            const element =
+                google.search.cse.element.getElement("searchresults-only0");
 
-        if (element) {
-          element.execute(query);
-          return true;
+            if (element) {
+                element.execute(query);
+                return true;
+            }
         }
-      }
 
-      return false;
+        return false;
     };
 
-    if (!execute()) {
-      const timer = setInterval(() => {
-        if (execute()) {
-          clearInterval(timer);
-        }
-      }, 100);
+    if (!trySearch()) {
+        const timer = setInterval(() => {
+            if (trySearch()) {
+                clearInterval(timer);
+            }
+        }, 100);
     }
-  }
+}
 
-  form.addEventListener("submit", (e) => {
+form.addEventListener("submit", e => {
     e.preventDefault();
 
-    const query = input.value.trim();
-    if (!query) return;
+    const q = input.value.trim();
 
-    performSearch(query);
-  });
+    if (!q)
+        return;
 
-  if (initialQuery) {
-    performSearch(initialQuery);
-  }
-})();
+    executeSearch(q);
+});
+
+if (initialQuery) {
+    executeSearch(initialQuery);
+}
 </script>
 
 </body>
