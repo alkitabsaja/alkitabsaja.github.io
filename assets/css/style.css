@@ -357,9 +357,30 @@ hr {
 .pagefind-ui .pagefind-ui__search-input {
     background: var(--surface);
     color: var(--text);
+    border: 1px solid var(--border);
+    border-radius: 0.6rem;
+    padding: 0.6rem 2.25rem 0.6rem 2.25rem;
+    font-size: 0.95rem;
+    line-height: 1.4;
+    transition: border-color 0.15s ease;
+}
+.pagefind-ui .pagefind-ui__search-input::placeholder {
+    color: var(--muted);
+}
+.pagefind-ui .pagefind-ui__search-input:hover {
+    border-color: var(--muted);
+}
+.pagefind-ui .pagefind-ui__search-input:focus {
+    outline: 2px solid var(--link);
+    outline-offset: 1px;
+    border-color: var(--link);
 }
 .pagefind-ui .pagefind-ui__search-clear {
     color: var(--muted);
+    font-size: 0.85rem;
+}
+.pagefind-ui .pagefind-ui__search-clear:hover {
+    color: var(--text);
 }
 .pagefind-ui .pagefind-ui__drawer {
     background: var(--bg);
