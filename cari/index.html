@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Search</title>
+
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.min.css"
+  >
+
+  <style>
+    main {
+      max-width: 900px;
+      margin: 2rem auto;
+    }
+
+    form {
+      margin-bottom: 2rem;
+    }
+
+    .gsc-control-cse {
+      padding: 0 !important;
+      border: 0 !important;
+      background: transparent !important;
+    }
+  </style>
+
+  <script async src="https://cse.google.com/cse.js?cx=470bfb11830904f83"></script>
+</head>
+<body>
+
+<main class="container">
+
+  <h1>Search</h1>
+
+  <form id="search-form">
+    <input
+      id="query"
+      name="q"
+      type="search"
+      placeholder="Search..."
+      autocomplete="off"
+    >
+
+    <button type="submit">
+      Search
+    </button>
+  </form>
+
+  <div class="gcse-searchresults-only"></div>
+
+</main>
+
+<script>
+(() => {
+  const form = document.getElementById("search-form");
+  const input = document.getElementById("query");
+
+  const params = new URLSearchParams(location.search);
+  const initialQuery = params.get("q") || "";
+
+  input.value = initialQuery;
+
+  function performSearch(query) {
+    history.replaceState(
+      {},
+      "",
+      query
+        ? `?q=${encodeURIComponent(query)}`
+        : location.pathname
+    );
+
+    const execute = () => {
+      if (
+        window.google &&
+        google.search &&
+        google.search.cse &&
+        google.search.cse.element
+      ) {
+        const element = google.search.cse.element.getElement(
+          "searchresults-only0"
+        );
+
+        if (element) {
+          element.execute(query);
+          return true;
+        }
+      }
+
+      return false;
+    };
+
+    if (!execute()) {
+      const timer = setInterval(() => {
+        if (execute()) {
+          clearInterval(timer);
+        }
+      }, 100);
+    }
+  }
+
+  form.addEventListener("submit", (e) => {
+    e.preventDefault();
+
+    const query = input.value.trim();
+    if (!query) return;
+
+    performSearch(query);
+  });
+
+  if (initialQuery) {
+    performSearch(initialQuery);
+  }
+})();
+</script>
+
+</body>
+</html>
