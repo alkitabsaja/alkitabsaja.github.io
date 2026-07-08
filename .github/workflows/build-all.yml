@@ -114,7 +114,10 @@ jobs:
           destination: ./_site
 
       - name: pagefind index
-        run: pagefind -v --site _site
+        run: |
+          ls -al _site
+          chmod +w _site
+          pagefind -v --site _site
 
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
