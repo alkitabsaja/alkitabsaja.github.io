@@ -29,10 +29,6 @@ jobs:
           fetch-depth: 0
           persist-credentials: true
 
-      - uses: ruby/setup-ruby@v1
-        with:
-          bundler-cache: true
-    
       - name: Install Python
         uses: actions/setup-python@v5
         with:
@@ -48,6 +44,7 @@ jobs:
           pagefind --version
           pip install feedparser
           pip list
+          ruby -v
           
       - name: Build RSS, PDFs & EPUBs
         shell: bash
