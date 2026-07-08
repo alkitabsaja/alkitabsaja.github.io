@@ -41,7 +41,7 @@ jobs:
             pandoc \
             texlive-xetex \
             texlive-fonts-recommended
-          npm install -g surge
+          npm install -g surge pagefind
           pip install feedparser
           
       - name: Build PDFs & EPUBs
@@ -110,6 +110,9 @@ jobs:
           source: .
           destination: ./_site
 
+      - name: pagefind index
+        run: pagefind --site _site
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -118,7 +121,7 @@ jobs:
       - name: Deploy GitHub Pages
         id: deploy-pages
         uses: actions/deploy-pages@v4
-          
+
       - name: Deploy to Surge
         env:
           SURGE_LOGIN: ${{ secrets.SURGE_LOGIN }}
@@ -126,3 +129,4 @@ jobs:
         run: |
           tree -L 2 ./_site
           surge ./_site alkitabsaja.surge.sh
+
