@@ -386,15 +386,20 @@ hr {
     width: 1.5rem;
     height: 1.5rem;
     padding: 0;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     font-size: 0;
     color: var(--muted);
     background: transparent;
     border: none;
     border-radius: 50%;
     cursor: pointer;
+}
+/* Only take over layout once Pagefind itself decides to show the button —
+   this avoids fighting whatever mechanism it uses (e.g. the hidden attribute)
+   to hide the button when the input is empty. */
+.pagefind-ui .pagefind-ui__search-clear:not([hidden]) {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 .pagefind-ui .pagefind-ui__search-clear::before {
     content: "\2715";
