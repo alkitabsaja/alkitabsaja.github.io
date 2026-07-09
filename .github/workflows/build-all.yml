@@ -32,7 +32,7 @@ jobs:
         with:
           ruby-version: '3.2.3'
           bundler-cache: true
-    
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
@@ -87,7 +87,7 @@ jobs:
       - name: Commit generated ebooks
         run: |
           set -e
-          tree -L 2
+          tree -L 3
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -99,8 +99,8 @@ jobs:
           #git add _docs/news.md
 
           if ! git diff --cached --quiet; then
-            git commit -m "Update ebooks"
-            git push
+            git commit -v -m "Update ebooks"
+            git push -v
           fi
 
       - uses: actions/configure-pages@v5
