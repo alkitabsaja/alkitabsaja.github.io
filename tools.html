@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
 <head>
@@ -10,6 +11,11 @@
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large">
 <meta name="theme-color" content="#111111">
+<link rel="manifest" href="/manifest.json">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Polaris Tools">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<link rel="apple-touch-icon" href="/pwa-icon-192.svg">
 <meta property="og:type" content="website">
 <meta property="og:title" content="Free Developer Tools — IP, Hash, QR Code, Password & More | Polaris Network">
 <meta property="og:description" content="Free browser-based toolbox: IP/CIDR calculator, bcrypt & SHA hashing, QR code generator, password generator, Base64, JSON formatter, UUID, WireGuard keys. No server. 100% private.">
@@ -20,7 +26,7 @@
 <meta name="twitter:description" content="Instant IP calculator, bcrypt/SHA hash, QR code generator, password tool, Base64, JSON, UUID and more. 100% client-side, no tracking.">
 <link rel="preconnect" href="https://cdn.jsdelivr.net">
 <script type="application/ld+json">
-[{"@context":"https://schema.org","@type":"WebApplication","name":"Polaris Network Developer Toolbox","url":"https://www.mypolaris.com/","description":"Free, privacy-first browser-based utilities for developers.","applicationCategory":"DeveloperApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"featureList":["IP and CIDR subnet calculator","QR code generator","Secure password generator","MD5, SHA-1, SHA-256, SHA-384, SHA-512 hashing","bcrypt and htpasswd hashing","Base64, URL, and HTML encoding","JSON formatter","Text utilities","RSA key pair generator","WireGuard private key generator","UUID v4 generator","Download speed test"]},{"@context":"https://schema.org","@type":"ItemList","name":"Developer Tools","itemListElement":[{"@type":"ListItem","position":1,"name":"IP / CIDR Calculator","url":"https://www.mypolaris.com/?tools=ip"},{"@type":"ListItem","position":2,"name":"QR Code Generator","url":"https://www.mypolaris.com/?tools=qr"},{"@type":"ListItem","position":3,"name":"Password Generator","url":"https://www.mypolaris.com/?tools=pass"},{"@type":"ListItem","position":4,"name":"Hash Generator","url":"https://www.mypolaris.com/?tools=hash"},{"@type":"ListItem","position":5,"name":"Base64 & URL Encoder","url":"https://www.mypolaris.com/?tools=codec"},{"@type":"ListItem","position":6,"name":"JSON Formatter","url":"https://www.mypolaris.com/?tools=json"},{"@type":"ListItem","position":7,"name":"Text Utilities","url":"https://www.mypolaris.com/?tools=text"},{"@type":"ListItem","position":8,"name":"Crypto Key Generators","url":"https://www.mypolaris.com/?tools=crypto"},{"@type":"ListItem","position":9,"name":"UUID & MAC Generator","url":"https://www.mypolaris.com/?tools=misc"},{"@type":"ListItem","position":10,"name":"DNS Lookup","url":"https://www.mypolaris.com/?tools=dns"},{"@type":"ListItem","position":11,"name":"Download Speed Test","url":"https://www.mypolaris.com/?tools=speed"}]},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is this toolbox free to use?","acceptedAnswer":{"@type":"Answer","text":"Yes. All tools are completely free and run entirely in your browser."}},{"@type":"Question","name":"Does Polaris Network Toolbox store my data?","acceptedAnswer":{"@type":"Answer","text":"No. All processing is 100% client-side. Nothing you type is ever sent to a server."}},{"@type":"Question","name":"What hash algorithms are supported?","acceptedAnswer":{"@type":"Answer","text":"MD5, SHA-1, SHA-256, SHA-384, SHA-512, bcrypt (cost 10), and htpasswd (SHA-1 base64)."}},{"@type":"Question","name":"Can I test my internet speed?","acceptedAnswer":{"@type":"Answer","text":"Yes. The Speed Test tab downloads a 20 MB file from Cloudflare and measures real-time throughput in Mbps."}}]}]
+[{"@context":"https://schema.org","@type":"WebApplication","name":"Polaris Network Developer Toolbox","url":"https://mypolaris.com/","description":"Free, privacy-first browser-based utilities for developers.","applicationCategory":"DeveloperApplication","operatingSystem":"Any","browserRequirements":"Requires JavaScript","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"featureList":["IP and CIDR subnet calculator","QR code generator","Secure password generator","MD5, SHA-1, SHA-256, SHA-384, SHA-512 hashing","bcrypt and htpasswd hashing","Base64, URL, and HTML encoding","JSON formatter","Text utilities","RSA key pair generator","WireGuard private key generator","UUID v4 generator","Download speed test"]},{"@context":"https://schema.org","@type":"ItemList","name":"Developer Tools","itemListElement":[{"@type":"ListItem","position":1,"name":"IP / CIDR Calculator","url":"https://www.mypolaris.com/?tools=ip"},{"@type":"ListItem","position":2,"name":"QR Code Generator","url":"https://www.mypolaris.com/?tools=qr"},{"@type":"ListItem","position":3,"name":"Password Generator","url":"https://www.mypolaris.com/?tools=pass"},{"@type":"ListItem","position":4,"name":"Hash Generator","url":"https://www.mypolaris.com/?tools=hash"},{"@type":"ListItem","position":5,"name":"Base64 & URL Encoder","url":"https://www.mypolaris.com/?tools=codec"},{"@type":"ListItem","position":6,"name":"JSON Formatter","url":"https://www.mypolaris.com/?tools=json"},{"@type":"ListItem","position":7,"name":"Text Utilities","url":"https://www.mypolaris.com/?tools=text"},{"@type":"ListItem","position":8,"name":"Crypto Key Generators","url":"https://www.mypolaris.com/?tools=crypto"},{"@type":"ListItem","position":9,"name":"PIN, UUID & MAC Generator","url":"https://www.mypolaris.com/?tools=misc"},{"@type":"ListItem","position":10,"name":"DNS Lookup","url":"https://www.mypolaris.com/?tools=dns"},{"@type":"ListItem","position":11,"name":"Download Speed Test","url":"https://www.mypolaris.com/?tools=speed"}]},{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Is this toolbox free to use?","acceptedAnswer":{"@type":"Answer","text":"Yes. All tools are completely free and run entirely in your browser."}},{"@type":"Question","name":"Does Polaris Network Toolbox store my data?","acceptedAnswer":{"@type":"Answer","text":"No. All processing is 100% client-side. Nothing you type is ever sent to a server."}},{"@type":"Question","name":"What hash algorithms are supported?","acceptedAnswer":{"@type":"Answer","text":"MD5, SHA-1, SHA-256, SHA-384, SHA-512, bcrypt (cost 10), and htpasswd (SHA-1 base64)."}},{"@type":"Question","name":"Can I test my internet speed?","acceptedAnswer":{"@type":"Answer","text":"Yes. The Speed Test tab downloads a 20 MB file from Cloudflare and measures real-time throughput in Mbps."}}]}]
 </script>
 <style>
 *{box-sizing:border-box}
@@ -37,7 +43,7 @@ nav a{color:#888;text-decoration:none;font-size:12.5px}
 nav a:hover{color:#8cf}
 input,textarea,select{background:#1c1c1c;color:#ccc;border:1px solid #383838;padding:7px 10px;margin:2px;border-radius:4px;font-size:13px;outline:none;transition:border .15s}
 input:focus,textarea:focus,select:focus{border-color:#4a6a9a}
-button{background:#222;color:#bbb;border:1px solid blue #363636;padding:7px 13px;margin:2px;border-radius:4px;font-size:13px;cursor:pointer;transition:.15s}
+button{background:#222;color:#bbb;border:1px solid #363636;padding:7px 13px;margin:2px;border-radius:4px;font-size:13px;cursor:pointer;transition:.15s}
 button:hover{background:#2a2a2a;color:#8cf;border-color:#3a4a6a}
 button:disabled{opacity:.35;cursor:default;pointer-events:none}
 .tab{display:none;padding:8px 0}
@@ -98,7 +104,7 @@ footer a:hover{color:#8cf}
     <button onclick="tab('text')">Text</button>
     <button onclick="tab('crypto')">Crypto</button>
     <button onclick="tab('misc')">Misc</button>
-    <button><a href="https://api.mypolaris.com/">API</a></button>
+    <button><a href="https://polaris-wasmer-app-deployments.wasmer.app/">API</a></button>
   </div>
 </nav>
 
@@ -127,7 +133,7 @@ footer a:hover{color:#8cf}
       <div class="tool-link" onclick="tab('json')"><h3>JSON Formatter</h3><p>Paste raw or minified JSON to instantly pretty-print and validate it.</p></div>
       <div class="tool-link" onclick="tab('text')"><h3>Text Utilities</h3><p>UPPERCASE / lowercase conversion and duplicate line removal.</p></div>
       <div class="tool-link" onclick="tab('crypto')"><h3>Crypto Key Generator</h3><p>RSA keypairs (2048 / 4096-bit), WireGuard private keys, IPsec PSK, and WEP keys.</p></div>
-      <div class="tool-link" onclick="tab('misc')"><h3>UUID &amp; MAC Generator</h3><p>RFC 4122 UUID v4, random MAC addresses, random numbers, and dice rolls.</p></div>
+      <div class="tool-link" onclick="tab('misc')"><h3>PIN, UUID &amp; MAC Generator</h3><p>RFC 4122 UUID v4, random MAC addresses, random PIN numbers, and dice rolls.</p></div>
       <div class="tool-link" onclick="tab('dns')"><h3>DNS Lookup</h3><p>Query A, AAAA, MX, TXT, CNAME, NS, SOA, PTR, SRV, CAA via DNS over HTTPS (DoH).</p></div>
       <div class="tool-link" onclick="tab('speed')"><h3>Download Speed Test</h3><p>Measure your download speed with a 20 MB Cloudflare test file. Real-time Mbps readout.</p></div>
       <div class="tool-link"><h3><a href="https://api.mypolaris.com/" style="color:inherit;text-decoration:none">Server-Side API</a></h3><p>DNS, WHOIS, ping, port check, geolocation, email headers, subdomain finder, BGP &amp; more.</p></div>
@@ -250,12 +256,12 @@ footer a:hover{color:#8cf}
 
   <!-- MISC -->
   <div id="misc" class="tab card" role="region" aria-label="UUID and MAC Address Generator">
-    <h2 class="th">UUID v4, MAC Address &amp; Random Generators</h2>
-    <p class="td">Generate RFC 4122 UUID v4 identifiers, random MAC addresses, random integers, or simulate a dice roll.</p>
+    <h2 class="th">PIN, UUID v4, MAC Address &amp; Random Generators</h2>
+    <p class="td">Generate RFC 4122 UUID v4 identifiers, random MAC addresses, random PIN, or simulate a dice roll.</p>
     <div class="btn-row">
       <button onclick="uuid()">UUID v4</button>
       <button onclick="mac()">Random MAC</button>
-      <button onclick="rand()">Random Number</button>
+      <button onclick="rand()">Random PIN Number</button>
       <button onclick="dice()">Roll Dice 🎲</button>
     </div>
     <pre id="miscout" onclick="copyMe(this)" aria-label="Generator output"></pre>
@@ -316,7 +322,7 @@ footer a:hover{color:#8cf}
     <pre id="speed-out" onclick="copyMe(this)" aria-label="Speed test result"></pre>
   </div>
 
-  <!-- Polaris -->
+    <!-- Polaris -->
   <div id="polaris" class="tab card" role="region" aria-label="Polaris Network Tools">
     <h2 class="th">Polaris Network Administration Professional Tools</h2>
     <p class="td">Free browser-based developer toolbox. Instant IP/CIDR calculator, SHA-256 & bcrypt hash generator, QR code maker, secure password generator, Base64 encoder, JSON formatter, UUID, WireGuard keys — no server, 100% private.</p>
@@ -327,7 +333,7 @@ footer a:hover{color:#8cf}
 
 <footer role="contentinfo">
   <div class="footer-links">
-    <a href="https://mypolaris.com" id="Polaris Network Administrator Tools">Home</a>
+    <a href="https://mypolaris.com">Home</a>
     <a href="?tools=ip" onclick="tab('ip')">IP Calc</a>
     <a href="?tools=hash" onclick="tab('hash')">Hash</a>
     <a href="?tools=qr" onclick="tab('qr')">QR Code</a>
@@ -422,11 +428,21 @@ function calcIP(){
 // --- Password ---
 function genpass(){
     const pout=document.getElementById('pout');
-    let chars="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#%^&*";
-    let s=""; for(let i=0;i<+document.getElementById('plen').value;i++) s+=chars[Math.floor(Math.random()*chars.length)];
-    pout.textContent=s;
+    const len=+document.getElementById('plen').value;
+    const chars="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789!@#$%^&*()_+-=[]{}|;:,.<>?";
+    const arr=new Uint32Array(len);
+    crypto.getRandomValues(arr);
+    let s="";
+    for(let i=0;i<len;i++){
+        // Rejection sampling to avoid modulo bias
+        const max=Math.floor(0x100000000/chars.length)*chars.length;
+        let idx=arr[i];
+        if(idx>=max) idx%=chars.length; // rare, but fallback
+        s+=chars[idx%chars.length];
+    }
+    const bits=Math.round(len*Math.log2(chars.length));
+    pout.textContent=s+"\n["+len+" chars | ~"+bits+" bit entropy]";
 }
-function strength(){ const p=document.getElementById('pout'); p.textContent+="\nLength: "+p.textContent.length; }
 
 // --- Hash ---
 function doHash(t){
@@ -476,14 +492,24 @@ function uuid(){
         out.textContent=[h.slice(0,8),h.slice(8,12),h.slice(12,16),h.slice(16,20),h.slice(20)].join('-');
     }catch(e){ out.textContent="UUID error: "+e.message; }
 }
-function mac(){ const a=[]; for(let i=0;i<6;i++) a.push(Math.floor(Math.random()*256).toString(16).padStart(2,"0").toUpperCase()); document.getElementById('miscout').textContent=a.join(":"); }
-function rand(){ document.getElementById('miscout').textContent=Math.floor(Math.random()*9999999); }
-function dice(){ document.getElementById('miscout').textContent="🎲 "+(Math.floor(Math.random()*6)+1); }
+function mac(){
+    const a=new Uint8Array(6); crypto.getRandomValues(a);
+    document.getElementById('miscout').textContent=[...a].map(x=>x.toString(16).padStart(2,"0").toUpperCase()).join(":");
+}
+function rand(){
+    const a=new Uint32Array(1); crypto.getRandomValues(a);
+    document.getElementById('miscout').textContent=(a[0]%999999);
+}
+function dice(){
+    const a=new Uint8Array(1); crypto.getRandomValues(a);
+    document.getElementById('miscout').textContent="🎲 "+((a[0]%6)+1);
+}
 
 // --- Crypto ---
 function genwep(){
     const n=+document.getElementById('wep').value, chars="0123456789ABCDEF";
-    let s=""; for(let i=0;i<n;i++) s+=chars[Math.floor(Math.random()*16)];
+    const a=new Uint8Array(n); crypto.getRandomValues(a);
+    let s=""; for(let i=0;i<n;i++) s+=chars[a[i]%16];
     document.getElementById('cryptoout').textContent="WEP:\n"+s;
 }
 async function genkey(){
