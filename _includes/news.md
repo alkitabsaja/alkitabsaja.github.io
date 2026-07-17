@@ -1,36 +1,36 @@
 # [Keadilan TIDAK BISA DIBELI dengan AMAL.](https://www.matikemana.com/web1/keadilan-tidak-bisa-dibeli-dengan-amal/)
 
-Bayangkan pemilik dapur MBG korupsi 10M, hakim melepaskan orang tersebut karena dia memberikan santunan kepada 100 orang anak Yatim-Piatu. Adilkah?
+Bayangkan pemilik dapur MBG korupsi 10M, hakim melepaskan orang tersebut karena dia memberikan santunan kepada 100 orang anak Yatim-Piatu. Adilkah? Seseorang berhutang 150 jt kepada orang lain, lalu berkata “Saya tidak membayar hutang, tapi kan saya sering berbuat baik kepada orang lain”. Adilkah? Lalu pikirkan seorang rohaniawan melakukan perzinahan dan dosa-dosa lainnya, lalu dia berpuasa ... <a class="read-more" href="https://www.matikemana.com/web1/keadilan-tidak-bisa-dibeli-dengan-amal/" title="Keadilan TIDAK BISA DIBELI dengan AMAL.">Baca Selengkapnya</a>
 
 ---
 
 # [Karena kasih karunia kamu diselamatkan oleh iman!](https://www.matikemana.com/web1/karena-kasih-karunia-kamu-diselamatkan-oleh-iman/)
 
-Efesus 2:8-9 (TB) Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, itu bukan
+Efesus 2:8-9 (TB) Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, itu bukan hasil pekerjaanmu: jangan ada orang yang memegahkan diri. Bagaimana dengan Yakobus 2:24 Jadi kamu lihat, bahwa manusia dibenarkan karena perbuatan-perbuatannya dan bukan hanya karena iman. Perhatikan Yakobus memulainya dengan kesimpulan di ayat 17 bahwa iman ... <a class="read-more" href="https://www.matikemana.com/web1/karena-kasih-karunia-kamu-diselamatkan-oleh-iman/" title="Karena kasih karunia kamu diselamatkan oleh iman!">Baca Selengkapnya</a>
 
 ---
 
 # [Tujuh Langkah Mendapatkan Keselamatan](https://www.matikemana.com/web1/tujuh-langkah-mendapatkan-keselamatan/)
 
-Langkah pertama – Anda harus menyadari bahwa Anda adalah orang berdosa.“Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan
+Langkah pertama – Anda harus menyadari bahwa Anda adalah orang berdosa.“Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah,” Roma 3:23 “Jika kita berkata, bahwa kita tidak ada berbuat dosa, maka kita membuat Dia menjadi pendusta dan firman-Nya tidak ada di dalam kita.” 1 Yohanes 1:10 Langkah Kedua – Anda harus menyadari bahwa Anda tidak ... <a class="read-more" href="https://www.matikemana.com/web1/tujuh-langkah-mendapatkan-keselamatan/" title="Tujuh Langkah Mendapatkan Keselamatan">Baca Selengkapnya</a>
 
 ---
 
 # [do re mi, DO: itulah DOSAMU!](https://www.matikemana.com/web1/do-re-mi-do-itulah-dosamu/)
 
-DO: itulah DOSAMU! www.MatiKemana.com Yesaya 59:2 (TB) tetapi yang merupakan pemisah antara kamu dan Allahmu ialah segala kejahatanmu, dan yang membuat
+DO: itulah DOSAMU! www.MatiKemana.com Yesaya 59:2 (TB) tetapi yang merupakan pemisah antara kamu dan Allahmu ialah segala kejahatanmu, dan yang membuat Dia menyembunyikan diri terhadap kamu, sehingga Ia tidak mendengar, ialah segala dosamu. Roma 3:23 (TB) Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah, Roma 6:23a (TB) Sebab upah dosa ialah maut; RE: relakan hatimu. ... <a class="read-more" href="https://www.matikemana.com/web1/do-re-mi-do-itulah-dosamu/" title="do re mi, DO: itulah DOSAMU!">Baca Selengkapnya</a>
 
 ---
 
 # [🔠ABCD Keselamatan Jiwa](https://www.matikemana.com/web1/abcd-keselamatan-jiwa/)
 
-MatiKemana.com@alkitabsaja A: AKUILAH Tuhan Maha Adil, saya berdosa jadi Tuhan pasti harus menghukum semua dan setiap dosa saya.upah dosa terhadap
+MatiKemana.com@alkitabsaja A: AKUILAH Tuhan Maha Adil, saya berdosa jadi Tuhan pasti harus menghukum semua dan setiap dosa saya.upah dosa terhadap Allah Yang Kekal adalah neraka kekal! Roma 3:23 Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah,Roma 6:23a (TB) Sebab upah dosa ialah maut; B: BERTOBATLAH tidak ada Allah selain Yesus TUHAN Juruselamat.tidak ... <a class="read-more" href="https://www.matikemana.com/web1/abcd-keselamatan-jiwa/" title="🔠ABCD Keselamatan Jiwa">Baca Selengkapnya</a>
 
 ---
 
 # [Jalan Ke Sorga](https://www.matikemana.com/web1/jalan-ke-sorga/)
 
-1. Akui bahwa Anda adalah orang berdosa. Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah – Roma 3:23. Sebab
+1. Akui bahwa Anda adalah orang berdosa. Karena semua orang telah berbuat dosa dan telah kehilangan kemuliaan Allah – Roma 3:23. Sebab itu, sama seperti dosa telah masuk ke dalam dunia oleh satu orang, dan oleh dosa itu juga maut, demikianlah maut itu telah menjalar kepada semua orang, karena semua orang telah berbuat dosa – Roma 5:12 ... <a class="read-more" href="https://www.matikemana.com/web1/jalan-ke-sorga/" title="Jalan Ke Sorga">Baca Selengkapnya</a>
 
 ---
 
@@ -66,7 +66,7 @@ Salah satu pertanyaan terbesar dalam sejarah umat manusia adalah “Kemana saya 
 
 # [KEBENARAN HAL NERAKA](https://www.matikemana.com/web1/kebenaran-hal-neraka/)
 
-NERAKA ADALAH TEMPAT PENYIKSAAN(terjemahan repentancecry) Yesus berkata tentang neraka dalam Lukas 16:23 .. ia menderita sengsara di alam maut ..24
+NERAKA ADALAH TEMPAT PENYIKSAAN(terjemahan repentancecry) Yesus berkata tentang neraka dalam Lukas 16:23 .. ia menderita sengsara di alam maut ..24 .. aku sangat kesakitan dalam nyala api ini.28 .. agar mereka jangan masuk (kjv:datang) kelak ke dalam tempat penderitaan (kjv: penyiksaan) ini. Secara manusiawi mustahil untuk memahami deskripsi Alkitab tentang neraka. Tidak ada di bumi ... <a class="read-more" href="https://www.matikemana.com/web1/kebenaran-hal-neraka/" title="KEBENARAN HAL NERAKA">Baca Selengkapnya</a>
 
 ---
 
@@ -78,43 +78,43 @@ tidak ada larangan merayakan Natal.juga tidak ada perintah seperti kita diperint
 
 # [Yesus Mati Bagiku](https://www.matikemana.com/web1/yesus-mati-bagiku/)
 
-Bob JenningsKepada jemaat-jemaat di Galatia, Kasih karunia menyertai kamu dan Damai sejahtera dari Tuhan, Bapa kita dan dari Tuhan Yesus
+Bob JenningsKepada jemaat-jemaat di Galatia, Kasih karunia menyertai kamu dan Damai sejahtera dari Tuhan, Bapa kita dan dari Tuhan Yesus Kristus yang telah menyerahkan diri-Nya… karena dosa-dosa kita, untuk melepaskan kita dari dunia jahat yang sekarang ini, menurut kehendak Tuhan Bapa kita Bagi-Nyalah kemuliaan selama-lamanya! amin. Tim ConwaySaudara terkasih, saat anda menyadari ketika kasih menguasai ... <a class="read-more" href="https://www.matikemana.com/web1/yesus-mati-bagiku/" title="Yesus Mati Bagiku">Baca Selengkapnya</a>
 
 ---
 
 # [Apa Keselamatan Itu?](https://www.matikemana.com/web1/apa-keselamatan-itu/)
 
-Saat ini Tuhan memerintahkan semua orang untuk bertobat dan percaya Hari ini adalah hari keselamatan anda bebas dari murka-Nya yang
+Saat ini Tuhan memerintahkan semua orang untuk bertobat dan percaya Hari ini adalah hari keselamatan anda bebas dari murka-Nya yang besar untuk melepaskanmu dari kutuk Hukum Musa Dan masuk ke dalam kota perlindungan yaitu Yesus Kristus Tuhan kita Datang pada-Nya Pertobatan adalah hal berserah, Untuk berhenti memberontak kepada Tuhan dan berhenti mengupayakan keselamatanmu dengan usahamu ... <a class="read-more" href="https://www.matikemana.com/web1/apa-keselamatan-itu/" title="Apa Keselamatan Itu?">Baca Selengkapnya</a>
 
 ---
 
 # [Ketika Anda Mati …](https://www.matikemana.com/web1/ketika-anda-mati/)
 
-Manusia selama hidupnya berusaha semaksimal mungkin untuk senantiasa hidup bahagia dan menghindari segala bentuk kesusahan. Namun apa daya, pada kenyataannya,
+Manusia selama hidupnya berusaha semaksimal mungkin untuk senantiasa hidup bahagia dan menghindari segala bentuk kesusahan. Namun apa daya, pada kenyataannya, manusia lebih banyak mengalami penderitaan daripada kebahagiaan, sehingga dunia ini telah menjadi lembah air mata bagi manusia. Manusia bahkan dihantui oleh penderitaan yang lebih hebat lagi yang akan mereka alami setelah kematian, yaitu disiksa di ... <a class="read-more" href="https://www.matikemana.com/web1/ketika-anda-mati/" title="Ketika Anda Mati …">Baca Selengkapnya</a>
 
 ---
 
 # [Tuhan Kok Mati?](https://www.matikemana.com/web1/tuhan-kok-mati/)
 
-Jika Tuhan mati, maka segala sesuatu akan lenyap, kesunyian tidak sunyi lagi, indahnya pelangi dan makanan yang terlezat tidak akan
+Jika Tuhan mati, maka segala sesuatu akan lenyap, kesunyian tidak sunyi lagi, indahnya pelangi dan makanan yang terlezat tidak akan kita nikmati lagi. Kata “I Love You” yang merupakan salah satu kalimat terindah, tidak akan kita dengar lagi. Tapi apakah benar Tuhan mati? Dalam pengertian apa, Tuhan mati? Tentu saja Tuhan tidak dapat mati dalam ... <a class="read-more" href="https://www.matikemana.com/web1/tuhan-kok-mati/" title="Tuhan Kok Mati?">Baca Selengkapnya</a>
 
 ---
 
 # [Hari Pertama Orang Berdosa di Neraka](https://www.matikemana.com/web1/hari-pertama-orang-berdosa-di-neraka/)
 
-(A Sinner’s First Day in Hell*) Oleh Dr. Denis Leatherman “Dan jika tanganmu menyesatkan engkau, penggallah, karena lebih baik engkau
+(A Sinner’s First Day in Hell*) Oleh Dr. Denis Leatherman “Dan jika tanganmu menyesatkan engkau, penggallah, karena lebih baik engkau masuk ke dalam hidup dengan tangan kudung dari pada dengan utuh kedua tanganmu dibuang ke dalam neraka, ke dalam api yang tak terpadamkan” (Markus 9:43) Alkitab dengan sangat jelas mengatakan bahwa tepat pada saat seseorang ... <a class="read-more" href="https://www.matikemana.com/web1/hari-pertama-orang-berdosa-di-neraka/" title="Hari Pertama Orang Berdosa di Neraka">Baca Selengkapnya</a>
 
 ---
 
 # [Saya Mati Kemana?](https://www.matikemana.com/web1/saya-mati-kemana/)
 
-Salah satu pertanyaan terbesar dalam sejarah umat manusia adalah “Kemana saya setelah mati”? Banyak orang memikirkan pertanyaan ini dan belum menemukan jawaban yang
+Salah satu pertanyaan terbesar dalam sejarah umat manusia adalah “Kemana saya setelah mati”? Banyak orang memikirkan pertanyaan ini dan belum menemukan jawaban yang pasti. Dalam ketidakpastian itu manusia mencari jawabannya dalam agama, filsafat, sains, bahkan dalam dirinya sendiri. Berharap mereka menemukan jawabannya. Beberapa orang menyerah dalam ketidaktahuan dan beberapa merasa sudah menemukan jawabannya, sekalipun hanya sekedar ikut-ikutan saja ... <a class="read-more" href="https://www.matikemana.com/web1/saya-mati-kemana/" title="Saya Mati Kemana?">Baca Selengkapnya</a>
 
 ---
 
 # [Maukah Engkau Diselamatkan?](https://www.matikemana.com/web1/maukah-engkau-diselamatkan/)
 
-Semua manusia pada umumnya mendambakan keselamatan jiwanya setelah ia mati. Karena setiap orang tahu, dia adalah manusia berdosa yang akan
+Semua manusia pada umumnya mendambakan keselamatan jiwanya setelah ia mati. Karena setiap orang tahu, dia adalah manusia berdosa yang akan dihukum karena dosa-dosanya. Itulah sebabnya manusia berusaha berbuat banyak kebaikan, memeluk agama tertentu, dengan harapan melalui hal-hal itu dia beroleh keselamatan saat ia meninggal. Tapi, apakah benar amalnya dapat menyelamatkannya? Manusia berdosa karena ia salah ... <a class="read-more" href="https://www.matikemana.com/web1/maukah-engkau-diselamatkan/" title="Maukah Engkau Diselamatkan?">Baca Selengkapnya</a>
 
 ---
 
