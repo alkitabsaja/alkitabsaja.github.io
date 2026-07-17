@@ -17,8 +17,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container:
-      image: pandoc/latex:latest-ubuntu
       
     environment:
       name: github-pages
@@ -39,8 +37,12 @@ jobs:
         with:
           python-version: "3.x"
 
+      - uses: xu-cheng/latex-action@v4
+
       - name: Install Pandoc + LaTeX + npm + pip
         run: |
+          pandoc --version
+          xelatex --version
           sudo apt-get update
           sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended
           npm install -g surge pagefind
