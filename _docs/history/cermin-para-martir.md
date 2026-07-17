@@ -274,7 +274,7 @@ Pelaksanaan hukuman mati pada abad keenambelas merupakan tontonan umum yang meng
 pemerintah akan menghukum dengan kejam orang-orang berdosa yang menyedihkan di dunia ini, dan selanjutnya gereja
 menyerahkan jiwa mereka ke neraka. Beberapa pelaksanaan hukuman mati didahului dengan pemberian jamuan. Korbannya
 dipaksa duduk di kursi kehormatan di antara walikota dan pendeta yang terkemuka. Perjamuan-perjamuan serupa ini dimulai di
-Perancis dan dibawa ke Negeri Belanda oleh tuan-tuan tanah Burgundi pada abad keempatbelas dan kelimabelas.1 Para
+Perancis dan dibawa ke Negeri Belanda oleh tuan-tuan tanah Burgundi pada abad keempatbelas dan kelimabelas.<sup>1</sup> Para
 pembesar dan penguasa selalu minum-minum secara berlebih-lebihan.
 
 Pada perjamuan untuk Gerrit Hazenpoet, ia sama sekali menolak untuk minum anggur. Ia mengatakan, bahwa ia akan
@@ -290,10 +290,10 @@ Pemerintah kota itu harus mengeluarkan biaya lebih dari tiga puluh tujuh Brabant
 makan, menginterogasi dan menyiksa Hazenpoet, untuk membeli bahan bakar yang diperlukan (kayu dan jerami), untuk
 mendirikan tonggak; untuk menghukum mati; dan akhirnya untuk membeli anggur untuk merayakannya (empat puluh persen
 dari biaya tadi untuk membeli anggur ini). Pemerintah kota harus mengeluarkan uang untuk dua puluh orang lebih yang
-mengambil bagian dalam jejaring pelaksanaan kematian ini.2
+mengambil bagian dalam jejaring pelaksanaan kematian ini.<sup>2</sup>
 
 Pada tonggak kayu, Hazenpoet menyanyikan lagu pujian sebagai perpisahannya kepada saudara-saudara seiman yang
-pasti menjadi saksi-saksi pada jam terakhir masa hidupnya.3
+pasti menjadi saksi-saksi pada jam terakhir masa hidupnya.<sup>3</sup>
 
 
 ### Biaya untuk Hukuman Mati Garrit Hazenpoet
@@ -354,7 +354,7 @@ perbuatan orang-orang Anabaptis, dan ia menganggap roti perjamuan yang dianggap 
 penyembahan berhala semata. Para pelanggannya dan sesama pemilik warung meminta dengan sangat agar ia mau berlutut dan
 menyelamatkan dirinya. Namun ia menolak. Kramer ditangkap oleh para pengikut pendeta tadi, sebagai seseorang yang
 dicurigai seorang bidat, ia segera disidangkan dan dijatuhi hukuman mati. Dalam beberapa hari ia dibakar pada tonggak kayu di
-depan umum di luar tembok kota.4
+depan umum di luar tembok kota.<sup>4</sup>
 
 Pengikut Anabaptis yang mula-mula, yakin bahwa Tuhan mendatangkan pembalasan bagi para tiran yang
 menumpahkan darah orang-orang yang tidak bersalah. Mereka pun berulang-ulang menceritakan kisah tentang murka Tuhan
@@ -384,7 +384,7 @@ Anneken de Vlaster dari Frisia, seorang ibu rumah tangga dan mungkin juga penenu
 mati dengan sangat biadab. Algojo mengikatnya pada sebuah tangga, menjejali mulutnya dengan bubuk mesiu dan melemparkan
 tubuhnya di atas setumpukan arang yang menyala. Pada saat itu pasukan garnisun Spanyol sedang menteror Amsterdam dan
 berusaha menghentikan pertumbuhan semangat nasional bangsa Belanda yang sedang berkembang untuk mendapatkan lebih
-luas kebebasan berpolitik dan beragama.5 Bagaimana pun juga, jarang seorang wanita, sekalipun ia seorang bidat, dihukum mati
+luas kebebasan berpolitik dan beragama.<sup>5</sup> Bagaimana pun juga, jarang seorang wanita, sekalipun ia seorang bidat, dihukum mati
 dengan cara dibakar, bukan ditenggelamkan. Mengapa kekejaman yang berlebihan ini terjadi?
 
 Sembilan belas tahun sebelumnya, pada tahun 1552, Anneken sudah bergerak di kalangan para simpatisan Anabaptis
@@ -405,7 +405,7 @@ yang pernah diucapkannya. Orang-orang Anabaptis sering mengabaikan pernyataan pe
 berdasarkan Mazmur 24:1 (TB), “TUHANlah yang empunya bumi serta segala isinya; dan dunia serta yang diam didalamnya.”
 Mereka percaya bahwa tidak ada satupun lembaga manusia dapat dengan sombongnya menganggap mempunyai hak untuk
 mengendalikan dan mengatur daerah, terutama tidak dalam kasus-kasus yang berkaitan dengan kepentingan orang-orang
-Kristen.6
+Kristen.<sup>6</sup>
 
 Baik para petugas kantor pemerintah maupun petugas keagamaan heran menyakiskan iman Anneken yang kokoh tadi
 
@@ -417,7 +417,7 @@ tersumbat, penuh dengan serbuk mesiu.
 
 Hampir di sepanjang masa dewasanya, Anneken bergerak dalam sebuah kelompok kecil umat Kristen pembaca
 Alkitab dan keluar masuk kelompok-kelompok kecil orang-orang Anabaptis. Di kemudian hari, orang-orang Menonit Belanda
-menyanyikan lagu-lagu pujian yang berdasarkan pada kisah hidupnya.7
+menyanyikan lagu-lagu pujian yang berdasarkan pada kisah hidupnya.<sup>7</sup>
 
 > “Apa yang tidak pernah dilihat oleh mata, dan tidak pernah didengar oleh telinga, dan yang tidak pernah timbul di dalam hati
 manusia: semua yang disediakan Allah untuk mereka yang mengasihi Dia.”
@@ -475,12 +475,12 @@ Beberapa keluarga Anabaptis telah kehilangan lebih dari seorang anggota keluarga
 Salah seorang contohnya adalah van der Leyens dari Gent, daerah tempat sebuah gereja kecil tumbuh dengan suburnya pada
 tahun 1540-an. Van Braght menerbitkan kisah tentang pelaksanaan hukuman mati atas David van der Leyen, berdasarkan
 informasi yang diperoleh dari buku nyanyian paling awal yang diterbitkan dalam buku martir Menonit Belanda, Het Offer des
-Heeren.8
+Heeren.<sup>8</sup>
 
 David dibakar pada tahun 1554. Saudara perempuannya, Tanneken, ditenggelamkan di sungai Antwerp pada tahun
 1555, saudara laki-lakinya yang lain, Franchois, ditangkap dan diadili pada tahun 1558, keberadaan selanjutnya tidak diketahui;
 kami menduga ia pun dibunuh. Akhir kisah ayah Anabaptis dari keempat orang bersaudara itu pun tidak diketahui. Demikianlah
-kisah satu keluarga yang gagah berani, yang berdiri teguh dalam siksaan dan hukuman mati.9
+kisah satu keluarga yang gagah berani, yang berdiri teguh dalam siksaan dan hukuman mati.<sup>9</sup>
 
 Levina Ghyselins dibakar bersama David, tetapi penangkapan dan pengadilannya tidak ada hubungannya dengan
 David. Ia adalah isteri seorang Anabaptis pembuat sepatu, Willem, yang telah dihukum mati beberapa bulan sebelumnya.
@@ -489,9 +489,9 @@ enam orang ankanya sebagi yatim piatu.
 
 Algojo-algojo itu sering bekerja dengan serampangan dan pada gilirannya, mereka diejek oleh para penonton dalam
 suasana karnaval teater berdarah itu. Pada suatu saat, seorang algojo memerlukan tujuh ayunan kapak yang tumpul untuk
-memancung kepala seorang Anabaptis.10 Algojo itu mencekik, lalu membakar David dan Levina. Setelah bara arang mati di
+memancung kepala seorang Anabaptis.<sup>10</sup> Algojo itu mencekik, lalu membakar David dan Levina. Setelah bara arang mati di
 sekitar jasad David yang dianggap telah mati, para penonton berteriak-teriak mengatakan bahwa David masih hidup. Karena
-terpojok oleh cemoohan para saksi itu, maka algojo itu menancapkan sebuah garpu besi besar ke dada David.11
+terpojok oleh cemoohan para saksi itu, maka algojo itu menancapkan sebuah garpu besi besar ke dada David.<sup>11</sup>
 
 Tanpa saling mengenal sebelum saat penghukuman mati itu, David dan Levina dipersatukan dalam nasib yang sama.
 Mereka saling menguatkan dengan janji untuk menerima hidup kekal yang keberkatan secepatnya. Ketika tambang-tambang
@@ -533,7 +533,7 @@ imam yang dengki, maka ia sendiri pasti tidak akan dibebaskan. Karena itu, Ursul
 Ibu Maria dan ibu Jan, datang ke Deventer untuk mencegah kedua wanita itu, tetapi tidak berhasil. Jan tidak memberi dukungan
 kepada kedua orang yang tertangkap itu dan bahkan ia tidak muncul juga pada saat hukuman mati dijatuhkan kepada mereka.
 Inilah kisah seorang ibu beragama Katolik dan anak laki-lakinya yang mengadukan anak/saudara wanitanya dan menantu
-wanita/isterinya, karena mereka menentang pengikut Jorist (sebuah kelompok Anabapis).12
+wanita/isterinya, karena mereka menentang pengikut Jorist (sebuah kelompok Anabapis).<sup>12</sup>
 
 Kisah kedua wanita itu seorang terhadap yang lainnya dan keberanian Ilahi telah membuat mereka tetap tabah. Mereka
 menjawab para penanya dengan singkat dan tepat; keduanya memahami dan menerangkan imannya dengan andal, sehingga
@@ -550,7 +550,7 @@ konflik batin keluarga mereka dalam menghadapi pengaruh kaum Anabaptis.
 
 Para pengarang cerita rakyat menggunakan kisah kematian Maria itu untuk membuat kisah tentang alam yang menjadi
 murka terhadap kematian yang tidak adil dari gadis yang masih muda itu. Menurut cerita tadi, keesokan paginya tonggak tempat
-ia diikatkan, yang sudah menjadi arang itu, bersemi dengan banyak daun yang hijau.13
+ia diikatkan, yang sudah menjadi arang itu, bersemi dengan banyak daun yang hijau.<sup>13</sup>
 
 Kita memuji Tuhan,
 
@@ -608,7 +608,7 @@ Namun sebagian keberhasilannya tadi disebabkan karena kefasihannya dalam mengete
 cara yang menarik bahwa masyarakat yang beriman seharusnya tidak mempunyai hak pribadi atas kekayaan. Pada
 kenyataannya, kaum Hutterite menuduh Kelompok Persaudaraan Swiss dengan mengabaikan panggilan yang benar
 sebagaimana dinyatakan Alkitab untuk menolak kekayaan mereka sebagai milik pribadi dan untuk hidup dalam masyarakat
-yang tertutup, yang memperlakukan kekayaan sebagai milik bersama.14
+yang tertutup, yang memperlakukan kekayaan sebagai milik bersama.<sup>14</sup>
 
 Schmidt mencurahkan tenaganya tanpa batas untuk mengarang lagu-lagu pujian – paling sedikit enambelas lagu,
 setelah ia ditangkap – dan beberapa lusin surat yang penuh dengan cerita yang rinci mengenai penyiksaan, interogasi dan
@@ -619,11 +619,11 @@ Sebagai pemimpin, Hans dibunuh paling dulu. Ia melakukan apa yang disebut oleh k
 “kesaksian yang baik” di hadapan orang banyak. Ketika kaum Anabaptis yang dipenjara itu berdoa kepada Tuhan, memohon
 kekuatan dan keberanian untuk memberikan kesaksian yang baik, pertama-tama mereka bermaksud memberikan kepada para
 penyelidik tentang alasan-alasan bagi iman mereka sesuai dengan Alkitab dan untuk tetap teguh walau disiksa dan kedua,
-
 mengajak orang-orang yang menyaksikan hukuman itu agar bertobat pada saat orang-orang Anabaptis itu dijatuhi hukuman
 mati. Mereka dengan sengaja memanfaatkan saat penghukuman itu sebagai kesempatan untuk memberitakan Injil. Kadang-
 kadang petugas-petugas penjara yang licik melaksanakan hukuman secara diam-diam.
-Schmidt menanyikan sebuah lagu pujian dengan penuh sukacita ketika ia menghadapi kematiannya.15
+
+Schmidt menanyikan sebuah lagu pujian dengan penuh sukacita ketika ia menghadapi kematiannya.<sup>15</sup>
 
 Di dalam-Mu, Oh, Bapa,
 
@@ -681,7 +681,7 @@ mengasihi ketiga orang adik perempuan kalian yang masih kecil-kecil itu, dan jug
 bekerja, supaya mereka dapat tumbuh dalam kebenaran untuk kemuliaan Allah dan untuk keselamatan jiwa mereka … ingatlah
 perkataan rasul ini: “Terlebih berkat memberi daripada menerima.”
 
-Surat Wippe kepada anak-anaknya yang diluisnya
+Surat Wippe kepada anak-anaknya yang ditulisnya
 dari penjara, MM, 1685, II, 207; Eng., 587.
 
 
@@ -716,7 +716,7 @@ dan bahkan mendatangkan cemoohan dari orang-orang yang menyaksikannya.
 Beberapa penduduk Asperen masa kini, dan tidak ada yang beraliran Menonit, rupanya menganggap Dirk sebagai
 pahlawan rakyat. Seorang Kristen yang begitu berbelaskasihan, sehingga ia mengambil resiko untuk ditangkap kembali, demi
 keselamatan jiwa pengejarnya yang hampir tenggelam itu, telah menimbulkan rasa hormat dan kenangan yang baik. Baru-baru
-ini Asperen menamai sebuah jalan dengan nama Dirk sebagai penghoramatan kepadanya.16
+ini Asperen menamai sebuah jalan dengan nama Dirk sebagai penghoramatan kepadanya.<sup>16</sup>
 
 Tetapi sekarang, beginilah firman TUHAN yang menciptakan engkau, hai Yakub, yang membentuk engkau, hai Israel:
 
@@ -763,7 +763,7 @@ menyebutkan nama-nama rekan Kristen di dalam jemaat yang akhir-akhir ini berkemb
 itu tetap menutup mulut. Keempat orang korban itu dibakar secara terpisah supaya mereka tidak dapat saling menghibur. Mulut
 mereka semua ditutup rapat dengan kepingan kayu untuk mencegah agar mereka tidak bernyanyi atau berbicara kepada orang-
 orang yang menyaksikan mereka, sebagian dari para saksi itu melakukan protes kepada para penguasa Spanyol.
-Keempat orang itu dibakar sampai mati di dalam pondok-pondok jerami.18
+Keempat orang itu dibakar sampai mati di dalam pondok-pondok jerami.<sup>18</sup>
 
 > Musuhku mengatakan yang jahat tentang aku: “Bilakah ia mati, dan namanya hilang lenyap?”
 Bahkan sahabat karibku yang kupercayai, yang makan rotiku, telah mengangkat tumitnya terhadap aku.
@@ -783,7 +783,7 @@ Christiaen Janssens, yang disebut juga Langedul, Antwerpen, 1567
 Hiburkanlah dirimu dengan Firman Tuhan … Aku percaya, bahwa engkau tidak akan membuat aku lebih sedih daripada yang
 kurasakan sekarang ini (dengan menahan tekanan selagi menantikan kematian). Aku tahu, engkau akan sangat berani
 menghadapinya … Aku berharap, kiranya Tuhan menguatkan kita sampai pada akhirnya … Aku berharap dapat berjumpa
-kembali denganmu di dalam kehidupan yang kekal kelak, di mana kita tidak akan saling berpisah lagi.”19
+kembali denganmu di dalam kehidupan yang kekal kelak, di mana kita tidak akan saling berpisah lagi.”<sup>19</sup>
 
 Kaum Anabaptis yang diceritakan oleh van Braght itu sering bersukacita ketika menghadapi kematian. Janssens
 menulis tiga pucuk surat kepada isterinya, masing-masing dipenuhi dengan sukacita. Sungguh, kesedihannya yang terdalam
@@ -793,10 +793,10 @@ menjelang kematiannya tampak lebih jelas ketika kami membaca komentarnya mengena
 akibat siksaan yang dialaminya tentang kekuatirannya yang mendalam bahwa dia dan teman-teman sependeritaannya tidak akan
 mampu bertahan dan mungkin juga akan mengaku bersalah, atau tentu saja menderita kesakitan yang tak terperikan dalam
 siksaan yang akan segera datang. “Kemudian mereka merentangkan tubuhku kuat-kuat, hingga memutuskan dua utas tali
-pengikatku ...20 dan menuangkan banyak air ke dalam tubuhku dan ke dalam hidungku ...” Petugas penjaranya mengizinkan ia
+pengikatku ...<sup>20</sup> dan menuangkan banyak air ke dalam tubuhku dan ke dalam hidungku ...” Petugas penjaranya mengizinkan ia
 menggunakan bantal dan selimut yang dikirim oleh isterinya, selimut yang akan mengurangi rasa sakit pada luka-lukanya yang
 sangat parah itu. “Kami takut bahwa kami harus disiksa untuk kedua kalinya, siksaan yang telah kami alami dengan sangat
-mengerikan, lebih menyakitkan daripada kematian ...”21
+mengerikan, lebih menyakitkan daripada kematian ...”<sup>21</sup>
 
 Di pertengahan tahun 1567 Janssens ditangkap dalam sebuah pertemuan kaum Anabaptis yang diselenggarakan untuk
 menyelesaikan perselisihan di Antwerpen. Karenaia lancar berbahasa Perancis, maka ia mengalihkan perhatian kapten polisi
@@ -869,7 +869,7 @@ sungguh Engaku puji, berilah mereka kesabaran dan kemenangan dalam segala yang m
 laksanakanlah tujuan-Mu sendiri melalui mereka sampai selesai. Oh, Bapa yang Kudus, selamatkan mereka dan
 peganglah mereka dengan tangan-Mu yang kuat; Oh, Allah yang Mahatinggi, jangan biarkan mereka dipermalukaan.
 Kiranya nama-Mu yang Kudus dipuji karena mereka, dan pimpinlah mereka menuju kebenaran-Mu, agar mereka tetap
-teguh hingga akhirnya.”22
+teguh hingga akhirnya.”<sup>22</sup>
 
 
 Pembantaian Besar-besaran di Salzburg
@@ -908,7 +908,7 @@ penyucian, untuk memuaskan nafsunya dalam muluruskan ajaran agama.
 
 Catatan yang masih ada menunjukkan paling tidak empat puluh satu orang Anabaptis dipenjarakan di penjara-penjara
 bawah tanah di Salzburg pada tahun 1528. Tidak ada satupun keterangan yang menunjukkan bahwa mereka dibunuh, kecuali
-kisah singkat kematian delapanbelas orang yang ditulis oleh van Braght.24
+kisah singkat kematian delapanbelas orang yang ditulis oleh van Braght.<sup>24</sup>
 
 > “Jikalau dunia membenci kamu, ingatlah bahwa ia telah lebih dahulu membenci Aku dari pada kamu. Sekiranya kamu dari
 dunia, tentulah dunia mengasihi kamu sebagai miliknya. Tetapi karena kamu bukan dari dunia, melainkan Aku telah memilih
@@ -931,18 +931,18 @@ melaporkan hilangnya bayi itu. Para penguasa pun mencarinya dan menahan Pietersz
 bayinya.
 
 Ditahan pada bulan Januari 1569, ia segera disiksa, dihukum dan dibunuh pada tanggal 26 Febuari. Kami tidak
-mengetahui apa yang terjadi pada isteri dan anaknya itu.25
+mengetahui apa yang terjadi pada isteri dan anaknya itu.<sup>25</sup>
 
 Orang-orang Anabaptis mengelola sebuah gereja bawah tanah menggunakan berbagai kiat agar mereka tidak
 ketahuan. Dengan sengaja mereka tidak mau mengenal nama para pengkhotbah keliling, bahkan nama para pembaptis mereka
 sendiri, demikian juga nama orang-orang yang memberi tumpangan dan makanan kepada mereka selama mereka menjadi
-pengungsi.26 Bila mereka berjumpa dengan orang-orang baru yang mereka duga sebagai pengikut Anabaptis, mereka
+pengungsi.<sup>26</sup> Bila mereka berjumpa dengan orang-orang baru yang mereka duga sebagai pengikut Anabaptis, mereka
 menyampaikan salam yang sederhana dan unik untuk membuktikan bahwa mereka mempunyai hubungan persaudaraan secara
 rohani, misalnya seperti jemaat gereja purba yang menggunakan lambang ikan untuk mengetahui sesama orang Kristen. Mereka
 beribadah di tempat-tempat yang tersembunyi: sebuah tempat penggilingan yang dibuat terpisah dari desa utama; hutan yang
 terletak di lima atau enam kilometer dari Strasbourg; sebuah kamar yang lebih luar daripada kamar biasa dan terletak di bagian
 belakang sebuah rumah biasa; dan dalam kasus Pietersz., sebuah perahu tambang. Para pemimpin mereka sering berpindah-
-pindah tempat persembunyian di loteng-loteng rumah dan dilumbung-lumbung yang sederhana saja.27 Hidup sebagai orang-
+pindah tempat persembunyian di loteng-loteng rumah dan dilumbung-lumbung yang sederhana saja.<sup>27</sup> Hidup sebagai orang-
 orang buronan meminta korban, meningkatkan tingkat keprihatinan orang-orang percaya dan menarik minat pengikut Anabaptis
 yang jumlahnya semakin besar itu kepada bentuk kerohanian tertentu yang kurang berminat terhadap gereja yang bersifat fisik
 dan dapat dilihat. Mengelola gereja yang dapat dilihat menjadi sangat berbahaya.
@@ -959,13 +959,13 @@ Willem Jansz. dari Durgerdam, Amsterdam, 1569
 ---------------------------------------------
 
 Ketika Willem Janz. terlambat mendengar, bahwa kawan baiknya, Pieter Pietersz., akan dijatuhi hukuman mati di
-Amsterdam, ia cepat-cepat meninggalkan desanya.28 Namun demikian, ia terlambat tiba di pintu gerbang kota Amsterdam.
+Amsterdam, ia cepat-cepat meninggalkan desanya.<sup>28</sup> Namun demikian, ia terlambat tiba di pintu gerbang kota Amsterdam.
 Pintu itu sudah ditutup untuk mengadakan upacara itu. Ia menyuap penjaga pintu itu supaya dapat masuk. Ketika ia tiba di
 tempat penghukuman itu yang terletak di atas Dam tepat pada waktu ia melihat temannya diikatkan pada tiang penyiksaan.
 
 Karena ia berdiri di pinggiran kerumanan orang-orang yang menyaksikan peristiwa itu, ia memanjat tangga rumah tempat untuk
 menimbang agar ia dapat menyakikan dan dapat didengar. Ia berseru-seru untuk mendukung temannya, “Berjuanglah dengan
-gagah berani, Saudaraku.” 29 Ia pun segera ditangkap, disiksa dan diadili dalam beberapa hari, dan dijatuhi hukuan serta
+gagah berani, Saudaraku.” <sup>29</sup> Ia pun segera ditangkap, disiksa dan diadili dalam beberapa hari, dan dijatuhi hukuan serta
 dibunuh dengan cara dibakar, hanya dalam dua minggu setelah hukuman mati temannya itu dilaksanakan.
 
 Jarang ada seorang Anabaptis begitu terbuka mengundang penangkapan. Sesama orang Anabaptis menyaksikan
@@ -986,22 +986,14 @@ Dalam suatu kasus yang tidak ada hubungannya, Jan Quirijnsz. dan Cornelis Jansz.
 bersamaan dengan Willem. Tindakan ini memang menghemat waktu bagi penguasa, tetapi yang lebih penting, menyediakan
 tontonan drama kematian yang lebih mencekam bagi masyarakat umum yang haus akan hiburan.
 
-Tidakkah kau tahu dan tidakkah kau dengar ?
-
+> Tidakkah kau tahu dan tidakkah kau dengar ?
 Tuhan ialah Allah kekal yang menciptakan bumi dari ujung ke ujung;
-
 Ia tidak menjadi lelah dan tidak menjadi lesu, tidak terduga pengertian-Nya.
-
 Dia memberi kekuatan kepada yang lelah dan menambah semangat kepada yang tiada berdaya.
-
 Orang-orang muda menjadi lelah dan lesu dan teruna-teruna jatuh tersandung,
-
 tetapi orang-orang yang menanti-nantikan Tuhan mendapat kekuatan baru;
-
 mereka seumpama rajawali yang naik terbang dengan kekuatan sayapnya;
-
 mereka berlari dan tidak menjadi lesu, mereka berjalan dan tidak menjadi lelah.
-
 - Yesaya 40:28-31 (TB)
 
 
@@ -1046,7 +1038,7 @@ Anak-anaknya terhindar dari penangkapan. Adriaen tertarik untuk mendatangi tempa
 mati, sambil menggendong adiknya, Hans. Namun pada saat hukuman itu benar-benar terjadi ia pingsan, dan siuman kembali
 setelah tubuh ibunya dihancurkan api. Dengan kesedihan yang mendalam, ia mencari-cari sesuatu di antara abunya dan
 menemukan sebuah sekrup bekas digunakan untuk menekan lidah ibunya, untuk mencegah agar ia tidak menyampaikan
-“kesaksian yang baik”. Sekrup itupun masih terjaga dengan baik di tangan kaum Menonit Belanda.21
+“kesaksian yang baik”. Sekrup itupun masih terjaga dengan baik di tangan kaum Menonit Belanda.<sup>31</sup>
 
 > Ingatlah akan masa yang lalu. Sesudah kamu menerima terang, kamu banyak menderita oleh karena kamu bertahan dalam
 perjuangan yang berat, baik waktu kamu dijadikan tontonan oleh cercaan dan penderitaan, maupun waktu kamu mengambil
@@ -1066,14 +1058,14 @@ Leonard Bernkop ditangkap si Salzburg. Karena ia tidak mau mengaku bersalah keti
 mati dengan cara dibakar secara perlahan-lahan; tidak dengan cara yang lebih manusiawi supaya korbannya cepat mati. Selama
 proses pembakaran itu, imannya membuat semangatnya tetap tinggi. Di tonggak penyiksaan ia bahkan mengejek orang yang
 membantu petugas yang harus menggantungnya, “Tolong putarkan tubuh saya; bagian yang dekat api sudah cukup matang,
-padahal bagian yang lain masih mentah.” 32
+padahal bagian yang lain masih mentah.” <sup>32</sup>
 
 Ejekan Bernkop itu mengingatkan kepada kematian orang kudus yang telah lama terkenal di daerah itu – Santo
 Lawrence. Bahkan sekarang di daerah tersebut, yang sejak itu menjadi bagian dari negara Austria, terdapat banyak tenpat yang
 dikeramatkan untuk mengingat Santo Lawrence, banyak lukisan yang menggambarkan penderitaannya. Lawrence, seorang
 diaken dari Gereja purba, dipanggang sampai mati di atas alat pemanggang di Roma pada tahun 258, tiga hari setelah uskupnya
 menderita nasib yang serupa. Di tengah proses pembunuhan yang mengerikan itu, dengan lucu ia mencela penyiksa-
-penyiksanya, “Aku sudah cukup matang di bagian sini, puterlah aku dan makanlah.”33 Untuk menafsirkan apa yang
+penyiksanya, “Aku sudah cukup matang di bagian sini, puterlah aku dan makanlah.”<sup>33</sup> Untuk menafsirkan apa yang
 diisyaratkan sebagai ejekan oleh Bernkop, “Sekarang kalian membunuh kami dengan cara yang sama biadabnya dengan yang
 dilakukan oleh Roma ketika membantai orang-orang Kristen yang mula-mula, yaitu orang-orang yang keberaniannya kalian
 puja-puja.” Para martir Anabaptis tidak lebih daripada garam yang dioleskan pada luka-luka para penganiaya mereka.
@@ -1108,7 +1100,7 @@ Ketujuh orang martir dari Gmund yang namanya tidak disebutkan itu mengingatkan k
 mengenai Anabaptis sangat kurang lengkap. Mungkin ada beratus-ratus orang Anabaptis yang tidak cukup menggugah perhatian
 orang untuk mencatat nama-nama mereka. Catatan pengadilan yang masih terpelihara dengan baik memberi kesaksian yang
 cukup banyak mengenai beratus-ratus Anabaptis yang namanya tidak disebutkan, yang hanya diingat oleh sesama orang-orang
-percaya yang juga tidak mengetahui nama mereka.34
+percaya yang juga tidak mengetahui nama mereka.<sup>34</sup>
 
 Setiap orang dari kelompok tujuh orang dari Gmund itu mengarang sebuah doa, yang diulang lagi pada saat mereka
 menjalani hukuman mati, barangkali sebagai bentuk “kesaksian baik” mereka. Boleh jadi, ketujuh orang itu membuat doa-doa
@@ -1165,7 +1157,9 @@ Setelah sensus baru pada tahun 1633, empat orang pemimpin Menonit ditangkap dan 
 Desember 1635. Felix Urnne melarikan diri; dan tiga orang lainnya (Rudolf Egly, Ully Schmidt, Hans Muller) tinggal di penjara
 kota Zurich selama dua puluh dua minggu. Diskusi formal tidak membawa hasil. Kaum Menonit siap untuk menyetujui, bahwa
 Tuhan memanggil mereka untuk mematuhi pemerintah, tetapi mereka menolak untuk berbakti di gereja-gereja milik
-pemerintah.35 Mereka menuntut kemerdekaan beragama, dan karena tuntutan ini, persetujuan tidak mungkin dibuat. Pada tahun
+pemerintah.<sup>35</sup>
+
+Mereka menuntut kemerdekaan beragama, dan karena tuntutan ini, persetujuan tidak mungkin dibuat. Pada tahun
 1637 Zurich menahan sebagian besar orang Menonit, barangkali ada tiga ratus orang dewasa. Luyken telah memilih
 penangkapan ini untuk dituangkan ke dalam karya etsanya, dan membuat etsa khusus dari salah seorang tokohnya, Catherine
 Muller, yang riwayatnya tidak kita ketahui. Banyak orang Menonit melarikan diri dari penjara, mungkin dengan pertolongan
@@ -1176,7 +1170,7 @@ Akhirnya, setelah Perang Tiga Puluh Tahun berakhir (1648) dan pangeran-pangeran 
 menggarap tanah-tanah mereka yang tidak berpenduduk, orang-orang Menonit di Zurich bermigrasi ke sana, dan membawa
 sebagian harta milik mereka masing-masing. Kebanyakan mereka pergi ke daerah Palatinate, sebagian terus ke Amerika Utara.
 Kawan-kawan orang Menonit membantu mereka melarikan diri dari penjara dan juga menekan orang-orang lain agar
-tidak membeli barang-barang orang menonit yang diobral oleh pemerintah Zurich.36
+tidak membeli barang-barang orang menonit yang diobral oleh pemerintah Zurich.<sup>36</sup>
 
 > Engkau telah membawa kami ke dalam jaring, mengenakan beban pada pinggang kami;
 Engkau telah membiarkan orang-orang melintasi kepala kami, kami telah menempuh api dan air;
@@ -1212,7 +1206,7 @@ Tiber untuk mencegah agar para pengikutnya yang setia kepadanya tidak mengawetka
 peninggalan yang dikeramatkan.
 
 Barangkali karena pandangannya tentang kemiskinan seperti rasul bagi para imam dan orang awamlah, yang telah
-membuat ia dikasihi oleh orang-orang Anabaptis, kaum Menonit yang mula-mula dan para penulis Protestan lainnya.37
+membuat ia dikasihi oleh orang-orang Anabaptis, kaum Menonit yang mula-mula dan para penulis Protestan lainnya.<sup>37</sup>
 
 > Lagi aku melihat segala penindasan yang terjadi di bawah sinar matahari,
 dan lihatlah, air mata orang-orang yang ditindas
@@ -1251,7 +1245,7 @@ hidup di kota Albi dan disebut kaum Albigensis, nama yang digunakan oelh van Bra
 Menjelang tahun 1200 seorang Paus baru, Paus Innocent III, memutuskan suatu kegiatan pembasmian untuk
 menghapuskan mereka. Ia memanfaatkan para padri beraliran Cisterian untuk berkhotbah mengenai pembasmian itu. Para
 penerus Paus Innocent menjelma menjadi ordo baru yang merupakan biarawan pengkhotbah keliling, yang disebut kaum
-Dominikan.38
+Dominikan.<sup>38</sup>
 
 Para pemimpin gereja bersama dengan para bangsawan dan ksatria Perancis dari utara menyerbu penduduk kota-kota
 Perancis Selatan yang tidak berdaya, menggempur dinding kota-kota Perancis Selatan yang tidak berdaya, menggempur dinding
@@ -1265,7 +1259,7 @@ yang besar.
 Para pembasmi itu menempatkan kaum bangsawan Perancis Utara untuk memerintah orang-orang selatan yang
 masih hidup, meskipun sudah dijaga dengan cermat. Mereka memaksakan bahasa dan kebudayaan Perancis Utara kepada
 kebudayaan “langue d’oc” yang kaya. Gerakan pembasmian ini tetap dikenang oelh masyarakat Barat sebagai salah satu
-penghancuran yang paling biadab atas bangsa dan kebudayaan di dalam sejarah Barat.39
+penghancuran yang paling biadab atas bangsa dan kebudayaan di dalam sejarah Barat.<sup>39</sup>
 
 
 Sidang Peradilan dengan Menggunakan Tes Ketahanan
@@ -1339,7 +1333,7 @@ Kehidupan yang kudus tetap diingat oleh anggota-anggota Lollards yang lain, terp
 isterinya yang masih hidup. Kelompok keagamaan seperti Lollard ini seringkali mengandalkan wawasan keagamaan dan
 khotbah-khotbah kaum wanita, suatu hal yang ditentang oleh gereja Roma. Joan White “mengajar dan menaburkan Firman
 Tuhan secara luas, meyakinkan orang banyak pada kebenaran Tuhan,” dan oleh karenanya, ia banyak menderita dari para
-uskup.40
+uskup.<sup>40</sup>
 
 > Kamu akan dikucilkan,
 bahkan akan datang saatnya bahwa setiap orang yang membunuh kamu
@@ -1379,7 +1373,7 @@ menyerang orang-orang yang tidak sepakat dengannya. Ia melampiaskan suatu gelomb
 terhadap Kaum Waldenses yang berdiam di dataran dan di lembah-lembah di Italia Barat Laut. Salah satu dari pendetanya dan
 isterinya, yaitu Dulcinus dan Margaret, ditangkap dan dibunuh di Novara pada tahun 1308. Kemudian para ahli kemartiran
 seperti van Braght, melaporkan kematian mereka. Tidak ada catatan sejarah pada waktu itu yang dapat memberikan keterangan
-secara rinci kepada kami.41
+secara rinci kepada kami.<sup>41</sup>
 
 > Dan mereka berseru dengan suara nyaring, katanya: “Berapa lamakah lagi, ya Penguasa yang kudus dan benar, Engkau tidak
 menghakimi dan tidak membalaskan darah kami kepada mereka yang diam di bumi?” Dan kepada mereka masing-masing
@@ -1415,7 +1409,7 @@ kerusuhan pun terjadi. Pemerintah menangkap mereka dan dengan cepat mengadili da
 mereka secara senyap, untuk mencegah ledakan perlawanan baru dari penduduk kota itu. Untuk saatnya yang terakhir, sikap
 Kager berbalik dan ia mau menerima sakramen perjamuan kudus hanya dengan roti saja. Speyser tetap bertahan tidak mau
 menerima perjamuan kudus, kecuali jika diberikan roti dan anggur. Ia mati “tanpa viaticum,” yaitu kondisi yang secara wajar
-dianggap mengerikan, tetapi tidak mengganggu keyakinannya terhadap hubungannya dengan Tuhan.42
+dianggap mengerikan, tetapi tidak mengganggu keyakinannya terhadap hubungannya dengan Tuhan.<sup>42</sup>
 
 Seorang penyair menggubah doa terakhir Kagen dan Speyser ke dalam lagu pujian. Meskipun dicetak pada buku
 nyanyian Ausbund, namun di kalangan kaum Amish yang berada di tempat-tempat lain, lagu itu tidak dinyanyikan lagi.
@@ -1492,10 +1486,10 @@ Luther menggunakan hukuman mati itu untuk menentang pembunuhan atas orang-orang 
 agama. Dalam tiga tahun kemudian, dengan rasa enggan, ia menyetujui penghukuman mati bagi orang-orang Anabaptis untuk
 menghentikan pertumbuhan mereka.
 
-Van Braght dan para pengisah Anabaptis yang lebih awal,43 mengira Kaiser adalah seorang Anabaptis. Barangkali
+Van Braght dan para pengisah Anabaptis yang lebih awal,<sup>43</sup> mengira Kaiser adalah seorang Anabaptis. Barangkali
 salah seorang dari mereka pernah membaca pernyataannya mengenai baptisan. Ia menerima pandangan Lutheran mengenai
 baptisan sebagai suatu sakramen, tetapi secara panjang lebar ia menulis mengenai baptisan orang-orang yang sudah percaya,
-yaitu yang dapat menerima hanya salib dan penderitaan – yang adalah tema orang-orang Anabaptis.44 Catatan yang paling awal
+yaitu yang dapat menerima hanya salib dan penderitaan – yang adalah tema orang-orang Anabaptis.<sup>44</sup> Catatan yang paling awal
 tidak menunjukkan bukti yang mendukung legenda, bahwa bunga-bunga yang dipetik oleh Kaiser tetap segar dan tidak hangus
 pada jenazahnya setelah api yang membakarnya untuk kedua kali padam.
 
@@ -1541,7 +1535,7 @@ kekristenan dipasang di muka umum di bagian timur ibukota, Nicomedia, seorang pe
 menyobeknya. Penguasa kemudian menangkapnya dan menjatuhkan hukuman mati kepadanya sebagai pengkhianat sebelum
 hari itu berakhir. Pada saat hukuman mati dilaksanakan di muka umum di amfiteater, yang hampir selalu dihadiri oleh orang-
 orang Kristen lain yang belum ditangkap, ada beberapa orang Kristen di antara kerumunan orang itu yang secara sukarela maju
-ke muka untuk meminta agar algojo menjatuhkan kapaknya ke atas diri mereka sendiri.45
+ke muka untuk meminta agar algojo menjatuhkan kapaknya ke atas diri mereka sendiri.<sup>45</sup>
 
 Mengapa mereka membunuh orang-orang Kristen? Kekristenan mempunyai ratusan ribu pengikut termasuk pejabat-
 pejabat tinggi, khusunya di bagian timur kekaisaran. Bisa saja berbahaya jika menyerang mereka di sana. Karena Diocletianus
@@ -1710,12 +1704,15 @@ Di sini kami tertarik terutama pada buku Martyrs Mirror-nya. Orang mengagumi kap
 bekerja keras, pada semangatnya untuk tetap mencari sumber-sumber bru mengenai tokoh-tokoh martisnya. Ia tidak mengenal
 lelah menulis banyak dari bukunya dari tempat tidurnya selama ia sakit.
 
-Seberapa tepatkah ia? Bagaimana mutu ilmu pengetahuannya? - ini adalah pertanyaan adil mengingat sifatnya yang
+### Seberapa tepatkah ia? Bagaimana mutu ilmu pengetahuannya? 
+
+- ini adalah pertanyaan adil mengingat sifatnya yang
 memoertahankan diri mengenai yang ditulisnya.
 
 Sebagai seorang ilmuwan ia sangat berhati-hati terhadap para nasa sumbernya. Misalnya ia memulai penelitiannya
 hanya karena ia ingin mencetak ulang buku martir Menonit terbitan sebelumnya.5 Kemudian ia mendapatkan, bahwa para
 pengarang buku itu telah mengesampingkan terlalu banyak bukti dokumenternya dan membuat terlalu banyak kesalahan faktual.
+
 Oleh karena itu, ia menulis kepada banyak ahli pengarsipan, dan menemukan banyak materi baru, khususnya dalam catatan-
 catatan dari sidang-sidang pengadilan. Kemudian ia melengkapi kekurangan-kekurangan yang ada dan membenahi kesalahan-
 kesalahan dalam tulisan-tulisan yang lebih awal mengenai martir. Tulisannya memiliki ciri sebagai suatu karya yang penuh
@@ -1726,7 +1723,8 @@ menyatakan, bahwa ia yakin telah membuat beberapa kesalahan. Integritasnya itu p
 Sebagai contoh mengenai ketelitiannya yang cermat terhadap suatu detil, ambil saja kasus dai Joris Wippe, yang
 ditenggelamkan di Dordrecht pada tahun 1558. Van Braght memeriksa arsip-arsip kota untuk menemukan pernyataan resmi
 mengenai kematiannya. Akhirnya ia dapat menyingkap nama sembilan orang hakin yang menjatuhkan hukuman kepada Wippw.
-Kemudian ia memutuskan bahwa ia tidak yakin para hakim tadi memutuskan dengan suara bulat untuk membunuhnya, kardna
+
+Kemudian ia memutuskan bahwa ia tidak yakin para hakim tadi memutuskan dengan suara bulat untuk membunuhnya, karena
 mereka telah berusaaha meneruskan kasus tadi ke The Hague, dengan maksud agar mereka dapat menghindari pelaksanaan
 hukum mati karena pelanggaran kaum Anabaptis yang berlaku di daerah itu. Pengetahuan van Braght atas sejarah patut
 dijadikan teladan pada zamannya, lebih dari seabad sebelum lahirnya pendekatan yang sungguh-sungguh untuk mengupas

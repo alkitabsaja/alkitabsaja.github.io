@@ -6,8 +6,10 @@ title: Pembelajaran Alkitab 1 Korintus 15
 
 
 
-Pembelajaran Alkitab
-====================
+Pembelajaran Alkitab 1 Korintus 15
+==================================
+
+
 
 
 Siapkan Alkitab Terjemahan Baru (disarankan versi cetak, bukan digital) disampingmu untuk memeriksa setiap ayat yang diberikan. Jika ada, siapkan juga Alkitab King James Version (KJV) untuk referensi penerjemahan.
