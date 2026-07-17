@@ -22,7 +22,7 @@ Dia hidup dan Dia mengundang SEMUA orang untuk datang kepadaNya.
 
 Kristen Alkitabiah bukanlah sekadar agama/religi atau reformasi atau filosofi. Kristen adalah hubungan pribadi yang intim dan kekal dengan Allah Yang Hidup.
 
-Alkitab adalah satu-satunya Kitab Suci yang mengajarkan bahwa keselamatan adalah sebuah karunia gratis yang Allah sendiri bayar dan sediakan untuk manusia yang sudah jatuh dalam dosa.
+Alkitab adalah satu-satunya Kitab Suci yang mengajarkan bahwa keselamatan adalah sebuah anugerah gratis yang Allah sendiri bayar dan sediakan untuk manusia yang sudah jatuh dalam dosa.
 
 
 Injil Kristus
@@ -442,19 +442,19 @@ Ayat alkitab lain mengajarkan Yesus mati bagi dosa manusia:
 >1 Petrus 3:18 Sebab juga Kristus telah mati sekali untuk segala dosa kita, Ia yang benar untuk orang-orang yang tidak benar, supaya Ia membawa kita kepada Allah; Ia, yang telah dibunuh dalam keadaan-Nya sebagai manusia, tetapi yang telah dibangkitkan menurut Roh
 >1 Yohanes 4:10 Inilah kasih itu: Bukan kita yang telah mengasihi Allah, tetapi Allah yang telah mengasihi kita dan yang telah mengutus Anak-Nya sebagai pendamaian bagi dosa-dosa kita.
 
-### Keselamatan adalah pemberian karunia gratis dari Allah bagi orang berdosa.
+### Keselamatan adalah pemberian anugerah gratis dari Allah bagi orang berdosa.
 
 Perhatikan ayat-ayat berikut:
 
 >Efesus 2:8 Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, 2:9 itu bukan hasil pekerjaanmu: jangan ada orang yang memegahkan diri. 2:10 Karena kita ini buatan Allah, diciptakan dalam Kristus Yesus untuk melakukan pekerjaan baik, yang dipersiapkan Allah sebelumnya. Ia mau, supaya kita hidup di dalamnya.
 
-Ini adalah pengajaran luar biasa tentang keselamatan menurut Alkitab. Kasih karunia berarti keselamatan itu adalah karunia gratis. Itu bukan hasil usahaku.
+Ini adalah pengajaran luar biasa tentang keselamatan menurut Alkitab. Kasih karunia berarti keselamatan itu adalah anugerah gratis. Itu bukan hasil usahaku.
 
 Keselamatan Alkitabiah adalah berbeda dari semua agama di dunia. Menurut agama dunia, keselamatan adalah usaha manusia. Jika orang melakukan ini dan itu, jika dia berusaha menjadi baik, jika orang berusaha melakukan amal perbuatan baik, jika orang melakukan ritual-ritual agama, jika orang belajar filosofi agama, dia akan diselamatkan.
 
 Itulah keselamatan menurut agama dunia. Itu adalah hal yang dilakukan manusia untuk Allah. Itu adalah usaha manusia untuk membuat jalan kepada Allah.
 
-Tetapi keselamatan Alkitabiah sama sekali berbeda. Itu adalah kasih karunia, bukan usaha. Itu adalah karnunia pemberian Allah. Itu bukan manusia melakukan sesuatu untuk Allah, tetapi Allah yang melakukan segala sesuatu untuk manusia. Sebuah karunia adalah sesuatu yang dibayar oleh orang lain dan diberikan gratis. Jika tidak gratis maka itu bukan karunia. Yesus sudah membayar lunas untuk karunia keselamatan kekal ini. Orang berdosa menerima karunia ini dengan iman. Ini berarti saya percaya bahwa saya orang berdosa seperti yang Allah katakan mengenai saya, saya percaya bahwa saya pantas mendapatkan hukuman kekal dalam api neraka dan percaya bahwa Yesus telah mati di salib menanggung semua penghukuman yang seharusnya ditimpakan kepada saya. Ini berarti saya percaya bahwa Yesus sajalah satu-satunya Tuhan dan Juruselamat.
+Tetapi keselamatan Alkitabiah sama sekali berbeda. Itu adalah kasih karunia, bukan usaha. Itu adalah anugerah pemberian Allah. Itu bukan manusia melakukan sesuatu untuk Allah, tetapi Allah yang melakukan segala sesuatu untuk manusia. Sebuah anugerah adalah sesuatu yang dibayar oleh orang lain dan diberikan gratis. Jika tidak gratis maka itu bukan anugerah. Yesus sudah membayar lunas untuk anugerah keselamatan kekal ini. Orang berdosa menerima anugerah ini dengan iman. Ini berarti saya percaya bahwa saya orang berdosa seperti yang Allah katakan mengenai saya, saya percaya bahwa saya pantas mendapatkan hukuman kekal dalam api neraka dan percaya bahwa Yesus telah mati di salib menanggung semua penghukuman yang seharusnya ditimpakan kepada saya. Ini berarti saya percaya bahwa Yesus sajalah satu-satunya Tuhan dan Juruselamat.
 
 Keselamatan Alkitabiah juga berbeda dengan injil lain yang banyak diajarkan oleh banyak gereja. Misalnya Gereja Roma Katolik (GRK) dan ortodox Yunani mengajarkan keselamatan adalah percaya pada Yesus PLUS ditambah dengan baptisan dan melakukan pekerjaan baik dan mengikuti sakramen gereja. Ini adalah injil palsu. Tidak ada keselamatan dalam injil kasih karunia PLUS pekerjaan.
 
@@ -485,7 +485,7 @@ Tetapi Wesley bersaudara ini mempercayai amal perbuatan baik mereka daripada kas
 9. Apakah maksudnya kejahatan?
 10. Apakah maksudnya mengambil jalan sendiri?
 11. Apakah maksudnya keselamatan oleh kasih karunia?
-12. Berapa yang harus saya bayar agar sesuatu bukan karunia lagi?
+12. Berapa yang harus saya bayar agar sesuatu bukan anugerah lagi?
 13. Percaya Injil berarti saya tidak percaya lagi ________ selain kepada Kristus untuk keselamatan.
 14. Jika seseorang berpikir dia cukup baik, dapatkah dia menerima Kristus dan diselamatkan dalam kondisi ini?
 15. Jika seseorang percaya 1% dalam ibadah untuk keselamatn, dapatkah dia menerima Kristus dan diselamatkan dalam kondisi ini?
@@ -667,7 +667,7 @@ Banyak orang ingin menerima Yesus sebagai Juruselamat tetapi mereka tidak mau Di
 
 - Pertobatan adalah pembunuh yang meletakkan pisaunya.
 
-Penginjil James Stewart dalam bukunya Penginjilan menggambarkan pertobatan dengan seorang pembunuh yang melakukan pembunuhan dengan pisau. Dia ditawarkan sertifikat maaf dan pengampunan hukuman sebagai suatu karunia. Dengan satu tangan dia menggapai dan menerima pengampunan, tetapi dengan tangan lain dia meletakkan pisaunya dan menetapkan tidak akan menjadi pembunuh lagi. Tangan yang menerima pengampunan adalah iman, dan tangan lain yang meletakkan pisau adalah pertobatan. Jika pembunuh mengatakan “saya mau menerima pengampunan, tetapi saya tidak mau meletakkan pisau saya,”  ini adalah iman tanpa pertobatan, dan ini bukan iman yang menyelamatkan.
+Penginjil James Stewart dalam bukunya Penginjilan menggambarkan pertobatan dengan seorang pembunuh yang melakukan pembunuhan dengan pisau. Dia ditawarkan sertifikat maaf dan pengampunan hukuman sebagai suatu anugerah. Dengan satu tangan dia menggapai dan menerima pengampunan, tetapi dengan tangan lain dia meletakkan pisaunya dan menetapkan tidak akan menjadi pembunuh lagi. Tangan yang menerima pengampunan adalah iman, dan tangan lain yang meletakkan pisau adalah pertobatan. Jika pembunuh mengatakan “saya mau menerima pengampunan, tetapi saya tidak mau meletakkan pisau saya,”  ini adalah iman tanpa pertobatan, dan ini bukan iman yang menyelamatkan.
 
 - Pertobatan adalah pencuri yang mengembalikan barang curian.
 
@@ -752,7 +752,7 @@ Iman yang menyelamatkan
 
 >Ayat hafalan: Yohanes 3:16
 
-Dalam pelajaran sebelumnya kita melihat Alkitab mengatakan bahwa pertobatan dan iman adalah perlu untuk keselamatan. Pertobatan dan iman adalah cara orang berdosa menerima karunia gratis keselamatan dari Allah.
+Dalam pelajaran sebelumnya kita melihat Alkitab mengatakan bahwa pertobatan dan iman adalah perlu untuk keselamatan. Pertobatan dan iman adalah cara orang berdosa menerima anugerah gratis keselamatan dari Allah.
 
 >KPR 20:21 aku senantiasa bersaksi kepada orang-orang Yahudi dan orang-orang Yunani, supaya mereka bertobat kepada Allah dan percaya kepada Tuhan kita, Yesus Kristus.
 
@@ -818,20 +818,20 @@ Bertentangan dengan kepastian iman adalah “iman” orang yang mengatakan merek
 Iman kepada Kristus tidak bisa dicampur dengan iman kepada usaha manusia. Perhatikan ayat berikut yang mengajarkan bahwa keselamatn bukan hasil usahamu.
 
 >Roma 3:24 dan oleh kasih karunia telah dibenarkan dengan cuma-cuma karena penebusan dalam Kristus Yesus.
-?4:4 Kalau ada orang yang bekerja, upahnya tidak diperhitungkan sebagai karunia, tetapi sebagai haknya. 4:5 Tetapi kalau ada orang yang tidak bekerja, namun percaya kepada Dia yang membenarkan orang durhaka, imannya diperhitungkan menjadi kebenaran
+?4:4 Kalau ada orang yang bekerja, upahnya tidak diperhitungkan sebagai hadiah, tetapi sebagai haknya. 4:5 Tetapi kalau ada orang yang tidak bekerja, namun percaya kepada Dia yang membenarkan orang durhaka, imannya diperhitungkan menjadi kebenaran
 >6:23 Sebab upah dosa ialah maut; tetapi karunia Allah ialah hidup yang kekal dalam Kristus Yesus, Tuhan kita.
 >Efesus 2:8 Sebab karena kasih karunia kamu diselamatkan oleh iman; itu bukan hasil usahamu, tetapi pemberian Allah, 9 itu bukan hasil pekerjaanmu: jangan ada orang yang memegahkan diri.
 >Titus 3:4 Tetapi ketika nyata kemurahan Allah, Juruselamat kita, dan kasih-Nya kepada manusia, 3:5 pada waktu itu Dia telah menyelamatkan kita, bukan karena perbuatan baik yang telah kita lakukan, tetapi karena rahmat-Nya oleh permandian kelahiran kembali dan oleh pembaharuan yang dikerjakan oleh Roh Kudus, 3:6 yang sudah dilimpahkan-Nya kepada kita oleh Yesus Kristus, Juruselamat kita
 
-Orang harus menerima keselamatan Kristus sebagai karunia gratis, bukan sebagai upah atas amal perbuatan baik. Sebuah karunia adalah sesuatu yang dibayarkan orang lain dan kemudian diberikan kepada saya gratis. Jika saya berusaha membayar seberapapun juga maka ini bukan karunia lagi. Begitu pula jika saya menambahkan usaha amal baik saya kepada kasih karunia Allah, maka ini bukan keselamatan yang benar.
+Orang harus menerima keselamatan Kristus sebagai anugerah gratis, bukan sebagai upah atas amal perbuatan baik. Sebuah anugerah adalah sesuatu yang dibayarkan orang lain dan kemudian diberikan kepada saya gratis. Jika saya berusaha membayar seberapapun juga maka ini bukan anugerah lagi. Begitu pula jika saya menambahkan usaha amal baik saya kepada kasih karunia Allah, maka ini bukan keselamatan yang benar.
 
 >Roma 11:6 Tetapi jika hal itu terjadi karena kasih karunia, maka bukan lagi karena perbuatan, sebab jika tidak demikian, maka kasih karunia itu bukan lagi kasih karunia
 
-Jika seseorang membelikan saya hadia berharga dan saya katakan, “Itu terlalu mahal; saya akan bayar sebagian biaya untuk membantumu,’ apakah ini masih karunia?
+Jika seseorang membelikan saya hadia berharga dan saya katakan, “Itu terlalu mahal; saya akan bayar sebagian biaya untuk membantumu,’ apakah ini masih anugerah?
 
-Alkitab saja satu-satunya kitab suci yang mengajarkan hal ini bahwa keselamatan adalah karhunia gratis kasih karunia Allah. Semua agama lain mengajarkan keselamatan dari usaha manusia.
+Alkitab saja satu-satunya kitab suci yang mengajarkan hal ini bahwa keselamatan adalah anugerah gratis kasih karunia Allah. Semua agama lain mengajarkan keselamatan dari usaha manusia.
 
-Yesus adalah satu-satunya yang membayarkan lunas keselamatan dengan harga yang teramat mahal, dengan kematian dan darahNya. Dia membayar harga 100% lunas. Sudahkah anda menerima karnunia gratis keselamatan, atau masihkah anda berusaha melakukan amal ibadah untuk dapat membayar keselamatanmu sendiri?
+Yesus adalah satu-satunya yang membayarkan lunas keselamatan dengan harga yang teramat mahal, dengan kematian dan darahNya. Dia membayar harga 100% lunas. Sudahkah anda menerima anugerah gratis keselamatan, atau masihkah anda berusaha melakukan amal ibadah untuk dapat membayar keselamatanmu sendiri?
 
 ### Iman yang menyelamatkan adalah iman yang menerima.
 
@@ -851,7 +851,7 @@ Yesus mengundang semua yang letih lesu dan berbeban berat. Ini berarti semua ora
 
 Yesus mengatakan “Aku akan memberi kelegaan kepadamu.” Yesus berjanji akan menerima semua orang yang mau datang kepadaNya dan memberikan kelegaan kekal kepada mereka. Ini adalah kelegaan dari kebenaran amal ibadah sendiri yang tidak dapat menyelamatkan dan dari agama kosong yang tidak dapat menyelamatkan. Ini adalah kelegaan kekal mengetahui bahwa semua dosa saya 100% sudah dibayar lunas dan saya sudah memiliki hidup kekal.
 
-Perhatikan Yesus mengatakan “Aku akan memberi kelegaan kepadamu.” Kelegaan kekal dalam keselamatan adalah karunia gratis kasih karunia Kristus.
+Perhatikan Yesus mengatakan “Aku akan memberi kelegaan kepadamu.” Kelegaan kekal dalam keselamatan adalah anugerah gratis kasih karunia Kristus.
 
 Yesus mengatakan, “Pikullah kuk yang Kupasang dan belajarlah pada-Ku.” Ketika orang berdosa datang kepada Kristus dan menerimaNya sebagai satu-satunya Juruselamat, ini adalah kuk pelayanan. Ini adalah kuk pembelajaran dan ketaatan. Ini berarti menjadi murid Kristus. Ini berarti belajar Firman Tuhan dan mempelajari kehendak Allah dan melakukan kehendak Allah. Ini berarti bergabung bersama dengan jemaat PB yang percaya Alkitab. Inilah yang kita lihat dalam buku KPR.
 
