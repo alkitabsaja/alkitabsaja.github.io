@@ -827,7 +827,7 @@ Orang harus menerima keselamatan Kristus sebagai anugerah gratis, bukan sebagai 
 
 >Roma 11:6 Tetapi jika hal itu terjadi karena kasih karunia, maka bukan lagi karena perbuatan, sebab jika tidak demikian, maka kasih karunia itu bukan lagi kasih karunia
 
-Jika seseorang membelikan saya hadia berharga dan saya katakan, “Itu terlalu mahal; saya akan bayar sebagian biaya untuk membantumu,’ apakah ini masih anugerah?
+Jika seseorang membelikan saya anugerah berharga dan saya katakan, “Itu terlalu mahal; saya akan bayar sebagian biaya untuk membantumu,’ apakah ini masih anugerah?
 
 Alkitab saja satu-satunya kitab suci yang mengajarkan hal ini bahwa keselamatan adalah anugerah gratis kasih karunia Allah. Semua agama lain mengajarkan keselamatan dari usaha manusia.
 
