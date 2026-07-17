@@ -1827,7 +1827,7 @@ Catatan Akhir untuk halaman 20-75
 
 Untuk singkatan-singkatan, silahkan anda melihat Daftar Kepustakaan mengenai kutipan selengkapnya atas karyanya.
 
-[^1]: Hoog, 192. Johan Huizinga, The Waning of the Middle Ages: A Study of the Forms of Life, Thought and Art in France and Nedherlands in the
+[^1]: 1 Hoog, 192. Johan Huizinga, The Waning of the Middle Ages: A Study of the Forms of Life, Thought and Art in France and Nedherlands in the
 XIVth and Xvth Centuries (London: Edward Arnold, 1948), passim, mempunyai ilustrasi yang sangat baik mengenai praktik ini. Van Braght tidak
 menyebutkan pesta atau perjamuan makan sebelum hukuman mati dilaksanakan. Namun ia mempunyai banyak sekali cerita lisan mengenai pertemuan-
 pertemuan terakhir antara korban dengan imam yang berkuasa atau pejabat tinggi pemerintah daerah - kesempatan bagi kaum Anabaptis untuk
@@ -1836,42 +1836,42 @@ sebagai sesuatu yang sungguh-sungguh terjadi, tidak perlu di tempat pelaksanaan 
 orang merasa lebih santai membahas ketidakbersalahan korban atau penghakiman oleh Allah. Hazenpoet ditangkap dan dibunuh pada tahun 1557, bukan
 1556 seperti yang tercantum pada catatan Van Braght.
 
-[^2]: P. C. G. Guyot, Bijdragen tot de Geschiedenis der Doopsgezinde te Nijmegen (Nijmegen: Vieweg, 1845), 19-23. Simon Schama, The
+[^2]: 2 P. C. G. Guyot, Bijdragen tot de Geschiedenis der Doopsgezinde te Nijmegen (Nijmegen: Vieweg, 1845), 19-23. Simon Schama, The
 Embarrassment of Riches (Berkeley: University of California Press, 1988), 617, melaporkan bahwa pada abad ketujuh belas uang sebesar 200 guilder
 merupakan gaji tahunan seorang pendeta Gereja Reformed.
 
-[^3]: “Oorlof aen Broeders en Sisters gemeen” (“Selamat jalan bagi Saudara-saudara sekalian”/ Farewell to All Brothers and Sisters), MM,560.
+[^3]: 3 “Oorlof aen Broeders en Sisters gemeen” (“Selamat jalan bagi Saudara-saudara sekalian”/ Farewell to All Brothers and Sisters), MM,560.
 “Saudara-saudaraku, pria dan wanita, selamat tinggal, semua! Sekarang haruslah berpisah kita, sampai berjumpa pula di luar angkasa, dengan Kristus
 sebagai Kepala kita satu-satunya: Untuk ini, kalian sendiri harus bersiap sedia, dan kalian akan kunantikan disana.”
 
-[^4]: Sumber informasi kami satu-satunya tentang Kramer adalah van Braght. Ia tidak dapat menemukan catatan pengadilan yang resmi.
+[^4]: 4 Sumber informasi kami satu-satunya tentang Kramer adalah van Braght. Ia tidak dapat menemukan catatan pengadilan yang resmi.
 
-[^5]: Jan Wagenaar, Amsterdam in zyne Opkomst, Aanwas, Geschiedenissen, Voorregten, Koophandel, Gebouwen, Kerkenstaat, Schoolen,
+[^5]: 5 Jan Wagenaar, Amsterdam in zyne Opkomst, Aanwas, Geschiedenissen, Voorregten, Koophandel, Gebouwen, Kerkenstaat, Schoolen,
 Schuttarye, Gilden en Regeering … (Amsterdam: Yntema en Tieboel, 1760-[1794]), 1.321.
 
-[^6]: P. Sijbolts, “De Doopsgezinden te Middelburg in de 16de eeuw,” Doopsgezinde Bijdragen, 1908, hal. 51; Grosheide, 183-84.
+[^6]: 6 P. Sijbolts, “De Doopsgezinden te Middelburg in de 16de eeuw,” Doopsgezinde Bijdragen, 1908, hal. 51; Grosheide, 183-84.
 
-[^7]: Sebuah lagu pujian yang ditulis mengenai dirinya, “Ick moet u nu gaen verclaren, Watter t’Amsterdam is geschiet,” dan diterbitkan dalam
+[^7]: 7 Sebuah lagu pujian yang ditulis mengenai dirinya, “Ick moet u nu gaen verclaren, Watter t’Amsterdam is geschiet,” dan diterbitkan dalam
 Veelderhandle Liedekens.
 
-[^8]: “Ghy Christen al te samen,” Het Offer, 534.
+[^8]: 8 “Ghy Christen al te samen,” Het Offer, 534.
 
-[^9]: A. L. E. Verheyden, Het Gentsche Martyrologium (1530-1595) (Brugge: De Tempel, 1946), 20-21, yang mencantumkan nama van der
+[^9]: 9 A. L. E. Verheyden, Het Gentsche Martyrologium (1530-1595) (Brugge: De Tempel, 1946), 20-21, yang mencantumkan nama van der
 Leynes lain di dalam daftar, yang mungkin sanak saudaranya: Lievin pada 1534, Merelbek pada 1551, dan Jan tanpa tanggal.
 
-[^10]: Van der Haeghen, I, xv.
+[^10]: 10 Van der Haeghen, I, xv.
 
-[^11]: Bukan usus, seperti yang tercantum pada kerajinan seni cetak Luyken. Istilah yang dipergunakan dalam sumber, bust, adalah istilah dalam
+[^11]: 11 Bukan usus, seperti yang tercantum pada kerajinan seni cetak Luyken. Istilah yang dipergunakan dalam sumber, bust, adalah istilah dalam
 Balanda Selatan untuk payudara.
 
-[^12]: Perpecahan keluarga secara tajam diceritakan dengan sangat jelas dalam buku Ausbund, Lagu no.17.
+[^12]: 12 Perpecahan keluarga secara tajam diceritakan dengan sangat jelas dalam buku Ausbund, Lagu no.17.
 
-[^13]: Zurich Zentralbibliothek memiliki surat selebaran dari kalangan non-Menonit yang menggambarkan tonggak untuk mengikat korban
+[^13]: 13 Zurich Zentralbibliothek memiliki surat selebaran dari kalangan non-Menonit yang menggambarkan tonggak untuk mengikat korban
 hukuman mati mengeluarkan pucuk-pucuk daun hijau, bersama dengan sebuah puisi yang menjelaskan peristiwa itu. Kisah penjatuhan hukuman mati atas
 van Beckum diceritakan kembali oleh Ludwig Rabus. Padahal, sebagai seorang penganut aliran Lutheran biasanya ia tidak mau menceritakan tentang para
 martir Anabaptis.
 
-[^14]: Hutterian Brethren mempraktikkan kepemilikan bersama atas barang-barang. Mereka tidak mengizinkan seorang anggota pun memiliki
+[^14]: 14 Hutterian Brethren mempraktikkan kepemilikan bersama atas barang-barang. Mereka tidak mengizinkan seorang anggota pun memiliki
 barang apapun. Mereka memberlakukannya pada tahun 1529 di Moravia, dan melaksanakannya dengan lebih mantap lagi pada tahun 1533 dibawah
 pimpinan Jacob Hutter yang namanya dijadikan dasar nama kelompok mereka itu. Moravia pada abad ke-16 merupakan suatu tempat perlindungan yang
 langka, yang memungkinkan kaum Anabaptis hidup bersama dalam satu masyarakat komunal. Kelompok Hutterian mengajak kelompok Anabaptis
@@ -1879,11 +1879,11 @@ lainnya untuk bergabung, termasuk mereka yang disebut Swiss Brethren, mendiskusi
 hal kepemilikan bersama dan dalam hal penerapan disiplin yang lebih ketat di kalangan semua anggotanya. Kini ada kira-kira 25.000 orang keturunan
 Hutterian di kalangan penduduk koloni Moravia yang mula-mula hidup di Amerika Utara.
 
-[^15]: Lihat The Chronicle, 354-63, untuk mendapatkan banyak yang sekecil-kecilnya dari surat-suratnya, yang sebagian besar dialamatkan kepada
+[^15]: 15 Lihat The Chronicle, 354-63, untuk mendapatkan banyak yang sekecil-kecilnya dari surat-suratnya, yang sebagian besar dialamatkan kepada
 “saudara perempuanku di dalam Tuhan,” yaitu isterinya. Lihat Die Lieder, 551-611, untuk mendapatkan lagu-lagu pujian karagan Schmidt yang masih
 tetap dinyanyikan hingga sekarang, yang terdiri atas 112 bait.
 
-[^16]: Pemburu Dirk bertindak dengan kekuasaannya sendiri. Tidak ada walikota atau orang lain yang berdiri di pinggiran danau kecil itu untuk
+[^16]: 16 Pemburu Dirk bertindak dengan kekuasaannya sendiri. Tidak ada walikota atau orang lain yang berdiri di pinggiran danau kecil itu untuk
 memaksa para penjaga agar menangkap tahanannya itu. Lihat Leroy Beachy, “Unser Leit,” The Budget (Sugarcreek, Ohio), 16 Nov. 1988, hal.10,
 mengenai ceritanya yang menarik tentang Dirk dari penduduk Asperen pada musim panas, 1989. Pada bulan Mei 1990, John dan Carol Oyer
 mengumpulkan rincian informasi tambahan dari pendeta Gereja Reformed di Asperen dan juga dari seorang ahli sejarah regional kota itu. Orang yang
@@ -1895,64 +1895,64 @@ keagamaan. Van Braght menemukan transkip buatan seorang ahli arsip pada tahun 16
 cerita-cerita lisan mengenai kesakitan yang berlebihan yang ditimbulkan oleh algojo-algojo yang bekerja serampangan. Cerita itu telah menarik perhatian
 daerah-daerah lain; misalnya, lihat H. Tollens Czn., Nieuwe Gedichten, pada sebuah puisi. Juga lihat ten Cate, I, 78.
 
-[^17]: Anneken menulis sepucuk surat penghiburan kepada David Joris. Lihat Nippold, “David Jotis von Delft,” Zeitschrift f.die historische
+[^17]: 17 Anneken menulis sepucuk surat penghiburan kepada David Joris. Lihat Nippold, “David Jotis von Delft,” Zeitschrift f.die historische
 Theologie, XXXIII (1863), 3-166; XXXIV (1864), 483-673; XXXVIII (1868), 475-591. Juga ten Cate, I, 42. Baru-baru ini sebuah novel ditulis mengenai
 kehidupannya; M.van der Seal, Anneke Jane.: Historische verbaal uit den eersten tijd der bervorming (Urk: de Vuurtoren, 1976).
 
-[^18]: Penyiksaan terhadap empat orang ini sangat brutal, tanpa alasan khusus. Bangsa Belanda menganggapnya sebagai kekejaman bangsa
+[^18]: 18 Penyiksaan terhadap empat orang ini sangat brutal, tanpa alasan khusus. Bangsa Belanda menganggapnya sebagai kekejaman bangsa
 Spanyol. Neeltgen, seorang wanita berumur 75 tahun dan ibu dari Trijntgen, salah seorang dari empat orang tersebut, tidak disiksa dengan merentangkan
 anggota tubuhnya karena umurnya sudah sangat lanjut. Tiga buah lagu rohani yang menyebutkan peristiwa-peristiwa ini ditulis di dalam buku-buku
 nyanyian pujian kaum Anabaptis yang paling langka, Ein schon gesangbuchlein.
 
-[^19]: MM, 705.
+[^19]: 19 MM, 705.
 
-[^20]: Rupanya algojo menarik tembang terlalu kuat, sehingga dua pilinan dari tambang itu putus. Persendian-persendian Janssen hampir semua
+[^20]: 20 Rupanya algojo menarik tembang terlalu kuat, sehingga dua pilinan dari tambang itu putus. Persendian-persendian Janssen hampir semua
 terlepas, sehingga ia harus diusung ke tempat tidurnya setelah penyiksaan. Van Braght menemukan banyak surat dari para tahanan untuk isteri-isteri dan
 teman-teman mereka. Namun hanya sedikit di antaranya yang menceritakan tentang penyiksaan itu dengan terperinci, atau mengisi surat mereka dengan
 kegembiraan yang luar biasa. MM, 705.
 
-[^21]: Ibid., 707.
+[^21]: 21 Ibid., 707.
 
-[^22]: Aldo Stella, Anabattismo e antitrinitarismo in Italia nel XVI secolo: Nuave ricerche storiche (Padova: Liviana, 1969) 258-68; Grete
+[^22]: 22 Aldo Stella, Anabattismo e antitrinitarismo in Italia nel XVI secolo: Nuave ricerche storiche (Padova: Liviana, 1969) 258-68; Grete
 Mecenseffy, ed., Osterreich, I. Teil, Quellen zur Geschichte der Taufer, XI (Gutersloh: Gerd Mohn, 1964); Die Lieder, 89-115; Joseph Beck. Die
 Geschichts-Bucher der Wiederetaufer in Osterreich-Ungarn (Vienna, 1883; cetakan ulang, Nieuwkoop; de Graaf, 1967), 654.
 
-[^23]: Lihat amanat Lang yang sangat kejam, Nov. 1527 dan 18 April 1528, di Greta Mecenseffy, ed., Osterich, II. Teil, Quelle, XIII (Gutersloh:
+[^23]: 23 Lihat amanat Lang yang sangat kejam, Nov. 1527 dan 18 April 1528, di Greta Mecenseffy, ed., Osterich, II. Teil, Quelle, XIII (Gutersloh:
 Gerd Mohn, 1972), 20-24. Lihat juga Paul Dedic, “Lang von Wellenberg, Matthaus,” ME, III, 286-87.
 
-[^24]: Riset kami sendiri menunjukkan bahwa Mecenseffy tidak menemukan atau menerbitkan semua catatan yang ada mengenai kaum Anabaptis
+[^24]: 24 Riset kami sendiri menunjukkan bahwa Mecenseffy tidak menemukan atau menerbitkan semua catatan yang ada mengenai kaum Anabaptis
 di dalam arsip-arsip keuskupan agung Salzburg.
 
-[^25]: Kami hanya memiliki cerita yang ditulis oleh van Braght, yang berhasil mengungkapkan dan mencetak laporan resmi dewan kota tentang
+[^25]: 25 Kami hanya memiliki cerita yang ditulis oleh van Braght, yang berhasil mengungkapkan dan mencetak laporan resmi dewan kota tentang
 hukuman dan kematian, tetapi tidak berhasil menemukan rincian tentang bagaimana hukuman mati itu dilaksanakan.
 
-[^26]: Augsburg adalah kota yang dihuni kaum Anabaptis, yang memberi tumpangan kepada anggota kelompok Anabaptis lain dari daerah
+[^26]: 26 Augsburg adalah kota yang dihuni kaum Anabaptis, yang memberi tumpangan kepada anggota kelompok Anabaptis lain dari daerah
 sekitarnya, atau dari daerah-daerah yang jauh, selama berbulan-bulan. Di dalam sidang-sidang pengadilan orang-orang tahanan yang dari luar kota itu
 tidak dapat menyebutkan nama orang-orang yang memberi tumpangan kepada mereka, tetapi hanya menunjukkan di mana mereka tinggal. Mereka juga
 tidak dapat menyebutkan nama para pengrajin itu – penjahit pakaian wanita, tukang sepatu, dsb. - yang mempekerjakan mereka selama berbulan-bulan
 terus menerus. Mereka hanya dapat menandai hasil pekerjaan tangan dan tempat tinggal mereka.
 
-[^27]: Lihat Gary Waite, “Staying Alive: The Methods of Survival as Practiced by an Anabaptist Fugitive, David Joris”, Menonite Quarterly
+[^27]: 27 Lihat Gary Waite, “Staying Alive: The Methods of Survival as Practiced by an Anabaptist Fugitive, David Joris”, Menonite Quarterly
 Review, LXI (1987), 46-57.
 
-[^28]: Durgerdam adalah sebuah desa kecil di pinggiran kota Amsterdam, yang disebut juga Doornickendam pada abad keenam belas. Kini desa
+[^28]: 28 Durgerdam adalah sebuah desa kecil di pinggiran kota Amsterdam, yang disebut juga Doornickendam pada abad keenam belas. Kini desa
 ini menjadi bagian dari Amsterdam.
 
-[^29]: Grosheide, 180, menggunakan catatan dari arsip-arsip Amsterdam tersebut.
+[^29]: 29 Grosheide, 180, menggunakan catatan dari arsip-arsip Amsterdam tersebut.
 
-[^30]: Ibid., 180-81; Kuhlet, I, 395-426, untuk mempelajari laporan tentang perpecahan itu.
+[^30]: 30 Ibid., 180-81; Kuhlet, I, 395-426, untuk mempelajari laporan tentang perpecahan itu.
 
-[^31]: Beberapa sarjana menyangkal keberadaan Maeyken Wens. Samuel Cramer menandainya sebagai Maeyken Dissenbeke, yang namanya
+[^31]: 31 Beberapa sarjana menyangkal keberadaan Maeyken Wens. Samuel Cramer menandainya sebagai Maeyken Dissenbeke, yang namanya
 terdapat pada catatan tersebut; Dissenbeke adalah daerah tempat tinggalnya. Suaminya bekerja disana sebagai seorang tukang batu. Ia dihukum mati,
 bersama tiga orang wanita lainnya, pada tanggal 6 Oktober 1573. Van der Zijpp, “Maeyken Wens”, ME, III, 439-40; Cramer, dalam “Doopsgezinde
 Bijdragen, 1898, hal. 114; 1899, hal.104, 108, 121; 1904, hal. 115-33 (terutama hal.127). Lihat juga van der Haeghen, II, No. 841.
 
-[^32]: Beck, 151.
+[^32]: 32 Beck, 151.
 
-[^33]: “Assum est, versa et manduca”, yang diterjemahkan oleh John Foxe, I, 93: “Tubuhku yang sebelah sini sudah cukup matang, baliklah oh,
+[^33]: 33 “Assum est, versa et manduca”, yang diterjemahkan oleh John Foxe, I, 93: “Tubuhku yang sebelah sini sudah cukup matang, baliklah oh,
 tiran yang agung; Periksalah sudah matang atau masih mentah, yang anda anggap daging yang lebih baik.”
 
-[^34]: Untuk laporan ini seseorang memerlukan data agar seimbang dari empat sumber, yang beberapa bagiannya menggunakan data dari sumber
+[^34]: 34 Untuk laporan ini seseorang memerlukan data agar seimbang dari empat sumber, yang beberapa bagiannya menggunakan data dari sumber
 lainnya yang udah tidak ada lagi. (1) Ausbund, lagu No. 61; empat lagu pujian kaum Hutterite dalam Die Lieder, 48-59; Gustav Bossert, “Gmund,
 Schwabisch”, ME, II, 528-30; MM II, 433-34. Van Braght mengutip suatu sumber yang tidak menyebutkan nama penulisnya, sumber yang melaporkan
 dari sudut pandang Anabaptis, tetapi sangat mirip dengan kisah lisan zaman dulu yang ditulis kembali di kemudian hari.. Van Braght mencatat tujuh orang
@@ -1960,23 +1960,23 @@ yang dihukum mati pada tahun 1529, tetapi catatan pengadialan yang digunakan ole
 itu jatuh pada 7 Desember 1528. Ausbund percaya bahwa tujuh orang yang dihukum mati itu laki-laki semua. Catatan pengadilan yang diperoleh Bossert
 menunjukkan, bahwa salah seorang diantaranya adalah seorang wanita.
 
-[^35]: Laporan yang terlengkap adalah Ein wahrhaftiger Bericht von den Brudern im SchweitzerLand, in dem Zucher Gebiet (1645), barangkali
+[^35]: 35 Laporan yang terlengkap adalah Ein wahrhaftiger Bericht von den Brudern im SchweitzerLand, in dem Zucher Gebiet (1645), barangkali
 ditulis oleh Hans Muller atau Jeremias Mangold untuk kaum Menonit Belanda. Van Braght secara luas menggunakan materi ini. Sejak tahun 1742 laporan
 ini telah dicetak ulang dalam setiap Ausbund edisi Amerika Utara.
 
-[^36]: Laporan yang selengkapnya adalah Cornelius Bergmann, Die Tduferbewegung in Kanton Zirich (Leipzig: Heinsius Nachhf. 1916)
+[^36]: 36 Laporan yang selengkapnya adalah Cornelius Bergmann, Die Tduferbewegung in Kanton Zirich (Leipzig: Heinsius Nachhf. 1916)
 
-[^37]: Ludwig Rabus (seorang Lutheran), Adriaen Haemstede (seorang Reformed Belanda) dan Jean Crespin (warga jemaat gereja Reformed
+[^37]: 37 Ludwig Rabus (seorang Lutheran), Adriaen Haemstede (seorang Reformed Belanda) dan Jean Crespin (warga jemaat gereja Reformed
 Perancis), memasukkan Arnold dalam buku-buku martir, orang yang disebut terakhir ini dianggap sebagai anggota kaum Waldenses. Kaum Humiliati
 kemudian menjadi ordo semi biarawan. Arnold tidak mempunyai hubungan resmi dengan para pendahulu mereka, tetapi beberapa ahli sejarah gereja
 menghubungkannya dengan mereka.
 
-[^38]: Kaum Dominikan adalah ordo biarawan yang didirikan oleh Dominic pada tahun 1218, dan diberi nama Ordo Kaum Pengkhotbah. Para
+[^38]: 38 Kaum Dominikan adalah ordo biarawan yang didirikan oleh Dominic pada tahun 1218, dan diberi nama Ordo Kaum Pengkhotbah. Para
 Paus biasanya menemukan para penyelidik mereka dari kalangan ordo ini, sehingga padri-padrinya kadang-kadang dijuluki “anjing-anjing Tuhan” (dalam
 bahasa Latin disebut domini cones) dan digambarkan oleh seniman-seniman pada zaman mereka sebagai anjing-anjing pemburu putih berbintik-bintik
 hitam, karena pada waktu-waktu tertentu mereka mengenakan jubah putih yang ditutupi mantel-mantel hitam.
 
-[^39]: Van Braght membaca tulisan para ahli sejarah di masa hidupnya yang menganggap kaum Cathari kemungkinan besar adalah kaum Waldenses. Ia
+[^39]: 39 Van Braght membaca tulisan para ahli sejarah di masa hidupnya yang menganggap kaum Cathari kemungkinan besar adalah kaum Waldenses. Ia
 menganggap kaum Waldenses lebih dekat pada gereja sejarah yang lebih murni dan benar daripada kaum Cathari, meskipun ia menghormati kaum
 Cathari karena moralnya lebih baik daripada Gereja Katolik Roma. Menurut ahli-ahli serjarah kaum Waldense, seperti Comba, sudah lama meyakini,
 bahwa kaum Waldenses telah diusir dari daerah-daerah Perancis Selatan dan mendiami daerah pegunungan di Italia Barat Laut (saat itu bernama
@@ -1987,9 +1987,9 @@ Staria delle persecuzioni e guerre contro il popolo chiamato valdese …, ed. da
 Adriaen Haemstede, ahli kemartiran kaum Reformed Belanda, memasukkan 200 orang korban itu ke dalam bukunyamengenai para martir, dan menyebut
 mereka kaum Albigenses, bukan Waldenses; rupa-rupanya van Braght mengabaikan bukti itu.
 
-[^40]: Foxw, I, 869, 871-72.
+[^40]: 40 Foxw, I, 869, 871-72.
 
-[^41]: Asal mula kaum Waldenses tersimpan dalam misteri karena hanya sedikit saja catatan yang dapat diselamatkan pada tahun-tahun awal.
+[^41]: 41 Asal mula kaum Waldenses tersimpan dalam misteri karena hanya sedikit saja catatan yang dapat diselamatkan pada tahun-tahun awal.
 Catatan-catatan tersebut pada umumnya menunjukkan permusuhan dengan kaum itu, karena itu tidak sepenuhnya dapat dipercaya. Asal muasal kaum
 Waldenses dari kelompok-kelompok sebelumnya, Humiliati atau Patarini atau lain-lainnya – serta adanya kemungkinan keterkaitannyaa dengan Cathari
 yang jelas bidat menurut pernilaian para ahli sejarah - hanya merupakan perkiraan saja. Hubungannya dengan Waldo agaknya lebih jelas. Penyiksaan
@@ -2000,7 +2000,7 @@ terakhir kaum Waldenses: Amedeo Molnar, Storia dei Valdesi, I (Torino: Claudiana
 Van Braght dan beberapa orang Menonit lain di jamannya percaya bahwa kaum Waldenses bukanlah merupakan pendahulu tetapi yang
 mendirikan gerakan Anabaptis.
 
-[^42]: Laporan ini diambil terutama dari catatan seorang dari kota Augsburg yang menjadi pencatat peristiwa-peristiwa yang terjadi pada awal
+[^42]: 42 Laporan ini diambil terutama dari catatan seorang dari kota Augsburg yang menjadi pencatat peristiwa-peristiwa yang terjadi pada awal
 abad keenam belas, Friedrich Roth, ed. Die Chronik von Clemens Sender, Die Chroniken der deutschen Stadte vom 14, bis ins 16, Jahrhundert, XXIII
 (Leipzig: Hirzel, 1894), 159, Gustav Uhlhorn, Urbanus Rhegius (Elberfeld, 1861), 62, menggunakan Sender dan juga notulen dari dewan kota untuk
 mencatat data yang sama. Van Braght mengikuti laporan-laporan martir yang sebelumnya dalam menggunakan nama-nama Hans Koch dan Leonhard
@@ -2011,11 +2011,11 @@ ME, III, 210, memutuskan dengan alasan yang tidak diterangkan, bahwa Kagen bukan
 lebih suka menggunakan nama tokoh yang disebutkan pertama itu dengan akhiran “r” daripada huruf “n”, tetapi ia tidak menyamakan orang itu sebagai
 Koch. Saya lebih memilih laporan yang sebelumnya.
 
-[^43]: The Chronicle, I, 54-55, Beck, 25-26.
+[^43]: 43 The Chronicle, I, 54-55, Beck, 25-26.
 
-[^44]: Rabus, II, 162 v.
+[^44]: 44 Rabus, II, 162 v.
 
-[^45]: Banyak orang Kristen mengikuti nasihat para pemimpin seperti Cyprianus, yang menasihati mereka agar melarikan diri dari penyiksaan. Penyiksaan
+[^45]: 45 Banyak orang Kristen mengikuti nasihat para pemimpin seperti Cyprianus, yang menasihati mereka agar melarikan diri dari penyiksaan. Penyiksaan
 akan terjadi pada waktunya, seperti yang terjadi pada Cyprianus sendiri. Penulis-penulis Kristen Eusebius yang di kemudian hari menjadi uskup Kaisare,
 dan Lactantius, keduanya adalah saksi mata dari beberapa peristiwa yang lebih mengerikan, telah memberi kita keterangan yang sangat jelas. Walaupun
 dibesar-besarkan, para ahli sejarah mendapatkan keterangan mereka dapat dipercaya sebab kekejaman pemerintah Roma pada umumnya sudah diketahui

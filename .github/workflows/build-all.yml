@@ -17,7 +17,9 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    container:
+      image: pandoc/latex:latest
+      
     environment:
       name: github-pages
       url: ${{ steps.deploy-pages.outputs.page_url }}
