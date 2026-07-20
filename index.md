@@ -56,11 +56,11 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 
 ---
 
-<a href="https://alkitabsaja.github.io/docs/?utm_source=dis" class="btn" target="_blank">
+<a href="https://alkitabsaja.github.io/ingatmati/?utm_source=dis" class="btn" target="_blank">
   <i class="bi bi-shield-plus"></i>
-  mirror: alkitabsaja.github.io
+  mirror: ingatmati.surge.sh
 </a>
-<a href="https://alkitabsaja.surge.sh/docs/?utm_source=dis" class="btn" target="_blank">
+<a href="https://alkitabsaja.github.io/docs/?utm_source=dis" class="btn" target="_blank">
   <i class="bi bi-shield-plus"></i>
   mirror: alkitabsaja.surge.sh
 </a>
