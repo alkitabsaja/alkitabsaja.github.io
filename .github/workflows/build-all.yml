@@ -12,7 +12,7 @@ on:
       - "_docs/**/*.md"
   workflow_dispatch:
   schedule:
-    - cron: "0 0 * * 5"
+    - cron: "0 2 * * *"
 
 jobs:
   build:
