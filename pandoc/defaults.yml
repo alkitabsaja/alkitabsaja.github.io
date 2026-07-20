@@ -6,8 +6,8 @@ toc: true
 pdf-engine: xelatex
 top-level-division: chapter
 
-include-in-header:
-  - latex/header.tex
+#include-in-header:
+#  - latex/header.tex
 
 variables:
   documentclass: book

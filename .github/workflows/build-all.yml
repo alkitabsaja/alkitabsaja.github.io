@@ -75,6 +75,7 @@ jobs:
               --defaults=pandoc/defaults.yml \
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
+              --include-in-header latex/header.tex \
               -o "ebooks/${out}.pdf"
 
             pandoc "$tmp" pandoc/footer.md \
