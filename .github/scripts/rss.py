@@ -13,7 +13,7 @@ SITE_LINK = "https://alkitabsaja.surge.sh/news/"
 SITE_DESCRIPTION = "Bagaimana Manusia Diselamatkan dari Neraka Kekal"
 
 FEEDS = {
-    "Keselamatan": "https://www.slamat.link/ingatmati/feed.xml",
+    "Keselamatan": "https://alkitabsaja.github.io/ingatmati/feed.xml",
     "Alkitabiah": "https://alkitabiah.org/tag/keselamatan/feed/",
     "Fundamentalis": "https://kristenfundamentalis.wordpress.com/keselamatan/feed",
     "YesusTuhan": "https://yesustuhan.wordpress.com/tag/keselamatan/feed/",
