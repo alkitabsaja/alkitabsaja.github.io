@@ -13,7 +13,7 @@ permalink: /search/
 <link rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/satellite-min.css">
 
-<script src="https://cdn.jsdelivr.net/npm/algoliasearch@5/dist/algoliasearch.umd.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
 
 <script>
