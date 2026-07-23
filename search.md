@@ -18,8 +18,7 @@ permalink: /search/
 <div id="ebooks-hits"></div>
 
 <link rel="stylesheet"
-      href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/satellite-min.css">
-
+      href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/reset-min.css">
 <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4"></script>
 
