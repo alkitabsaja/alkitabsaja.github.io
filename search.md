@@ -10,6 +10,8 @@ permalink: /search/
 
 <div id="hits"></div>
 
+<div id="pagination"></div>
+
 <link rel="stylesheet"
       href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/satellite-min.css">
 
