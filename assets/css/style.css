@@ -40,6 +40,9 @@ body {
     background: var(--bg);
     color: var(--text);
 }
+.ais-Hits:empty {
+    display: none;
+}
 .avatar {
     display: block;
     width: 180px;
