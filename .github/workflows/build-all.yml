@@ -76,7 +76,7 @@ jobs:
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
               --include-in-header latex/header.tex \
-              -V mainfont:"DejaVu Sans"
+              -V mainfont:"DejaVu Sans" \
               -o "ebooks/${out}.pdf"
 
             pandoc "$tmp" pandoc/footer.md \
