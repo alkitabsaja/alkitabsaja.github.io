@@ -58,6 +58,8 @@ jobs:
 
           mkdir -p ebooks
           shopt -s globstar nullglob
+          export pandoc="docker run --rm -v ${{ github.workspace }}:/pandoc pandoc/latex:latest"
+          echo $pandoc
 
           for src in _docs/**/*.md; do
             rel="${src#_docs/}"
@@ -71,14 +73,14 @@ jobs:
             tmp=$(mktemp)
             sed 's#](/assets/#](./assets/#g' "$src" > "$tmp"
 
-            pandoc "$tmp" pandoc/footer.md \
+            $pandoc "$tmp" pandoc/footer.md \
               --defaults=pandoc/defaults.yml \
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
               --include-in-header latex/header.tex \
               -o "ebooks/${out}.pdf"
 
-            pandoc "$tmp" pandoc/footer.md \
+            $pandoc "$tmp" pandoc/footer.md \
               --defaults=pandoc/defaults.yml \
               --metadata=date="$BUILD_DATE" \
               --metadata=revision="${GITHUB_SHA::7}" \
