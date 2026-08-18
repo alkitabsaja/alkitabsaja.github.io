@@ -14,8 +14,8 @@ variables:
   papersize: a5
   geometry: margin=10mm
   mainfont:"DejaVu Sans"
-  mainfontfallback:
-  - "FreeSans:"
+#  mainfontfallback:
+#  - "FreeSans:"
 #  - "NotoColorEmoji:mode=harf"
 
 metadata:
