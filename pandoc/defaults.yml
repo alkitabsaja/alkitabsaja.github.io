@@ -5,7 +5,6 @@ toc: true
 
 pdf-engine: xelatex
 top-level-division: chapter
-mainfont: DejaVu Sans
 
 #include-in-header:
 #  - latex/header.tex
