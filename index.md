@@ -5,7 +5,7 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 
 <div class="bio-wrap" markdown="1">
 
-<img src="/assets/images/alkitabsaja.png" class="avatar" alt="Avatar">
+<img src="/assets/images/alkitabsaja-hr.png" class="avatar" alt="Alkitab Saja Firman Tuhan Tanpa Salah">
 
 # {{ site.title }}
 
@@ -56,6 +56,10 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
 
 ---
 
+<a href="https://share.google/ZjfsKyqouqawr9vS7" class="btn" target="_blank">
+  <i class="bi bi-shield-plus"></i>
+  MatiKemana.com
+</a>
 <a href="https://alkitabsaja.github.io/ingatmati/?utm_source=dis" class="btn" target="_blank">
   <i class="bi bi-shield-plus"></i>
   mirror: ingatmati.surge.sh
