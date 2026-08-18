@@ -17,8 +17,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    container:
-      image: pandoc/extra:latest-ubuntu
+#    container:
+#      image: pandoc/extra:latest-ubuntu #ruby failed
       
     environment:
       name: github-pages
