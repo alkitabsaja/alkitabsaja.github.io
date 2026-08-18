@@ -42,7 +42,8 @@ jobs:
       - name: Install Pandoc + LaTeX + npm + pip
         run: |
           sudo apt-get update
-          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu #fonts-noto fonts-noto-color-emoji
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended fonts-dejavu 
+          #fonts-noto fonts-noto-color-emoji
           npm install -g surge pagefind
           npm list -g
           pagefind --version
@@ -50,7 +51,7 @@ jobs:
           pip list
           ruby -v
           bundle version
-          
+
       - name: Build RSS, PDFs & EPUBs
         shell: bash
         run: |
