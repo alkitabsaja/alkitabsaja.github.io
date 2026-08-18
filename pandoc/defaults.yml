@@ -13,7 +13,7 @@ variables:
   documentclass: book
   papersize: a5
   geometry: margin=10mm
-  mainfont:"DejaVu Sans"
+  mainfont: "DejaVu Sans"
 #  mainfontfallback:
 #  - "FreeSans:"
 #  - "NotoColorEmoji:mode=harf"
