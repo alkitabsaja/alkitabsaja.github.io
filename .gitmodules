@@ -1,0 +1,4 @@
+[submodule "assets/mt-tr"]
+	path = assets/mt-tr
+	url = https://github.com/dennyhalim/interlinear-bible.git
+	branch = db
