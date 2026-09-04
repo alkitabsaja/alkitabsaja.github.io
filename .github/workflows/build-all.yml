@@ -40,7 +40,7 @@ jobs:
           git submodule update --init --recursive --force || true
           git submodule status --recursive || true 
           git submodule foreach --recursive 'echo "---- $path ----"; git remote -v; git rev-parse --abbrev-ref HEAD || true' 
-          ls -la assets || true
+          ls -la assets/mt-tr || true
 
       - uses: ruby/setup-ruby@v1
         with:
