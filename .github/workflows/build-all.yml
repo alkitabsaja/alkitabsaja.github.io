@@ -25,9 +25,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          #fetch-depth: 0
-          #persist-credentials: true
+          fetch-depth: 0
+          persist-credentials: true
           submodules: recursive
+
+      - name: Debug submodules 
+        run: | 
+          git --version git submodule status --recursive || true 
+          git submodule foreach --recursive 'echo "---- $path ----"; git remote -v; git rev-parse --abbrev-ref HEAD || true' 
+          ls -la
 
       - uses: ruby/setup-ruby@v1
         with:
