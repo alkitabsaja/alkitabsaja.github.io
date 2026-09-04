@@ -31,9 +31,10 @@ jobs:
 
       - name: Debug submodules 
         run: | 
-          git --version git submodule status --recursive || true 
+          git --version 
+          git submodule status --recursive || true 
           git submodule foreach --recursive 'echo "---- $path ----"; git remote -v; git rev-parse --abbrev-ref HEAD || true' 
-          ls -la
+          ls -la assets
 
       - uses: ruby/setup-ruby@v1
         with:
