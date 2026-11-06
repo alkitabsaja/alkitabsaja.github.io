@@ -68,5 +68,10 @@ title: Alkitab Saja Kebenaran Mutlak Satu-satunya Firman TUHAN Tanpa Salah.
   <i class="bi bi-shield-plus"></i>
   mirror: alkitabsaja.surge.sh
 </a>
+<a href="https://archive.org/details/@alkitabiah_org/web-archive" class="btn" target="_blank">
+  <i class="bi bi-shield-plus"></i>
+  ARSIP WEB
+</a>
+
 
 </div>
